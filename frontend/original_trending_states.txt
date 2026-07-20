@@ -1,0 +1,245 @@
+Created At: 2026-07-02T10:41:13Z
+Completed At: 2026-07-02T10:41:13Z
+File Path: `file:///c:/Users/sarit/OneDrive/Desktop/guide/frontend/src/components/TrendingStates.jsx`
+Total Lines: 237
+Total Bytes: 11431
+Showing lines 1 to 237
+The following code has been modified to include a line number before every line, in the format: <line_number>: <original_line>. Please note that any changes targeting the original code should remove the line number, colon, and leading space.
+1: import { useState } from 'react';
+2: import { motion, AnimatePresence } from 'framer-motion';
+3: import { Search, Star, MapPin, Compass, ChevronRight, Navigation } from 'lucide-react';
+4: import { INDIAN_STATES } from '../data/mockData';
+5: import { Link } from 'react-router-dom';
+6: import { useApp } from '../context/AppContext';
+7: 
+8: export default function TrendingStates() {
+9:   const [searchQuery, setSearchQuery] = useState('');
+10:   const { setSearchQuery: setGlobalSearch } = useApp();
+11: 
+12:   const filteredStates = INDIAN_STATES.filter(state => 
+13:     state.name.toLowerCase().includes(searchQuery.toLowerCase()) ||
+14:     state.tagline.toLowerCase().includes(searchQuery.toLowerCase()) ||
+15:     state.attractions.some(attr => attr.toLowerCase().includes(searchQuery.toLowerCase()))
+16:   );
+17: 
+18:   const containerVariants = {
+19:     hidden: { opacity: 0 },
+20:     visible: { 
+21:       opacity: 1,
+22:       transition: { staggerChildren: 0.1 }
+23:     }
+24:   };
+25: 
+26:   const itemVariants = {
+27:     hidden: { opacity: 0, y: 30 },
+28:     visible: { opacity: 1, y: 0, transition: { duration: 0.5, ease: 'easeOut' } }
+29:   };
+30: 
+31:   return (
+32:     <section className="container" style={{ marginTop: '6rem', position: 'relative' }}>
+33:       
+34:       {/* Sticky Header & Search */}
+35:       <div 
+36:         style={{ 
+37:           position: 'sticky', 
+38:           top: '80px', 
+39:           zIndex: 40, 
+40:           background: 'rgba(248, 250, 252, 0.9)', 
+41:           backdropFilter: 'blur(12px)',
+42:           paddingBottom: '1.5rem',
+43:           paddingTop: '1rem',
+44:           marginBottom: '2rem',
+45:           borderBottom: '1px solid rgba(0,0,0,0.05)'
+46:         }}
+47:       >
+48:         <div className="flex flex-col md:flex-row items-start md:items-end justify-between gap-4">
+49:           <div>
+50:             <h2 className="h2" style={{ marginBottom: '0.25rem', fontSize: '2.5rem', letterSpacing: '-0.02em' }}>Trending Destinations</h2>
+51:             <p className="text-muted" style={{ fontSize: '1.1rem' }}>Discover the incredible diversity of India across all 28 states.</p>
+52:           </div>
+53:           
+54:           <div style={{ position: 'relative', width: '100%', maxWidth: '400px' }}>
+55:             <div style={{ position: 'absolute', top: '50%', left: '1.25rem', transform: 'translateY(-50%)', color: 'var(--color-primary)' }}>
+56:               <Search size={20} />
+57:             </div>
+58:             <input 
+59:               type="text" 
+60:               className="form-input" 
+61:               placeholder="Search states, taglines or attractions..." 
+62:               value={searchQuery}
+63:               onChange={(e) => setSearchQuery(e.target.value)}
+64:               style={{ 
+65:                 paddingLeft: '3.2rem', 
+66:                 paddingRight: '1.5rem',
+67:                 height: '3.5rem',
+68:                 fontSize: '1rem',
+69:                 borderRadius: '99px',
+70:                 backgroundColor: 'white',
+71:                 boxShadow: '0 4px 20px rgba(0,0,0,0.05)',
+72:                 border: '1px solid rgba(13, 148, 136, 0.2)',
+73:                 transition: 'all 0.3s ease'
+74:               }} 
+75:               onFocus={e => {
+76:                 e.target.style.boxShadow = '0 8px 30px rgba(13, 148, 136, 0.15)';
+77:                 e.target.style.borderColor = 'var(--color-primary)';
+78:               }}
+79:               onBlur={e => {
+80:                 e.target.style.boxShadow = '0 4px 20px rgba(0,0,0,0.05)';
+81:                 e.target.style.borderColor = 'rgba(13, 148, 136, 0.2)';
+82:               }}
+83:             />
+84:           </div>
+85:         </div>
+86:       </div>
+87: 
+88:       <AnimatePresence mode="wait">
+89:         {filteredStates.length === 0 ? (
+90:           <motion.div 
+91:             key="empty"
+92:             initial={{ opacity: 0, y: 20 }}
+93:             animate={{ opacity: 1, y: 0 }}
+94:             exit={{ opacity: 0, y: -20 }}
+95:             style={{ padding: '6rem 2rem', textAlign: 'center', background: 'white', borderRadius: '1.5rem', border: '1px dashed var(--color-border)', boxShadow: 'var(--shadow-sm)' }}
+96:           >
+97:             <Search size={48} color="var(--color-text-light)" style={{ margin: '0 auto 1.5rem', opacity: 0.5 }} />
+98:             <h3 style={{ fontSize: '1.5rem', fontWeight: 700, color: 'var(--color-text-main)', marginBottom: '0.5rem' }}>No states found</h3>
+99:             <p style={{ fontSize: '1.1rem', color: 'var(--color-text-muted)' }}>We couldn't find any destinations matching "{searchQuery}".</p>
+100:             <button onClick={() => setSearchQuery('')} className="btn btn-outline" style={{ marginTop: '1.5rem', borderRadius: '99px', padding: '0.75rem 2rem' }}>Clear Search</button>
+101:           </motion.div>
+102:         ) : (
+103:           <motion.div 
+104:             key="grid"
+105:             className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6"
+106:             variants={containerVariants} 
+107:             initial="hidden" 
+108:             whileInView="visible" 
+109:             viewport={{ once: true, margin: "100px" }}
+110:           >
+111:             {filteredStates.map((state) => (
+112:               <motion.div key={state.name} variants={itemVariants}>
+113:                 <div 
+114:                   className="state-card"
+115:                   style={{ 
+116:                     borderRadius: '1.5rem', 
+117:                     overflow: 'hidden', 
+118:                     backgroundColor: '#1E293B',
+119:                     boxShadow: '0 10px 30px -10px rgba(0,0,0,0.2)',
+120:                     transition: 'all 0.4s cubic-bezier(0.4, 0, 0.2, 1)',
+121:                     position: 'relative',
+122:                     display: 'flex',
+123:                     flexDirection: 'column',
+124:                     justifyContent: 'flex-end',
+125:                     height: '420px',
+126:                     cursor: 'pointer'
+127:                   }}
+128:                   onMouseOver={e => {
+129:                     e.currentTarget.style.transform = 'translateY(-10px)';
+130:                     e.currentTarget.style.boxShadow = '0 20px 40px -10px rgba(0,0,0,0.3)';
+131:                     e.currentTarget.querySelector('.bg-img').style.transform = 'scale(1.1)';
+132:                     e.currentTarget.querySelector('.explore-btn').style.transform = 'scale(1.02)';
+133:                   }}
+134:                   onMouseOut={e => {
+135:                     e.currentTarget.style.transform = 'translateY(0)';
+136:                     e.currentTarget.style.boxShadow = '0 10px 30px -10px rgba(0,0,0,0.2)';
+137:                     e.currentTarget.querySelector('.bg-img').style.transform = 'scale(1)';
+138:                     e.currentTarget.querySelector('.explore-btn').style.transform = 'scale(1)';
+139:                   }}
+140:                 >
+141:                   {/* Background Image */}
+142:                   <img 
+143:                     className="bg-img"
+144:                     src={state.image} 
+145:                     alt={state.name} 
+146:                     loading="lazy"
+147:                     style={{ 
+148:                       position: 'absolute',
+149:                       inset: 0,
+150:                       width: '100%', 
+151:                       height: '100%', 
+152:                       objectFit: 'cover', 
+153:                       transition: 'transform 0.7s cubic-bezier(0.4, 0, 0.2, 1)',
+154:                       zIndex: 1
+155:                     }} 
+156:                   />
+157:                   
+158:                   {/* Dark Gradient Overlay */}
+159:                   <div style={{ 
+160:                     position: 'absolute', 
+161:                     inset: 0, 
+162:                     background: 'linear-gradient(to bottom, rgba(15,23,42,0.1) 0%, rgba(15,23,42,0.4) 40%, rgba(15,23,42,0.95) 100%)',
+163:                     zIndex: 2
+164:                   }} />
+165: 
+166:                   {/* Rating Badge - Top Right */}
+167:                   <div style={{ position: 'absolute', top: '1.25rem', right: '1.25rem', zIndex: 10, background: 'rgba(0,0,0,0.4)', backdropFilter: 'blur(8px)', padding: '0.4rem 0.75rem', borderRadius: '99px', display: 'flex', alignItems: 'center', gap: '0.25rem', fontSize: '0.85rem', fontWeight: 700, color: 'white', border: '1px solid rgba(255,255,255,0.15)' }}>
+168:                     <Star size={14} fill="#FCD34D" color="#FCD34D" /> {state.rating.toFixed(1)}
+169:                   </div>
+170: 
+171:                   {/* Content Section */}
+172:                   <div style={{ position: 'relative', zIndex: 10, padding: '1.5rem', display: 'flex', flexDirection: 'column', width: '100%' }}>
+173:                     
+174:                     <h3 style={{ fontSize: '1.5rem', fontWeight: 800, color: 'white', marginBottom: '0.25rem', letterSpacing: '-0.02em', display: 'flex', alignItems: 'center', gap: '0.4rem' }}>
+175:                       <MapPin size={22} color="var(--color-primary)" /> {state.name}
+176:                     </h3>
+177:                     
+178:                     <p style={{ fontSize: '0.95rem', color: '#94A3B8', fontWeight: 600, fontStyle: 'italic', marginBottom: '1rem', paddingLeft: '1.9rem' }}>
+179:                       "{state.tagline}"
+180:                     </p>
+181:                     
+182:                     <div style={{ display: 'flex', alignItems: 'flex-start', gap: '0.5rem', marginBottom: '0.75rem', color: '#E2E8F0' }}>
+183:                       <Navigation size={16} style={{ flexShrink: 0, marginTop: '0.1rem', opacity: 0.7 }} />
+184:                       <p style={{ fontSize: '0.85rem', lineHeight: 1.5 }}>
+185:                         <span style={{ fontWeight: 600, color: 'white' }}>Top:</span> {state.attractions.join(', ')}
+186:                       </p>
+187:                     </div>
+188: 
+189:                     <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', marginBottom: '1.5rem', color: '#CBD5E1' }}>
+190:                       <Compass size={16} style={{ opacity: 0.7 }} />
+191:                       <span style={{ fontSize: '0.85rem', fontWeight: 500 }}>
+192:                         {state.placesCount}+ Popular Places
+193:                       </span>
+194:                     </div>
+195: 
+196:                     <Link 
+197:                       to={`/search?location=${encodeURIComponent(state.name)}`}
+198:                       onClick={() => setGlobalSearch({ location: state.name, dates: '', guests: '' })}
+199:                       className="explore-btn"
+200:                       style={{ 
+201:                         width: '100%',
+202:                         padding: '0.875rem',
+203:                         fontSize: '1rem', 
+204:                         fontWeight: 700, 
+205:                         color: 'white', 
+206:                         display: 'flex', 
+207:                         alignItems: 'center', 
+208:                         justifyContent: 'center',
+209:                         gap: '0.4rem',
+210:                         background: 'linear-gradient(135deg, var(--color-primary) 0%, #059669 100%)',
+211:                         borderRadius: '1rem',
+212:                         boxShadow: '0 4px 15px rgba(13, 148, 136, 0.3)',
+213:                         transition: 'all 0.3s cubic-bezier(0.4, 0, 0.2, 1)',
+214:                         textDecoration: 'none'
+215:                       }}
+216:                       onMouseOver={e => {
+217:                         e.currentTarget.style.boxShadow = '0 8px 25px rgba(13, 148, 136, 0.5)';
+218:                         e.currentTarget.style.background = 'linear-gradient(135deg, #0F766E 0%, #047857 100%)';
+219:                       }}
+220:                       onMouseOut={e => {
+221:                         e.currentTarget.style.boxShadow = '0 4px 15px rgba(13, 148, 136, 0.3)';
+222:                         e.currentTarget.style.background = 'linear-gradient(135deg, var(--color-primary) 0%, #059669 100%)';
+223:                       }}
+224:                     >
+225:                       Explore Now <ChevronRight size={18} />
+226:                     </Link>
+227:                   </div>
+228:                 </div>
+229:               </motion.div>
+230:             ))}
+231:           </motion.div>
+232:         )}
+233:       </AnimatePresence>
+234:     </section>
+235:   );
+236: }
+237: 
+The above content shows the entire, complete file contents of the requested file.

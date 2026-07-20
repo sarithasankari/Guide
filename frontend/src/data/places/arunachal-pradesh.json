@@ -1,0 +1,466 @@
+[
+  {
+    "id": 9,
+    "stateId": 2,
+    "stateSlug": "arunachal-pradesh",
+    "slug": "itanagar-city-center",
+    "name": "Itanagar City Center",
+    "district": "Itanagar District",
+    "city": "Itanagar",
+    "category": "Heritage",
+    "rating": "4.9",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/11/Guwahati_citysky.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/1/11/Guwahati_citysky.jpg",
+      "https://images.unsplash.com/photo-photo-1598466632420-53896b05be5a?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1605634599723-5e92be167d4b?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning heritage located in the heart of Arunachal Pradesh, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Itanagar City Center is one of the most prominent tourist attractions in Arunachal Pradesh. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Itanagar City Center dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to April",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Itanagar, Arunachal Pradesh, India",
+    "latitude": "19.9099",
+    "longitude": "82.7704",
+    "googleMapsUrl": "https://maps.google.com/?q=Itanagar+City+Center",
+    "nearbyHotels": [
+      "The Grand Arunachal Pradesh",
+      "Heritage Stay Itanagar"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Thukpa House",
+      "Cafe Arunachal Pradesh"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.arunachal-pradesh.gov.in"
+  },
+  {
+    "id": 10,
+    "stateId": 2,
+    "stateSlug": "arunachal-pradesh",
+    "slug": "historic-fort-of-itanagar",
+    "name": "Historic Fort of Itanagar",
+    "district": "Itanagar District",
+    "city": "Itanagar",
+    "category": "Heritage",
+    "rating": "4.2",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Itafort_South_gate.png",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/e/ec/Itafort_South_gate.png",
+      "https://images.unsplash.com/photo-photo-1582294025176-58c5f949c289?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1596700682283-7a91a9f993d3?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning heritage located in the heart of Arunachal Pradesh, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Historic Fort of Itanagar is one of the most prominent tourist attractions in Arunachal Pradesh. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Historic Fort of Itanagar dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to April",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Itanagar, Arunachal Pradesh, India",
+    "latitude": "23.7643",
+    "longitude": "79.6845",
+    "googleMapsUrl": "https://maps.google.com/?q=Historic+Fort+of+Itanagar",
+    "nearbyHotels": [
+      "The Grand Arunachal Pradesh",
+      "Heritage Stay Itanagar"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Thukpa House",
+      "Cafe Arunachal Pradesh"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.arunachal-pradesh.gov.in"
+  },
+  {
+    "id": 11,
+    "stateId": 2,
+    "stateSlug": "arunachal-pradesh",
+    "slug": "arunachal-pradesh-state-museum",
+    "name": "Arunachal Pradesh State Museum",
+    "district": "Itanagar District",
+    "city": "Itanagar",
+    "category": "Monument",
+    "rating": "4.8",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/56/Jawaharlal_Nehru_Museum.JPG",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/5/56/Jawaharlal_Nehru_Museum.JPG",
+      "https://images.unsplash.com/photo-photo-1596700683050-2f9547d7c672?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1582294025176-58c5f949c289?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning monument located in the heart of Arunachal Pradesh, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Arunachal Pradesh State Museum is one of the most prominent tourist attractions in Arunachal Pradesh. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Arunachal Pradesh State Museum dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to April",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Itanagar, Arunachal Pradesh, India",
+    "latitude": "16.9719",
+    "longitude": "79.2693",
+    "googleMapsUrl": "https://maps.google.com/?q=Arunachal+Pradesh+State+Museum",
+    "nearbyHotels": [
+      "The Grand Arunachal Pradesh",
+      "Heritage Stay Itanagar"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Thukpa House",
+      "Cafe Arunachal Pradesh"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.arunachal-pradesh.gov.in"
+  },
+  {
+    "id": 12,
+    "stateId": 2,
+    "stateSlug": "arunachal-pradesh",
+    "slug": "sacred-temple-of-arunachal-pradesh",
+    "name": "Sacred Temple of Arunachal Pradesh",
+    "district": "Itanagar District",
+    "city": "Itanagar",
+    "category": "Wildlife",
+    "rating": "4.2",
+    "image": "https://images.unsplash.com/photo-photo-1588725832729-19ec4f4d2f09?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-photo-1588725832729-19ec4f4d2f09?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1582510003544-4d00b7f7415e?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1600329976378-01362e584988?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning wildlife located in the heart of Arunachal Pradesh, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Sacred Temple of Arunachal Pradesh is one of the most prominent tourist attractions in Arunachal Pradesh. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Sacred Temple of Arunachal Pradesh dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to April",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Itanagar, Arunachal Pradesh, India",
+    "latitude": "22.2228",
+    "longitude": "75.9150",
+    "googleMapsUrl": "https://maps.google.com/?q=Sacred+Temple+of+Arunachal+Pradesh",
+    "nearbyHotels": [
+      "The Grand Arunachal Pradesh",
+      "Heritage Stay Itanagar"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Thukpa House",
+      "Cafe Arunachal Pradesh"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.arunachal-pradesh.gov.in"
+  },
+  {
+    "id": 13,
+    "stateId": 2,
+    "stateSlug": "arunachal-pradesh",
+    "slug": "arunachal-pradesh-wildlife-sanctuary",
+    "name": "Arunachal Pradesh Wildlife Sanctuary",
+    "district": "Itanagar District",
+    "city": "Itanagar",
+    "category": "Monument",
+    "rating": "4.6",
+    "image": "https://images.unsplash.com/photo-photo-1596700681577-fb1ffdbcd9bc?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-photo-1596700681577-fb1ffdbcd9bc?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1589136128038-d6c547805177?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1585250462060-155e8840c8fa?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning monument located in the heart of Arunachal Pradesh, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Arunachal Pradesh Wildlife Sanctuary is one of the most prominent tourist attractions in Arunachal Pradesh. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Arunachal Pradesh Wildlife Sanctuary dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to April",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Itanagar, Arunachal Pradesh, India",
+    "latitude": "23.9179",
+    "longitude": "79.5206",
+    "googleMapsUrl": "https://maps.google.com/?q=Arunachal+Pradesh+Wildlife+Sanctuary",
+    "nearbyHotels": [
+      "The Grand Arunachal Pradesh",
+      "Heritage Stay Itanagar"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Thukpa House",
+      "Cafe Arunachal Pradesh"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.arunachal-pradesh.gov.in"
+  },
+  {
+    "id": 14,
+    "stateId": 2,
+    "stateSlug": "arunachal-pradesh",
+    "slug": "arunachal-pradesh-botanical-gardens",
+    "name": "Arunachal Pradesh Botanical Gardens",
+    "district": "Itanagar District",
+    "city": "Itanagar",
+    "category": "UNESCO",
+    "rating": "4.6",
+    "image": "https://images.unsplash.com/photo-photo-1617415440798-2510b64be16a?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-photo-1617415440798-2510b64be16a?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1602216056096-3b40cc0c9944?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1600100397608-f010f41cb8ea?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning unesco located in the heart of Arunachal Pradesh, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Arunachal Pradesh Botanical Gardens is one of the most prominent tourist attractions in Arunachal Pradesh. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Arunachal Pradesh Botanical Gardens dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to April",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Itanagar, Arunachal Pradesh, India",
+    "latitude": "20.3573",
+    "longitude": "78.6376",
+    "googleMapsUrl": "https://maps.google.com/?q=Arunachal+Pradesh+Botanical+Gardens",
+    "nearbyHotels": [
+      "The Grand Arunachal Pradesh",
+      "Heritage Stay Itanagar"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Thukpa House",
+      "Cafe Arunachal Pradesh"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.arunachal-pradesh.gov.in"
+  },
+  {
+    "id": 15,
+    "stateId": 2,
+    "stateSlug": "arunachal-pradesh",
+    "slug": "grand-palace-of-arunachal-pradesh",
+    "name": "Grand Palace of Arunachal Pradesh",
+    "district": "Itanagar District",
+    "city": "Itanagar",
+    "category": "Island",
+    "rating": "4.7",
+    "image": "https://images.unsplash.com/photo-photo-1599661046289-e31897846e41?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-photo-1599661046289-e31897846e41?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1585250462060-155e8840c8fa?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1589136128038-d6c547805177?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning island located in the heart of Arunachal Pradesh, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Grand Palace of Arunachal Pradesh is one of the most prominent tourist attractions in Arunachal Pradesh. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Grand Palace of Arunachal Pradesh dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to April",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Itanagar, Arunachal Pradesh, India",
+    "latitude": "21.1268",
+    "longitude": "82.7528",
+    "googleMapsUrl": "https://maps.google.com/?q=Grand+Palace+of+Arunachal+Pradesh",
+    "nearbyHotels": [
+      "The Grand Arunachal Pradesh",
+      "Heritage Stay Itanagar"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Thukpa House",
+      "Cafe Arunachal Pradesh"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.arunachal-pradesh.gov.in"
+  },
+  {
+    "id": 16,
+    "stateId": 2,
+    "stateSlug": "arunachal-pradesh",
+    "slug": "beautiful-lake-of-arunachal-pradesh",
+    "name": "Beautiful Lake of Arunachal Pradesh",
+    "district": "Itanagar District",
+    "city": "Itanagar",
+    "category": "Fort",
+    "rating": "4.8",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/71/Donyi_Polo_Airport%2C_Itanagar.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/7/71/Donyi_Polo_Airport%2C_Itanagar.jpg",
+      "https://images.unsplash.com/photo-photo-1600329976378-01362e584988?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1582510003544-4d00b7f7415e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning fort located in the heart of Arunachal Pradesh, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Beautiful Lake of Arunachal Pradesh is one of the most prominent tourist attractions in Arunachal Pradesh. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Beautiful Lake of Arunachal Pradesh dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to April",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Itanagar, Arunachal Pradesh, India",
+    "latitude": "19.0104",
+    "longitude": "79.2921",
+    "googleMapsUrl": "https://maps.google.com/?q=Beautiful+Lake+of+Arunachal+Pradesh",
+    "nearbyHotels": [
+      "The Grand Arunachal Pradesh",
+      "Heritage Stay Itanagar"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Thukpa House",
+      "Cafe Arunachal Pradesh"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.arunachal-pradesh.gov.in"
+  }
+]

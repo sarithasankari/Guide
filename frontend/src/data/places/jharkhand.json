@@ -1,0 +1,466 @@
+[
+  {
+    "id": 69,
+    "stateId": 10,
+    "stateSlug": "jharkhand",
+    "slug": "ranchi-city-center",
+    "name": "Ranchi City Center",
+    "district": "Ranchi District",
+    "city": "Ranchi",
+    "category": "Palace",
+    "rating": "4.7",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Ranchi_Cityscape.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/d/d6/Ranchi_Cityscape.jpg",
+      "https://images.unsplash.com/photo-photo-1548013146-72479768bada?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1600329976378-01362e584988?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning palace located in the heart of Jharkhand, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Ranchi City Center is one of the most prominent tourist attractions in Jharkhand. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Ranchi City Center dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Ranchi, Jharkhand, India",
+    "latitude": "22.0262",
+    "longitude": "78.6955",
+    "googleMapsUrl": "https://maps.google.com/?q=Ranchi+City+Center",
+    "nearbyHotels": [
+      "The Grand Jharkhand",
+      "Heritage Stay Ranchi"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Dhuska House",
+      "Cafe Jharkhand"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.jharkhand.gov.in"
+  },
+  {
+    "id": 70,
+    "stateId": 10,
+    "stateSlug": "jharkhand",
+    "slug": "historic-fort-of-ranchi",
+    "name": "Historic Fort of Ranchi",
+    "district": "Ranchi District",
+    "city": "Ranchi",
+    "category": "Heritage",
+    "rating": "4.9",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Views_of_Shikharji_on_way_to_Anantnatha_Tonk_3.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/b/b2/Views_of_Shikharji_on_way_to_Anantnatha_Tonk_3.jpg",
+      "https://images.unsplash.com/photo-photo-1582294025176-58c5f949c289?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1596700682283-7a91a9f993d3?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning heritage located in the heart of Jharkhand, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Historic Fort of Ranchi is one of the most prominent tourist attractions in Jharkhand. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Historic Fort of Ranchi dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Ranchi, Jharkhand, India",
+    "latitude": "24.7481",
+    "longitude": "77.5474",
+    "googleMapsUrl": "https://maps.google.com/?q=Historic+Fort+of+Ranchi",
+    "nearbyHotels": [
+      "The Grand Jharkhand",
+      "Heritage Stay Ranchi"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Dhuska House",
+      "Cafe Jharkhand"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.jharkhand.gov.in"
+  },
+  {
+    "id": 71,
+    "stateId": 10,
+    "stateSlug": "jharkhand",
+    "slug": "jharkhand-state-museum",
+    "name": "Jharkhand State Museum",
+    "district": "Ranchi District",
+    "city": "Ranchi",
+    "category": "UNESCO",
+    "rating": "4.3",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Views_of_Shikharji_on_way_to_Anantnatha_Tonk_3.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/b/b2/Views_of_Shikharji_on_way_to_Anantnatha_Tonk_3.jpg",
+      "https://images.unsplash.com/photo-photo-1596700682283-7a91a9f993d3?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1596700681577-fb1ffdbcd9bc?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning unesco located in the heart of Jharkhand, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Jharkhand State Museum is one of the most prominent tourist attractions in Jharkhand. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Jharkhand State Museum dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Ranchi, Jharkhand, India",
+    "latitude": "19.2314",
+    "longitude": "78.3738",
+    "googleMapsUrl": "https://maps.google.com/?q=Jharkhand+State+Museum",
+    "nearbyHotels": [
+      "The Grand Jharkhand",
+      "Heritage Stay Ranchi"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Dhuska House",
+      "Cafe Jharkhand"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.jharkhand.gov.in"
+  },
+  {
+    "id": 72,
+    "stateId": 10,
+    "stateSlug": "jharkhand",
+    "slug": "sacred-temple-of-jharkhand",
+    "name": "Sacred Temple of Jharkhand",
+    "district": "Ranchi District",
+    "city": "Ranchi",
+    "category": "City",
+    "rating": "4.8",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Baba_Baidyanath_Jyotirlinga_Temple.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/9/90/Baba_Baidyanath_Jyotirlinga_Temple.jpg",
+      "https://images.unsplash.com/photo-photo-1600100397608-f010f41cb8ea?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1602216056096-3b40cc0c9944?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning city located in the heart of Jharkhand, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Sacred Temple of Jharkhand is one of the most prominent tourist attractions in Jharkhand. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Sacred Temple of Jharkhand dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Ranchi, Jharkhand, India",
+    "latitude": "18.5213",
+    "longitude": "78.8002",
+    "googleMapsUrl": "https://maps.google.com/?q=Sacred+Temple+of+Jharkhand",
+    "nearbyHotels": [
+      "The Grand Jharkhand",
+      "Heritage Stay Ranchi"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Dhuska House",
+      "Cafe Jharkhand"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.jharkhand.gov.in"
+  },
+  {
+    "id": 73,
+    "stateId": 10,
+    "stateSlug": "jharkhand",
+    "slug": "jharkhand-wildlife-sanctuary",
+    "name": "Jharkhand Wildlife Sanctuary",
+    "district": "Ranchi District",
+    "city": "Ranchi",
+    "category": "Pilgrimage",
+    "rating": "4.3",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Wild_Abode.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/6/6c/Wild_Abode.jpg",
+      "https://images.unsplash.com/photo-photo-1596700683050-2f9547d7c672?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1582294025176-58c5f949c289?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning pilgrimage located in the heart of Jharkhand, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Jharkhand Wildlife Sanctuary is one of the most prominent tourist attractions in Jharkhand. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Jharkhand Wildlife Sanctuary dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Ranchi, Jharkhand, India",
+    "latitude": "22.6235",
+    "longitude": "80.9326",
+    "googleMapsUrl": "https://maps.google.com/?q=Jharkhand+Wildlife+Sanctuary",
+    "nearbyHotels": [
+      "The Grand Jharkhand",
+      "Heritage Stay Ranchi"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Dhuska House",
+      "Cafe Jharkhand"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.jharkhand.gov.in"
+  },
+  {
+    "id": 74,
+    "stateId": 10,
+    "stateSlug": "jharkhand",
+    "slug": "jharkhand-botanical-gardens",
+    "name": "Jharkhand Botanical Gardens",
+    "district": "Ranchi District",
+    "city": "Ranchi",
+    "category": "Temple",
+    "rating": "4.9",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1f/When_the_big_cat_turned_to_my_camera%21.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/1/1f/When_the_big_cat_turned_to_my_camera%21.jpg",
+      "https://images.unsplash.com/photo-photo-1548013146-72479768bada?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1600329976378-01362e584988?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning temple located in the heart of Jharkhand, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Jharkhand Botanical Gardens is one of the most prominent tourist attractions in Jharkhand. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Jharkhand Botanical Gardens dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Ranchi, Jharkhand, India",
+    "latitude": "24.7850",
+    "longitude": "80.1105",
+    "googleMapsUrl": "https://maps.google.com/?q=Jharkhand+Botanical+Gardens",
+    "nearbyHotels": [
+      "The Grand Jharkhand",
+      "Heritage Stay Ranchi"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Dhuska House",
+      "Cafe Jharkhand"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.jharkhand.gov.in"
+  },
+  {
+    "id": 75,
+    "stateId": 10,
+    "stateSlug": "jharkhand",
+    "slug": "grand-palace-of-jharkhand",
+    "name": "Grand Palace of Jharkhand",
+    "district": "Ranchi District",
+    "city": "Ranchi",
+    "category": "Island",
+    "rating": "4.3",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Jhanda_Chowk_Jhumri_Telaiya.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/5/5c/Jhanda_Chowk_Jhumri_Telaiya.jpg",
+      "https://images.unsplash.com/photo-photo-1605634599723-5e92be167d4b?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1624898322883-99fc286b772f?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning island located in the heart of Jharkhand, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Grand Palace of Jharkhand is one of the most prominent tourist attractions in Jharkhand. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Grand Palace of Jharkhand dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Ranchi, Jharkhand, India",
+    "latitude": "16.6089",
+    "longitude": "73.4723",
+    "googleMapsUrl": "https://maps.google.com/?q=Grand+Palace+of+Jharkhand",
+    "nearbyHotels": [
+      "The Grand Jharkhand",
+      "Heritage Stay Ranchi"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Dhuska House",
+      "Cafe Jharkhand"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.jharkhand.gov.in"
+  },
+  {
+    "id": 76,
+    "stateId": 10,
+    "stateSlug": "jharkhand",
+    "slug": "beautiful-lake-of-jharkhand",
+    "name": "Beautiful Lake of Jharkhand",
+    "district": "Ranchi District",
+    "city": "Ranchi",
+    "category": "Fort",
+    "rating": "4.7",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Baba_Baidyanath_Jyotirlinga_Temple.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/9/90/Baba_Baidyanath_Jyotirlinga_Temple.jpg",
+      "https://images.unsplash.com/photo-photo-1582294025176-58c5f949c289?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1596700682283-7a91a9f993d3?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning fort located in the heart of Jharkhand, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Beautiful Lake of Jharkhand is one of the most prominent tourist attractions in Jharkhand. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Beautiful Lake of Jharkhand dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Ranchi, Jharkhand, India",
+    "latitude": "19.4641",
+    "longitude": "74.3829",
+    "googleMapsUrl": "https://maps.google.com/?q=Beautiful+Lake+of+Jharkhand",
+    "nearbyHotels": [
+      "The Grand Jharkhand",
+      "Heritage Stay Ranchi"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Dhuska House",
+      "Cafe Jharkhand"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.jharkhand.gov.in"
+  }
+]

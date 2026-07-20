@@ -1,0 +1,466 @@
+[
+  {
+    "id": 139,
+    "stateId": 19,
+    "stateSlug": "odisha",
+    "slug": "bhubaneswar-city-center",
+    "name": "Bhubaneswar City Center",
+    "district": "Bhubaneswar District",
+    "city": "Bhubaneswar",
+    "category": "Museum",
+    "rating": "4.6",
+    "image": "https://images.unsplash.com/photo-photo-1602715690326-f7bcdafa41c0?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-photo-1602715690326-f7bcdafa41c0?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1512343879784-a960bf40e7f2?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1598466632420-53896b05be5a?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning museum located in the heart of Odisha, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Bhubaneswar City Center is one of the most prominent tourist attractions in Odisha. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Bhubaneswar City Center dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Bhubaneswar, Odisha, India",
+    "latitude": "20.5911",
+    "longitude": "77.2642",
+    "googleMapsUrl": "https://maps.google.com/?q=Bhubaneswar+City+Center",
+    "nearbyHotels": [
+      "The Grand Odisha",
+      "Heritage Stay Bhubaneswar"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Dalma House",
+      "Cafe Odisha"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.odisha.gov.in"
+  },
+  {
+    "id": 140,
+    "stateId": 19,
+    "stateSlug": "odisha",
+    "slug": "historic-fort-of-bhubaneswar",
+    "name": "Historic Fort of Bhubaneswar",
+    "district": "Bhubaneswar District",
+    "city": "Bhubaneswar",
+    "category": "Heritage",
+    "rating": "4.9",
+    "image": "https://images.unsplash.com/photo-photo-1582294025176-58c5f949c289?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-photo-1582294025176-58c5f949c289?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1596700683050-2f9547d7c672?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1570168007204-dfb528c6958f?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning heritage located in the heart of Odisha, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Historic Fort of Bhubaneswar is one of the most prominent tourist attractions in Odisha. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Historic Fort of Bhubaneswar dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Bhubaneswar, Odisha, India",
+    "latitude": "20.3097",
+    "longitude": "77.4036",
+    "googleMapsUrl": "https://maps.google.com/?q=Historic+Fort+of+Bhubaneswar",
+    "nearbyHotels": [
+      "The Grand Odisha",
+      "Heritage Stay Bhubaneswar"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Dalma House",
+      "Cafe Odisha"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.odisha.gov.in"
+  },
+  {
+    "id": 141,
+    "stateId": 19,
+    "stateSlug": "odisha",
+    "slug": "odisha-state-museum",
+    "name": "Odisha State Museum",
+    "district": "Bhubaneswar District",
+    "city": "Bhubaneswar",
+    "category": "Beach",
+    "rating": "4.3",
+    "image": "https://images.unsplash.com/photo-photo-1563200773-1081387d3a0c?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-photo-1563200773-1081387d3a0c?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1624898322883-99fc286b772f?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1605634599723-5e92be167d4b?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning beach located in the heart of Odisha, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Odisha State Museum is one of the most prominent tourist attractions in Odisha. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Odisha State Museum dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Bhubaneswar, Odisha, India",
+    "latitude": "23.2550",
+    "longitude": "73.5653",
+    "googleMapsUrl": "https://maps.google.com/?q=Odisha+State+Museum",
+    "nearbyHotels": [
+      "The Grand Odisha",
+      "Heritage Stay Bhubaneswar"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Dalma House",
+      "Cafe Odisha"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.odisha.gov.in"
+  },
+  {
+    "id": 142,
+    "stateId": 19,
+    "stateSlug": "odisha",
+    "slug": "sacred-temple-of-odisha",
+    "name": "Sacred Temple of Odisha",
+    "district": "Bhubaneswar District",
+    "city": "Bhubaneswar",
+    "category": "City",
+    "rating": "4.9",
+    "image": "https://images.unsplash.com/photo-photo-1599661046289-e31897846e41?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-photo-1599661046289-e31897846e41?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1585250462060-155e8840c8fa?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1589136128038-d6c547805177?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning city located in the heart of Odisha, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Sacred Temple of Odisha is one of the most prominent tourist attractions in Odisha. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Sacred Temple of Odisha dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Bhubaneswar, Odisha, India",
+    "latitude": "18.2295",
+    "longitude": "80.0617",
+    "googleMapsUrl": "https://maps.google.com/?q=Sacred+Temple+of+Odisha",
+    "nearbyHotels": [
+      "The Grand Odisha",
+      "Heritage Stay Bhubaneswar"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Dalma House",
+      "Cafe Odisha"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.odisha.gov.in"
+  },
+  {
+    "id": 143,
+    "stateId": 19,
+    "stateSlug": "odisha",
+    "slug": "odisha-wildlife-sanctuary",
+    "name": "Odisha Wildlife Sanctuary",
+    "district": "Bhubaneswar District",
+    "city": "Bhubaneswar",
+    "category": "Beach",
+    "rating": "4.9",
+    "image": "https://images.unsplash.com/photo-photo-1590483864455-d368e7ec3f89?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-photo-1590483864455-d368e7ec3f89?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1591963236746-95f00e93bc4b?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1610012803823-74bba2eb703e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning beach located in the heart of Odisha, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Odisha Wildlife Sanctuary is one of the most prominent tourist attractions in Odisha. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Odisha Wildlife Sanctuary dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Bhubaneswar, Odisha, India",
+    "latitude": "20.5675",
+    "longitude": "75.9847",
+    "googleMapsUrl": "https://maps.google.com/?q=Odisha+Wildlife+Sanctuary",
+    "nearbyHotels": [
+      "The Grand Odisha",
+      "Heritage Stay Bhubaneswar"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Dalma House",
+      "Cafe Odisha"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.odisha.gov.in"
+  },
+  {
+    "id": 144,
+    "stateId": 19,
+    "stateSlug": "odisha",
+    "slug": "odisha-botanical-gardens",
+    "name": "Odisha Botanical Gardens",
+    "district": "Bhubaneswar District",
+    "city": "Bhubaneswar",
+    "category": "Palace",
+    "rating": "4.9",
+    "image": "https://images.unsplash.com/photo-photo-1602216056096-3b40cc0c9944?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-photo-1602216056096-3b40cc0c9944?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1600100397608-f010f41cb8ea?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1625066495209-1dc5ec3312e7?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning palace located in the heart of Odisha, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Odisha Botanical Gardens is one of the most prominent tourist attractions in Odisha. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Odisha Botanical Gardens dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Bhubaneswar, Odisha, India",
+    "latitude": "17.1614",
+    "longitude": "76.7161",
+    "googleMapsUrl": "https://maps.google.com/?q=Odisha+Botanical+Gardens",
+    "nearbyHotels": [
+      "The Grand Odisha",
+      "Heritage Stay Bhubaneswar"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Dalma House",
+      "Cafe Odisha"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.odisha.gov.in"
+  },
+  {
+    "id": 145,
+    "stateId": 19,
+    "stateSlug": "odisha",
+    "slug": "grand-palace-of-odisha",
+    "name": "Grand Palace of Odisha",
+    "district": "Bhubaneswar District",
+    "city": "Bhubaneswar",
+    "category": "Nature",
+    "rating": "4.8",
+    "image": "https://images.unsplash.com/photo-photo-1600329976378-01362e584988?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-photo-1600329976378-01362e584988?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1548013146-72479768bada?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1610012803823-74bba2eb703e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning nature located in the heart of Odisha, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Grand Palace of Odisha is one of the most prominent tourist attractions in Odisha. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Grand Palace of Odisha dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Bhubaneswar, Odisha, India",
+    "latitude": "20.8883",
+    "longitude": "76.2279",
+    "googleMapsUrl": "https://maps.google.com/?q=Grand+Palace+of+Odisha",
+    "nearbyHotels": [
+      "The Grand Odisha",
+      "Heritage Stay Bhubaneswar"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Dalma House",
+      "Cafe Odisha"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.odisha.gov.in"
+  },
+  {
+    "id": 146,
+    "stateId": 19,
+    "stateSlug": "odisha",
+    "slug": "beautiful-lake-of-odisha",
+    "name": "Beautiful Lake of Odisha",
+    "district": "Bhubaneswar District",
+    "city": "Bhubaneswar",
+    "category": "Temple",
+    "rating": "4.2",
+    "image": "https://images.unsplash.com/photo-photo-1624898322883-99fc286b772f?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-photo-1624898322883-99fc286b772f?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1563200773-1081387d3a0c?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1590483864455-d368e7ec3f89?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning temple located in the heart of Odisha, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Beautiful Lake of Odisha is one of the most prominent tourist attractions in Odisha. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Beautiful Lake of Odisha dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Bhubaneswar, Odisha, India",
+    "latitude": "20.6636",
+    "longitude": "73.9348",
+    "googleMapsUrl": "https://maps.google.com/?q=Beautiful+Lake+of+Odisha",
+    "nearbyHotels": [
+      "The Grand Odisha",
+      "Heritage Stay Bhubaneswar"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Dalma House",
+      "Cafe Odisha"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.odisha.gov.in"
+  }
+]

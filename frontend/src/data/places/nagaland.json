@@ -1,0 +1,466 @@
+[
+  {
+    "id": 131,
+    "stateId": 18,
+    "stateSlug": "nagaland",
+    "slug": "kohima-city-center",
+    "name": "Kohima City Center",
+    "district": "Kohima District",
+    "city": "Kohima",
+    "category": "City",
+    "rating": "4.4",
+    "image": "https://images.unsplash.com/photo-photo-1600100397608-f010f41cb8ea?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-photo-1600100397608-f010f41cb8ea?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1602216056096-3b40cc0c9944?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1617415440798-2510b64be16a?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning city located in the heart of Nagaland, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Kohima City Center is one of the most prominent tourist attractions in Nagaland. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Kohima City Center dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to May",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Kohima, Nagaland, India",
+    "latitude": "18.5306",
+    "longitude": "76.2403",
+    "googleMapsUrl": "https://maps.google.com/?q=Kohima+City+Center",
+    "nearbyHotels": [
+      "The Grand Nagaland",
+      "Heritage Stay Kohima"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Smoked Pork House",
+      "Cafe Nagaland"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.nagaland.gov.in"
+  },
+  {
+    "id": 132,
+    "stateId": 18,
+    "stateSlug": "nagaland",
+    "slug": "historic-fort-of-kohima",
+    "name": "Historic Fort of Kohima",
+    "district": "Kohima District",
+    "city": "Kohima",
+    "category": "Nature",
+    "rating": "4.9",
+    "image": "https://images.unsplash.com/photo-photo-1582294025176-58c5f949c289?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-photo-1582294025176-58c5f949c289?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1596700682283-7a91a9f993d3?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1596700681577-fb1ffdbcd9bc?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning nature located in the heart of Nagaland, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Historic Fort of Kohima is one of the most prominent tourist attractions in Nagaland. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Historic Fort of Kohima dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to May",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Kohima, Nagaland, India",
+    "latitude": "23.2841",
+    "longitude": "76.2927",
+    "googleMapsUrl": "https://maps.google.com/?q=Historic+Fort+of+Kohima",
+    "nearbyHotels": [
+      "The Grand Nagaland",
+      "Heritage Stay Kohima"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Smoked Pork House",
+      "Cafe Nagaland"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.nagaland.gov.in"
+  },
+  {
+    "id": 133,
+    "stateId": 18,
+    "stateSlug": "nagaland",
+    "slug": "nagaland-state-museum",
+    "name": "Nagaland State Museum",
+    "district": "Kohima District",
+    "city": "Kohima",
+    "category": "Fort",
+    "rating": "4.6",
+    "image": "https://images.unsplash.com/photo-photo-1570168007204-dfb528c6958f?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-photo-1570168007204-dfb528c6958f?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1596700683050-2f9547d7c672?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1582294025176-58c5f949c289?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning fort located in the heart of Nagaland, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Nagaland State Museum is one of the most prominent tourist attractions in Nagaland. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Nagaland State Museum dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to May",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Kohima, Nagaland, India",
+    "latitude": "21.5396",
+    "longitude": "82.9304",
+    "googleMapsUrl": "https://maps.google.com/?q=Nagaland+State+Museum",
+    "nearbyHotels": [
+      "The Grand Nagaland",
+      "Heritage Stay Kohima"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Smoked Pork House",
+      "Cafe Nagaland"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.nagaland.gov.in"
+  },
+  {
+    "id": 134,
+    "stateId": 18,
+    "stateSlug": "nagaland",
+    "slug": "sacred-temple-of-nagaland",
+    "name": "Sacred Temple of Nagaland",
+    "district": "Kohima District",
+    "city": "Kohima",
+    "category": "Lake",
+    "rating": "4.8",
+    "image": "https://images.unsplash.com/photo-photo-1582510003544-4d00b7f7415e?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-photo-1582510003544-4d00b7f7415e?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1588725832729-19ec4f4d2f09?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1599661046289-e31897846e41?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning lake located in the heart of Nagaland, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Sacred Temple of Nagaland is one of the most prominent tourist attractions in Nagaland. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Sacred Temple of Nagaland dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to May",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Kohima, Nagaland, India",
+    "latitude": "18.0937",
+    "longitude": "76.9293",
+    "googleMapsUrl": "https://maps.google.com/?q=Sacred+Temple+of+Nagaland",
+    "nearbyHotels": [
+      "The Grand Nagaland",
+      "Heritage Stay Kohima"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Smoked Pork House",
+      "Cafe Nagaland"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.nagaland.gov.in"
+  },
+  {
+    "id": 135,
+    "stateId": 18,
+    "stateSlug": "nagaland",
+    "slug": "nagaland-wildlife-sanctuary",
+    "name": "Nagaland Wildlife Sanctuary",
+    "district": "Kohima District",
+    "city": "Kohima",
+    "category": "Hill Station",
+    "rating": "4.5",
+    "image": "https://images.unsplash.com/photo-photo-1591963236746-95f00e93bc4b?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-photo-1591963236746-95f00e93bc4b?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1590483864455-d368e7ec3f89?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1563200773-1081387d3a0c?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning hill station located in the heart of Nagaland, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Nagaland Wildlife Sanctuary is one of the most prominent tourist attractions in Nagaland. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Nagaland Wildlife Sanctuary dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to May",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Kohima, Nagaland, India",
+    "latitude": "23.5367",
+    "longitude": "76.4071",
+    "googleMapsUrl": "https://maps.google.com/?q=Nagaland+Wildlife+Sanctuary",
+    "nearbyHotels": [
+      "The Grand Nagaland",
+      "Heritage Stay Kohima"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Smoked Pork House",
+      "Cafe Nagaland"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.nagaland.gov.in"
+  },
+  {
+    "id": 136,
+    "stateId": 18,
+    "stateSlug": "nagaland",
+    "slug": "nagaland-botanical-gardens",
+    "name": "Nagaland Botanical Gardens",
+    "district": "Kohima District",
+    "city": "Kohima",
+    "category": "City",
+    "rating": "4.2",
+    "image": "https://images.unsplash.com/photo-photo-1585250462060-155e8840c8fa?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-photo-1585250462060-155e8840c8fa?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1589136128038-d6c547805177?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1596700681577-fb1ffdbcd9bc?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning city located in the heart of Nagaland, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Nagaland Botanical Gardens is one of the most prominent tourist attractions in Nagaland. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Nagaland Botanical Gardens dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to May",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Kohima, Nagaland, India",
+    "latitude": "15.2766",
+    "longitude": "77.8437",
+    "googleMapsUrl": "https://maps.google.com/?q=Nagaland+Botanical+Gardens",
+    "nearbyHotels": [
+      "The Grand Nagaland",
+      "Heritage Stay Kohima"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Smoked Pork House",
+      "Cafe Nagaland"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.nagaland.gov.in"
+  },
+  {
+    "id": 137,
+    "stateId": 18,
+    "stateSlug": "nagaland",
+    "slug": "grand-palace-of-nagaland",
+    "name": "Grand Palace of Nagaland",
+    "district": "Kohima District",
+    "city": "Kohima",
+    "category": "Nature",
+    "rating": "4.9",
+    "image": "https://images.unsplash.com/photo-photo-1589136128038-d6c547805177?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-photo-1589136128038-d6c547805177?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1585250462060-155e8840c8fa?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1599661046289-e31897846e41?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning nature located in the heart of Nagaland, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Grand Palace of Nagaland is one of the most prominent tourist attractions in Nagaland. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Grand Palace of Nagaland dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to May",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Kohima, Nagaland, India",
+    "latitude": "24.1567",
+    "longitude": "81.7245",
+    "googleMapsUrl": "https://maps.google.com/?q=Grand+Palace+of+Nagaland",
+    "nearbyHotels": [
+      "The Grand Nagaland",
+      "Heritage Stay Kohima"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Smoked Pork House",
+      "Cafe Nagaland"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.nagaland.gov.in"
+  },
+  {
+    "id": 138,
+    "stateId": 18,
+    "stateSlug": "nagaland",
+    "slug": "beautiful-lake-of-nagaland",
+    "name": "Beautiful Lake of Nagaland",
+    "district": "Kohima District",
+    "city": "Kohima",
+    "category": "National Park",
+    "rating": "4.4",
+    "image": "https://images.unsplash.com/photo-photo-1610012803823-74bba2eb703e?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-photo-1610012803823-74bba2eb703e?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1548013146-72479768bada?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1600329976378-01362e584988?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning national park located in the heart of Nagaland, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Beautiful Lake of Nagaland is one of the most prominent tourist attractions in Nagaland. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Beautiful Lake of Nagaland dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to May",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Kohima, Nagaland, India",
+    "latitude": "18.3957",
+    "longitude": "77.9538",
+    "googleMapsUrl": "https://maps.google.com/?q=Beautiful+Lake+of+Nagaland",
+    "nearbyHotels": [
+      "The Grand Nagaland",
+      "Heritage Stay Kohima"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Smoked Pork House",
+      "Cafe Nagaland"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.nagaland.gov.in"
+  }
+]

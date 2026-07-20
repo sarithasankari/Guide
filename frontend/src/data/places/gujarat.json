@@ -1,0 +1,292 @@
+[
+  {
+    "id": 48,
+    "stateId": 7,
+    "stateSlug": "gujarat",
+    "slug": "rann-of-kutch",
+    "name": "Rann of Kutch",
+    "district": "Gandhinagar District",
+    "city": "Gandhinagar",
+    "category": "Nature",
+    "rating": "4.8",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Rann_of_Kutch_-_White_Desert.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/b/b2/Rann_of_Kutch_-_White_Desert.jpg",
+      "https://images.unsplash.com/photo-photo-1512343879784-a960bf40e7f2?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1602715690326-f7bcdafa41c0?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning nature located in the heart of Gujarat, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Rann of Kutch is one of the most prominent tourist attractions in Gujarat. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Rann of Kutch dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "November to February",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Gandhinagar, Gujarat, India",
+    "latitude": "16.8218",
+    "longitude": "73.4325",
+    "googleMapsUrl": "https://maps.google.com/?q=Rann+of+Kutch",
+    "nearbyHotels": [
+      "The Grand Gujarat",
+      "Heritage Stay Gandhinagar"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Dhokla House",
+      "Cafe Gujarat"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.gujarat.gov.in"
+  },
+  {
+    "id": 49,
+    "stateId": 7,
+    "stateSlug": "gujarat",
+    "slug": "gir-national-park",
+    "name": "Gir National Park",
+    "district": "Gandhinagar District",
+    "city": "Gandhinagar",
+    "category": "Beach",
+    "rating": "4.7",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Gir_lion-Gir_forest%2Cjunagadh%2Cgujarat%2Cindia.jpeg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/9/90/Gir_lion-Gir_forest%2Cjunagadh%2Cgujarat%2Cindia.jpeg",
+      "https://images.unsplash.com/photo-photo-1582510003544-4d00b7f7415e?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1600329976378-01362e584988?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning beach located in the heart of Gujarat, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Gir National Park is one of the most prominent tourist attractions in Gujarat. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Gir National Park dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "November to February",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Gandhinagar, Gujarat, India",
+    "latitude": "17.5219",
+    "longitude": "82.9646",
+    "googleMapsUrl": "https://maps.google.com/?q=Gir+National+Park",
+    "nearbyHotels": [
+      "The Grand Gujarat",
+      "Heritage Stay Gandhinagar"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Dhokla House",
+      "Cafe Gujarat"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.gujarat.gov.in"
+  },
+  {
+    "id": 50,
+    "stateId": 7,
+    "stateSlug": "gujarat",
+    "slug": "somnath-temple",
+    "name": "Somnath Temple",
+    "district": "Gandhinagar District",
+    "city": "Gandhinagar",
+    "category": "UNESCO",
+    "rating": "4.9",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/Somanath_mandir_%28cropped%29.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/1/10/Somanath_mandir_%28cropped%29.jpg",
+      "https://images.unsplash.com/photo-photo-1602715690326-f7bcdafa41c0?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1512343879784-a960bf40e7f2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning unesco located in the heart of Gujarat, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Somnath Temple is one of the most prominent tourist attractions in Gujarat. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Somnath Temple dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "November to February",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Gandhinagar, Gujarat, India",
+    "latitude": "16.1344",
+    "longitude": "79.9699",
+    "googleMapsUrl": "https://maps.google.com/?q=Somnath+Temple",
+    "nearbyHotels": [
+      "The Grand Gujarat",
+      "Heritage Stay Gandhinagar"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Dhokla House",
+      "Cafe Gujarat"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.gujarat.gov.in"
+  },
+  {
+    "id": 51,
+    "stateId": 7,
+    "stateSlug": "gujarat",
+    "slug": "statue-of-unity",
+    "name": "Statue of Unity",
+    "district": "Gandhinagar District",
+    "city": "Gandhinagar",
+    "category": "Monument",
+    "rating": "4.3",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/07/Statue_of_Unity.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/0/07/Statue_of_Unity.jpg",
+      "https://images.unsplash.com/photo-photo-1600329976378-01362e584988?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1582510003544-4d00b7f7415e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning monument located in the heart of Gujarat, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Statue of Unity is one of the most prominent tourist attractions in Gujarat. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Statue of Unity dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "November to February",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Gandhinagar, Gujarat, India",
+    "latitude": "15.4409",
+    "longitude": "81.7125",
+    "googleMapsUrl": "https://maps.google.com/?q=Statue+of+Unity",
+    "nearbyHotels": [
+      "The Grand Gujarat",
+      "Heritage Stay Gandhinagar"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Dhokla House",
+      "Cafe Gujarat"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.gujarat.gov.in"
+  },
+  {
+    "id": 52,
+    "stateId": 7,
+    "stateSlug": "gujarat",
+    "slug": "dwarka",
+    "name": "Dwarka",
+    "district": "Gandhinagar District",
+    "city": "Gandhinagar",
+    "category": "Pilgrimage",
+    "rating": "4.6",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Dwarakadheesh_Temple%2C_2014.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/0/0c/Dwarakadheesh_Temple%2C_2014.jpg",
+      "https://images.unsplash.com/photo-photo-1602715690326-f7bcdafa41c0?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1626082260667-0c7f1a357f6f?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning pilgrimage located in the heart of Gujarat, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Dwarka is one of the most prominent tourist attractions in Gujarat. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Dwarka dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "November to February",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Gandhinagar, Gujarat, India",
+    "latitude": "19.6818",
+    "longitude": "80.4635",
+    "googleMapsUrl": "https://maps.google.com/?q=Dwarka",
+    "nearbyHotels": [
+      "The Grand Gujarat",
+      "Heritage Stay Gandhinagar"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Dhokla House",
+      "Cafe Gujarat"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.gujarat.gov.in"
+  }
+]

@@ -1,0 +1,524 @@
+[
+  {
+    "id": 155,
+    "stateId": 21,
+    "stateSlug": "rajasthan",
+    "slug": "jaipur",
+    "name": "Jaipur",
+    "district": "Jaipur District",
+    "city": "Jaipur",
+    "category": "Wildlife",
+    "rating": "4.0",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/41/East_facade_Hawa_Mahal_Jaipur_from_ground_level_%28July_2022%29_-_img_01.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/4/41/East_facade_Hawa_Mahal_Jaipur_from_ground_level_%28July_2022%29_-_img_01.jpg",
+      "https://images.unsplash.com/photo-photo-1599661046289-e31897846e41?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1585250462060-155e8840c8fa?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning wildlife located in the heart of Rajasthan, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Jaipur is one of the most prominent tourist attractions in Rajasthan. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Jaipur dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Jaipur, Rajasthan, India",
+    "latitude": "24.2987",
+    "longitude": "82.3018",
+    "googleMapsUrl": "https://maps.google.com/?q=Jaipur",
+    "nearbyHotels": [
+      "The Grand Rajasthan",
+      "Heritage Stay Jaipur"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Dal Bati Churma House",
+      "Cafe Rajasthan"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.rajasthan.gov.in"
+  },
+  {
+    "id": 156,
+    "stateId": 21,
+    "stateSlug": "rajasthan",
+    "slug": "udaipur",
+    "name": "Udaipur",
+    "district": "Jaipur District",
+    "city": "Jaipur",
+    "category": "UNESCO",
+    "rating": "4.2",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Evening_view%2C_City_Palace%2C_Udaipur.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/6/6f/Evening_view%2C_City_Palace%2C_Udaipur.jpg",
+      "https://images.unsplash.com/photo-photo-1582294109406-8d1cbbe55c5c?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1625066495209-1dc5ec3312e7?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning unesco located in the heart of Rajasthan, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Udaipur is one of the most prominent tourist attractions in Rajasthan. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Udaipur dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Jaipur, Rajasthan, India",
+    "latitude": "17.2184",
+    "longitude": "76.7994",
+    "googleMapsUrl": "https://maps.google.com/?q=Udaipur",
+    "nearbyHotels": [
+      "The Grand Rajasthan",
+      "Heritage Stay Jaipur"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Dal Bati Churma House",
+      "Cafe Rajasthan"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.rajasthan.gov.in"
+  },
+  {
+    "id": 157,
+    "stateId": 21,
+    "stateSlug": "rajasthan",
+    "slug": "jaisalmer",
+    "name": "Jaisalmer",
+    "district": "Jaipur District",
+    "city": "Jaipur",
+    "category": "Island",
+    "rating": "4.6",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/46/Jaisalmer_Fort.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/4/46/Jaisalmer_Fort.jpg",
+      "https://images.unsplash.com/photo-photo-1570168007204-dfb528c6958f?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1596700683050-2f9547d7c672?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning island located in the heart of Rajasthan, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Jaisalmer is one of the most prominent tourist attractions in Rajasthan. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Jaisalmer dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Jaipur, Rajasthan, India",
+    "latitude": "15.7738",
+    "longitude": "73.1187",
+    "googleMapsUrl": "https://maps.google.com/?q=Jaisalmer",
+    "nearbyHotels": [
+      "The Grand Rajasthan",
+      "Heritage Stay Jaipur"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Dal Bati Churma House",
+      "Cafe Rajasthan"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.rajasthan.gov.in"
+  },
+  {
+    "id": 158,
+    "stateId": 21,
+    "stateSlug": "rajasthan",
+    "slug": "jodhpur",
+    "name": "Jodhpur",
+    "district": "Jaipur District",
+    "city": "Jaipur",
+    "category": "Waterfall",
+    "rating": "4.0",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Mehrangarh_Fort_sanhita.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/9/99/Mehrangarh_Fort_sanhita.jpg",
+      "https://images.unsplash.com/photo-photo-1617415440798-2510b64be16a?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1570168007204-dfb528c6958f?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning waterfall located in the heart of Rajasthan, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Jodhpur is one of the most prominent tourist attractions in Rajasthan. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Jodhpur dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Jaipur, Rajasthan, India",
+    "latitude": "17.2843",
+    "longitude": "79.4850",
+    "googleMapsUrl": "https://maps.google.com/?q=Jodhpur",
+    "nearbyHotels": [
+      "The Grand Rajasthan",
+      "Heritage Stay Jaipur"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Dal Bati Churma House",
+      "Cafe Rajasthan"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.rajasthan.gov.in"
+  },
+  {
+    "id": 159,
+    "stateId": 21,
+    "stateSlug": "rajasthan",
+    "slug": "pushkar",
+    "name": "Pushkar",
+    "district": "Jaipur District",
+    "city": "Jaipur",
+    "category": "Island",
+    "rating": "4.6",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Pushkar.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/d/d0/Pushkar.jpg",
+      "https://images.unsplash.com/photo-photo-1585250462060-155e8840c8fa?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1599661046289-e31897846e41?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning island located in the heart of Rajasthan, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Pushkar is one of the most prominent tourist attractions in Rajasthan. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Pushkar dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Jaipur, Rajasthan, India",
+    "latitude": "21.4096",
+    "longitude": "75.5756",
+    "googleMapsUrl": "https://maps.google.com/?q=Pushkar",
+    "nearbyHotels": [
+      "The Grand Rajasthan",
+      "Heritage Stay Jaipur"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Dal Bati Churma House",
+      "Cafe Rajasthan"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.rajasthan.gov.in"
+  },
+  {
+    "id": 160,
+    "stateId": 21,
+    "stateSlug": "rajasthan",
+    "slug": "bikaner",
+    "name": "Bikaner",
+    "district": "Jaipur District",
+    "city": "Jaipur",
+    "category": "Palace",
+    "rating": "4.3",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7c/The_Laxmi_Niwas_Palace%2C_Bikaner%2C_Rajasthan.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/7/7c/The_Laxmi_Niwas_Palace%2C_Bikaner%2C_Rajasthan.jpg",
+      "https://images.unsplash.com/photo-photo-1585250462060-155e8840c8fa?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1589136128038-d6c547805177?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning palace located in the heart of Rajasthan, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Bikaner is one of the most prominent tourist attractions in Rajasthan. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Bikaner dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Jaipur, Rajasthan, India",
+    "latitude": "23.9618",
+    "longitude": "73.5074",
+    "googleMapsUrl": "https://maps.google.com/?q=Bikaner",
+    "nearbyHotels": [
+      "The Grand Rajasthan",
+      "Heritage Stay Jaipur"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Dal Bati Churma House",
+      "Cafe Rajasthan"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.rajasthan.gov.in"
+  },
+  {
+    "id": 161,
+    "stateId": 21,
+    "stateSlug": "rajasthan",
+    "slug": "mount-abu",
+    "name": "Mount Abu",
+    "district": "Jaipur District",
+    "city": "Jaipur",
+    "category": "Fort",
+    "rating": "4.7",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Mount_Abu.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/6/6b/Mount_Abu.jpg",
+      "https://images.unsplash.com/photo-photo-1570168007204-dfb528c6958f?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1596700683050-2f9547d7c672?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning fort located in the heart of Rajasthan, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Mount Abu is one of the most prominent tourist attractions in Rajasthan. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Mount Abu dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Jaipur, Rajasthan, India",
+    "latitude": "24.5676",
+    "longitude": "82.1546",
+    "googleMapsUrl": "https://maps.google.com/?q=Mount+Abu",
+    "nearbyHotels": [
+      "The Grand Rajasthan",
+      "Heritage Stay Jaipur"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Dal Bati Churma House",
+      "Cafe Rajasthan"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.rajasthan.gov.in"
+  },
+  {
+    "id": 162,
+    "stateId": 21,
+    "stateSlug": "rajasthan",
+    "slug": "ajmer",
+    "name": "Ajmer",
+    "district": "Jaipur District",
+    "city": "Jaipur",
+    "category": "Nature",
+    "rating": "4.5",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/85/ADHAI_DIN_KA_JHONPRA.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/8/85/ADHAI_DIN_KA_JHONPRA.jpg",
+      "https://images.unsplash.com/photo-photo-1600100397608-f010f41cb8ea?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1602216056096-3b40cc0c9944?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning nature located in the heart of Rajasthan, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Ajmer is one of the most prominent tourist attractions in Rajasthan. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Ajmer dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Jaipur, Rajasthan, India",
+    "latitude": "23.4306",
+    "longitude": "77.6396",
+    "googleMapsUrl": "https://maps.google.com/?q=Ajmer",
+    "nearbyHotels": [
+      "The Grand Rajasthan",
+      "Heritage Stay Jaipur"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Dal Bati Churma House",
+      "Cafe Rajasthan"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.rajasthan.gov.in"
+  },
+  {
+    "id": 163,
+    "stateId": 21,
+    "stateSlug": "rajasthan",
+    "slug": "chittorgarh",
+    "name": "Chittorgarh",
+    "district": "Jaipur District",
+    "city": "Jaipur",
+    "category": "Lake",
+    "rating": "4.1",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Chittorgarh_fort.JPG",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/3/3a/Chittorgarh_fort.JPG",
+      "https://images.unsplash.com/photo-photo-1588725832729-19ec4f4d2f09?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1599661046289-e31897846e41?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning lake located in the heart of Rajasthan, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Chittorgarh is one of the most prominent tourist attractions in Rajasthan. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Chittorgarh dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Jaipur, Rajasthan, India",
+    "latitude": "16.6585",
+    "longitude": "80.9410",
+    "googleMapsUrl": "https://maps.google.com/?q=Chittorgarh",
+    "nearbyHotels": [
+      "The Grand Rajasthan",
+      "Heritage Stay Jaipur"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Dal Bati Churma House",
+      "Cafe Rajasthan"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.rajasthan.gov.in"
+  }
+]

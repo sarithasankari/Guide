@@ -1,0 +1,292 @@
+[
+  {
+    "id": 244,
+    "stateId": 33,
+    "stateSlug": "jammu-and-kashmir",
+    "slug": "dal-lake",
+    "name": "Dal Lake",
+    "district": "Srinagar District",
+    "city": "Srinagar",
+    "category": "Monument",
+    "rating": "4.1",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Dal_Lake_Hazratbal_Srinagar.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/e/e1/Dal_Lake_Hazratbal_Srinagar.jpg",
+      "https://images.unsplash.com/photo-photo-1588725832729-19ec4f4d2f09?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1582510003544-4d00b7f7415e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning monument located in the heart of Jammu and Kashmir, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Dal Lake is one of the most prominent tourist attractions in Jammu and Kashmir. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Dal Lake dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "March to August",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Srinagar, Jammu and Kashmir, India",
+    "latitude": "15.2579",
+    "longitude": "82.4077",
+    "googleMapsUrl": "https://maps.google.com/?q=Dal+Lake",
+    "nearbyHotels": [
+      "The Grand Jammu and Kashmir",
+      "Heritage Stay Srinagar"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Rogan Josh House",
+      "Cafe Jammu and Kashmir"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.jammu-and-kashmir.gov.in"
+  },
+  {
+    "id": 245,
+    "stateId": 33,
+    "stateSlug": "jammu-and-kashmir",
+    "slug": "gulmarg",
+    "name": "Gulmarg",
+    "district": "Srinagar District",
+    "city": "Srinagar",
+    "category": "City",
+    "rating": "4.9",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Ancient_Temple%2C_Gulmarg.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/a/a9/Ancient_Temple%2C_Gulmarg.jpg",
+      "https://images.unsplash.com/photo-photo-1589136128038-d6c547805177?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1585250462060-155e8840c8fa?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning city located in the heart of Jammu and Kashmir, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Gulmarg is one of the most prominent tourist attractions in Jammu and Kashmir. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Gulmarg dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "March to August",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Srinagar, Jammu and Kashmir, India",
+    "latitude": "15.5528",
+    "longitude": "80.8804",
+    "googleMapsUrl": "https://maps.google.com/?q=Gulmarg",
+    "nearbyHotels": [
+      "The Grand Jammu and Kashmir",
+      "Heritage Stay Srinagar"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Rogan Josh House",
+      "Cafe Jammu and Kashmir"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.jammu-and-kashmir.gov.in"
+  },
+  {
+    "id": 246,
+    "stateId": 33,
+    "stateSlug": "jammu-and-kashmir",
+    "slug": "pahalgam",
+    "name": "Pahalgam",
+    "district": "Srinagar District",
+    "city": "Srinagar",
+    "category": "Fort",
+    "rating": "4.9",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a3/LiddarRiverJhelum.jpeg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/a/a3/LiddarRiverJhelum.jpeg",
+      "https://images.unsplash.com/photo-photo-1596700681577-fb1ffdbcd9bc?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1589136128038-d6c547805177?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning fort located in the heart of Jammu and Kashmir, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Pahalgam is one of the most prominent tourist attractions in Jammu and Kashmir. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Pahalgam dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "March to August",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Srinagar, Jammu and Kashmir, India",
+    "latitude": "17.8737",
+    "longitude": "73.5433",
+    "googleMapsUrl": "https://maps.google.com/?q=Pahalgam",
+    "nearbyHotels": [
+      "The Grand Jammu and Kashmir",
+      "Heritage Stay Srinagar"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Rogan Josh House",
+      "Cafe Jammu and Kashmir"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.jammu-and-kashmir.gov.in"
+  },
+  {
+    "id": 247,
+    "stateId": 33,
+    "stateSlug": "jammu-and-kashmir",
+    "slug": "sonamarg",
+    "name": "Sonamarg",
+    "district": "Srinagar District",
+    "city": "Srinagar",
+    "category": "Hill Station",
+    "rating": "4.5",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Sonmarg_rishav7336.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/a/a2/Sonmarg_rishav7336.jpg",
+      "https://images.unsplash.com/photo-photo-1598466632420-53896b05be5a?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1605634599723-5e92be167d4b?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning hill station located in the heart of Jammu and Kashmir, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Sonamarg is one of the most prominent tourist attractions in Jammu and Kashmir. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Sonamarg dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "March to August",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Srinagar, Jammu and Kashmir, India",
+    "latitude": "24.3418",
+    "longitude": "81.1288",
+    "googleMapsUrl": "https://maps.google.com/?q=Sonamarg",
+    "nearbyHotels": [
+      "The Grand Jammu and Kashmir",
+      "Heritage Stay Srinagar"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Rogan Josh House",
+      "Cafe Jammu and Kashmir"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.jammu-and-kashmir.gov.in"
+  },
+  {
+    "id": 248,
+    "stateId": 33,
+    "stateSlug": "jammu-and-kashmir",
+    "slug": "vaishno-devi",
+    "name": "Vaishno Devi",
+    "district": "Srinagar District",
+    "city": "Srinagar",
+    "category": "Waterfall",
+    "rating": "5.0",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Snowfall_in_Vaishno_Devi.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/b/b0/Snowfall_in_Vaishno_Devi.jpg",
+      "https://images.unsplash.com/photo-photo-1590483864455-d368e7ec3f89?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1591963236746-95f00e93bc4b?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning waterfall located in the heart of Jammu and Kashmir, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Vaishno Devi is one of the most prominent tourist attractions in Jammu and Kashmir. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Vaishno Devi dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "March to August",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Srinagar, Jammu and Kashmir, India",
+    "latitude": "21.1228",
+    "longitude": "73.1580",
+    "googleMapsUrl": "https://maps.google.com/?q=Vaishno+Devi",
+    "nearbyHotels": [
+      "The Grand Jammu and Kashmir",
+      "Heritage Stay Srinagar"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Rogan Josh House",
+      "Cafe Jammu and Kashmir"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.jammu-and-kashmir.gov.in"
+  }
+]

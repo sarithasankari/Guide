@@ -1,0 +1,408 @@
+[
+  {
+    "id": 77,
+    "stateId": 11,
+    "stateSlug": "karnataka",
+    "slug": "coorg",
+    "name": "Coorg",
+    "district": "Bengaluru District",
+    "city": "Bengaluru",
+    "category": "Adventure",
+    "rating": "4.6",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/17/Tadiandamol_Valley%2C_Western_Ghats.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/1/17/Tadiandamol_Valley%2C_Western_Ghats.jpg",
+      "https://images.unsplash.com/photo-photo-1548013146-72479768bada?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1610012803823-74bba2eb703e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning adventure located in the heart of Karnataka, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Coorg is one of the most prominent tourist attractions in Karnataka. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Coorg dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to April",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Bengaluru, Karnataka, India",
+    "latitude": "18.0588",
+    "longitude": "76.0601",
+    "googleMapsUrl": "https://maps.google.com/?q=Coorg",
+    "nearbyHotels": [
+      "The Grand Karnataka",
+      "Heritage Stay Bengaluru"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Bisi Bele Bath House",
+      "Cafe Karnataka"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.karnataka.gov.in"
+  },
+  {
+    "id": 78,
+    "stateId": 11,
+    "stateSlug": "karnataka",
+    "slug": "hampi",
+    "name": "Hampi",
+    "district": "Bengaluru District",
+    "city": "Bengaluru",
+    "category": "Island",
+    "rating": "4.7",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Wide_angle_of_Galigopuram_of_Virupaksha_Temple%2C_Hampi_%2804%29_%28cropped%29.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/d/dd/Wide_angle_of_Galigopuram_of_Virupaksha_Temple%2C_Hampi_%2804%29_%28cropped%29.jpg",
+      "https://images.unsplash.com/photo-photo-1585250462060-155e8840c8fa?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1599661046289-e31897846e41?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning island located in the heart of Karnataka, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Hampi is one of the most prominent tourist attractions in Karnataka. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Hampi dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to April",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Bengaluru, Karnataka, India",
+    "latitude": "16.2870",
+    "longitude": "73.0731",
+    "googleMapsUrl": "https://maps.google.com/?q=Hampi",
+    "nearbyHotels": [
+      "The Grand Karnataka",
+      "Heritage Stay Bengaluru"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Bisi Bele Bath House",
+      "Cafe Karnataka"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.karnataka.gov.in"
+  },
+  {
+    "id": 79,
+    "stateId": 11,
+    "stateSlug": "karnataka",
+    "slug": "mysore-palace",
+    "name": "Mysore Palace",
+    "district": "Bengaluru District",
+    "city": "Bengaluru",
+    "category": "Beach",
+    "rating": "4.3",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Mysore_Palace_Morning.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/a/a4/Mysore_Palace_Morning.jpg",
+      "https://images.unsplash.com/photo-photo-1582510003544-4d00b7f7415e?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1600329976378-01362e584988?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning beach located in the heart of Karnataka, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Mysore Palace is one of the most prominent tourist attractions in Karnataka. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Mysore Palace dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to April",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Bengaluru, Karnataka, India",
+    "latitude": "20.3084",
+    "longitude": "82.9871",
+    "googleMapsUrl": "https://maps.google.com/?q=Mysore+Palace",
+    "nearbyHotels": [
+      "The Grand Karnataka",
+      "Heritage Stay Bengaluru"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Bisi Bele Bath House",
+      "Cafe Karnataka"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.karnataka.gov.in"
+  },
+  {
+    "id": 80,
+    "stateId": 11,
+    "stateSlug": "karnataka",
+    "slug": "gokarna",
+    "name": "Gokarna",
+    "district": "Bengaluru District",
+    "city": "Bengaluru",
+    "category": "Museum",
+    "rating": "4.2",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Delight_india.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/d/dd/Delight_india.jpg",
+      "https://images.unsplash.com/photo-photo-1617415440798-2510b64be16a?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1570168007204-dfb528c6958f?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning museum located in the heart of Karnataka, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Gokarna is one of the most prominent tourist attractions in Karnataka. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Gokarna dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to April",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Bengaluru, Karnataka, India",
+    "latitude": "23.2312",
+    "longitude": "81.2577",
+    "googleMapsUrl": "https://maps.google.com/?q=Gokarna",
+    "nearbyHotels": [
+      "The Grand Karnataka",
+      "Heritage Stay Bengaluru"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Bisi Bele Bath House",
+      "Cafe Karnataka"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.karnataka.gov.in"
+  },
+  {
+    "id": 81,
+    "stateId": 11,
+    "stateSlug": "karnataka",
+    "slug": "chikmagalur",
+    "name": "Chikmagalur",
+    "district": "Bengaluru District",
+    "city": "Bengaluru",
+    "category": "Fort",
+    "rating": "4.8",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/Chikmagalur%2C_India._%287793316622%29.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/d/db/Chikmagalur%2C_India._%287793316622%29.jpg",
+      "https://images.unsplash.com/photo-photo-1605634599723-5e92be167d4b?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1624898322883-99fc286b772f?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning fort located in the heart of Karnataka, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Chikmagalur is one of the most prominent tourist attractions in Karnataka. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Chikmagalur dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to April",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Bengaluru, Karnataka, India",
+    "latitude": "18.8853",
+    "longitude": "79.3555",
+    "googleMapsUrl": "https://maps.google.com/?q=Chikmagalur",
+    "nearbyHotels": [
+      "The Grand Karnataka",
+      "Heritage Stay Bengaluru"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Bisi Bele Bath House",
+      "Cafe Karnataka"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.karnataka.gov.in"
+  },
+  {
+    "id": 82,
+    "stateId": 11,
+    "stateSlug": "karnataka",
+    "slug": "bandipur",
+    "name": "Bandipur",
+    "district": "Bengaluru District",
+    "city": "Bengaluru",
+    "category": "Palace",
+    "rating": "4.9",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/81/NClark-2017-1-15.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/8/81/NClark-2017-1-15.jpg",
+      "https://images.unsplash.com/photo-photo-1610012803823-74bba2eb703e?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1591963236746-95f00e93bc4b?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning palace located in the heart of Karnataka, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Bandipur is one of the most prominent tourist attractions in Karnataka. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Bandipur dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to April",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Bengaluru, Karnataka, India",
+    "latitude": "20.6390",
+    "longitude": "77.9662",
+    "googleMapsUrl": "https://maps.google.com/?q=Bandipur",
+    "nearbyHotels": [
+      "The Grand Karnataka",
+      "Heritage Stay Bengaluru"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Bisi Bele Bath House",
+      "Cafe Karnataka"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.karnataka.gov.in"
+  },
+  {
+    "id": 83,
+    "stateId": 11,
+    "stateSlug": "karnataka",
+    "slug": "jog-falls",
+    "name": "Jog Falls",
+    "district": "Bengaluru District",
+    "city": "Bengaluru",
+    "category": "Island",
+    "rating": "4.2",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Jog_Falls_05092016.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/f/f5/Jog_Falls_05092016.jpg",
+      "https://images.unsplash.com/photo-photo-1596700683050-2f9547d7c672?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1582294025176-58c5f949c289?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning island located in the heart of Karnataka, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Jog Falls is one of the most prominent tourist attractions in Karnataka. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Jog Falls dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to April",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Bengaluru, Karnataka, India",
+    "latitude": "21.8208",
+    "longitude": "81.3063",
+    "googleMapsUrl": "https://maps.google.com/?q=Jog+Falls",
+    "nearbyHotels": [
+      "The Grand Karnataka",
+      "Heritage Stay Bengaluru"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Bisi Bele Bath House",
+      "Cafe Karnataka"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.karnataka.gov.in"
+  }
+]

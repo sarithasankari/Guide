@@ -1,0 +1,292 @@
+[
+  {
+    "id": 212,
+    "stateId": 28,
+    "stateSlug": "west-bengal",
+    "slug": "darjeeling",
+    "name": "Darjeeling",
+    "district": "Kolkata District",
+    "city": "Kolkata",
+    "category": "Temple",
+    "rating": "4.1",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/96/DarjeelingTrainFruitshop_%282%29.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/9/96/DarjeelingTrainFruitshop_%282%29.jpg",
+      "https://images.unsplash.com/photo-photo-1602216056096-3b40cc0c9944?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1600100397608-f010f41cb8ea?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning temple located in the heart of West Bengal, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Darjeeling is one of the most prominent tourist attractions in West Bengal. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Darjeeling dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Kolkata, West Bengal, India",
+    "latitude": "22.3792",
+    "longitude": "82.6723",
+    "googleMapsUrl": "https://maps.google.com/?q=Darjeeling",
+    "nearbyHotels": [
+      "The Grand West Bengal",
+      "Heritage Stay Kolkata"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Rasgulla House",
+      "Cafe West Bengal"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.west-bengal.gov.in"
+  },
+  {
+    "id": 213,
+    "stateId": 28,
+    "stateSlug": "west-bengal",
+    "slug": "sundarbans",
+    "name": "Sundarbans",
+    "district": "Kolkata District",
+    "city": "Kolkata",
+    "category": "Wildlife",
+    "rating": "4.9",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Save_the_sundarbans_20.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/6/6b/Save_the_sundarbans_20.jpg",
+      "https://images.unsplash.com/photo-photo-1602715690326-f7bcdafa41c0?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1512343879784-a960bf40e7f2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning wildlife located in the heart of West Bengal, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Sundarbans is one of the most prominent tourist attractions in West Bengal. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Sundarbans dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Kolkata, West Bengal, India",
+    "latitude": "19.2559",
+    "longitude": "75.8694",
+    "googleMapsUrl": "https://maps.google.com/?q=Sundarbans",
+    "nearbyHotels": [
+      "The Grand West Bengal",
+      "Heritage Stay Kolkata"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Rasgulla House",
+      "Cafe West Bengal"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.west-bengal.gov.in"
+  },
+  {
+    "id": 214,
+    "stateId": 28,
+    "stateSlug": "west-bengal",
+    "slug": "victoria-memorial",
+    "name": "Victoria Memorial",
+    "district": "Kolkata District",
+    "city": "Kolkata",
+    "category": "Island",
+    "rating": "4.6",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/72/Victoria_Memorial_situated_in_Kolkata.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/7/72/Victoria_Memorial_situated_in_Kolkata.jpg",
+      "https://images.unsplash.com/photo-photo-1512343879784-a960bf40e7f2?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1602715690326-f7bcdafa41c0?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning island located in the heart of West Bengal, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Victoria Memorial is one of the most prominent tourist attractions in West Bengal. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Victoria Memorial dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Kolkata, West Bengal, India",
+    "latitude": "15.4996",
+    "longitude": "79.4441",
+    "googleMapsUrl": "https://maps.google.com/?q=Victoria+Memorial",
+    "nearbyHotels": [
+      "The Grand West Bengal",
+      "Heritage Stay Kolkata"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Rasgulla House",
+      "Cafe West Bengal"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.west-bengal.gov.in"
+  },
+  {
+    "id": 215,
+    "stateId": 28,
+    "stateSlug": "west-bengal",
+    "slug": "digha",
+    "name": "Digha",
+    "district": "Kolkata District",
+    "city": "Kolkata",
+    "category": "Palace",
+    "rating": "4.3",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Digha_Tourist_Lodge_front_yard_1.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/7/7c/Digha_Tourist_Lodge_front_yard_1.jpg",
+      "https://images.unsplash.com/photo-photo-1585250462060-155e8840c8fa?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1599661046289-e31897846e41?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning palace located in the heart of West Bengal, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Digha is one of the most prominent tourist attractions in West Bengal. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Digha dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Kolkata, West Bengal, India",
+    "latitude": "20.4622",
+    "longitude": "82.7374",
+    "googleMapsUrl": "https://maps.google.com/?q=Digha",
+    "nearbyHotels": [
+      "The Grand West Bengal",
+      "Heritage Stay Kolkata"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Rasgulla House",
+      "Cafe West Bengal"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.west-bengal.gov.in"
+  },
+  {
+    "id": 216,
+    "stateId": 28,
+    "stateSlug": "west-bengal",
+    "slug": "siliguri",
+    "name": "Siliguri",
+    "district": "Kolkata District",
+    "city": "Kolkata",
+    "category": "Hill Station",
+    "rating": "4.7",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Siliguri_view_3.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/e/e0/Siliguri_view_3.jpg",
+      "https://images.unsplash.com/photo-photo-1600329976378-01362e584988?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1582510003544-4d00b7f7415e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning hill station located in the heart of West Bengal, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Siliguri is one of the most prominent tourist attractions in West Bengal. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Siliguri dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Kolkata, West Bengal, India",
+    "latitude": "23.0963",
+    "longitude": "74.0209",
+    "googleMapsUrl": "https://maps.google.com/?q=Siliguri",
+    "nearbyHotels": [
+      "The Grand West Bengal",
+      "Heritage Stay Kolkata"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Rasgulla House",
+      "Cafe West Bengal"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.west-bengal.gov.in"
+  }
+]

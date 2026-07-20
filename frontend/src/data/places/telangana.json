@@ -1,0 +1,466 @@
+[
+  {
+    "id": 181,
+    "stateId": 24,
+    "stateSlug": "telangana",
+    "slug": "hyderabad-city-center",
+    "name": "Hyderabad City Center",
+    "district": "Hyderabad District",
+    "city": "Hyderabad",
+    "category": "Waterfall",
+    "rating": "4.4",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/65/KhajagudaLake.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/6/65/KhajagudaLake.jpg",
+      "https://images.unsplash.com/photo-photo-1610012803823-74bba2eb703e?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1591963236746-95f00e93bc4b?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning waterfall located in the heart of Telangana, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Hyderabad City Center is one of the most prominent tourist attractions in Telangana. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Hyderabad City Center dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Hyderabad, Telangana, India",
+    "latitude": "15.4952",
+    "longitude": "82.9186",
+    "googleMapsUrl": "https://maps.google.com/?q=Hyderabad+City+Center",
+    "nearbyHotels": [
+      "The Grand Telangana",
+      "Heritage Stay Hyderabad"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Hyderabadi Haleem House",
+      "Cafe Telangana"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.telangana.gov.in"
+  },
+  {
+    "id": 182,
+    "stateId": 24,
+    "stateSlug": "telangana",
+    "slug": "historic-fort-of-hyderabad",
+    "name": "Historic Fort of Hyderabad",
+    "district": "Hyderabad District",
+    "city": "Hyderabad",
+    "category": "Museum",
+    "rating": "4.0",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/56/Golconda_Fort_005.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/5/56/Golconda_Fort_005.jpg",
+      "https://images.unsplash.com/photo-photo-1582294109406-8d1cbbe55c5c?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1626082260667-0c7f1a357f6f?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning museum located in the heart of Telangana, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Historic Fort of Hyderabad is one of the most prominent tourist attractions in Telangana. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Historic Fort of Hyderabad dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Hyderabad, Telangana, India",
+    "latitude": "23.3592",
+    "longitude": "75.3127",
+    "googleMapsUrl": "https://maps.google.com/?q=Historic+Fort+of+Hyderabad",
+    "nearbyHotels": [
+      "The Grand Telangana",
+      "Heritage Stay Hyderabad"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Hyderabadi Haleem House",
+      "Cafe Telangana"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.telangana.gov.in"
+  },
+  {
+    "id": 183,
+    "stateId": 24,
+    "stateSlug": "telangana",
+    "slug": "telangana-state-museum",
+    "name": "Telangana State Museum",
+    "district": "Hyderabad District",
+    "city": "Hyderabad",
+    "category": "City",
+    "rating": "4.7",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/ed/State_archeological_museum%2C_Hyderabad.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/e/ed/State_archeological_museum%2C_Hyderabad.jpg",
+      "https://images.unsplash.com/photo-photo-1590483864455-d368e7ec3f89?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1591963236746-95f00e93bc4b?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning city located in the heart of Telangana, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Telangana State Museum is one of the most prominent tourist attractions in Telangana. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Telangana State Museum dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Hyderabad, Telangana, India",
+    "latitude": "18.5131",
+    "longitude": "80.5186",
+    "googleMapsUrl": "https://maps.google.com/?q=Telangana+State+Museum",
+    "nearbyHotels": [
+      "The Grand Telangana",
+      "Heritage Stay Hyderabad"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Hyderabadi Haleem House",
+      "Cafe Telangana"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.telangana.gov.in"
+  },
+  {
+    "id": 184,
+    "stateId": 24,
+    "stateSlug": "telangana",
+    "slug": "sacred-temple-of-telangana",
+    "name": "Sacred Temple of Telangana",
+    "district": "Hyderabad District",
+    "city": "Hyderabad",
+    "category": "Wildlife",
+    "rating": "4.8",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f7/A_typical_charminar_evening.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/f/f7/A_typical_charminar_evening.jpg",
+      "https://images.unsplash.com/photo-photo-1610012803823-74bba2eb703e?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1591963236746-95f00e93bc4b?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning wildlife located in the heart of Telangana, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Sacred Temple of Telangana is one of the most prominent tourist attractions in Telangana. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Sacred Temple of Telangana dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Hyderabad, Telangana, India",
+    "latitude": "15.0896",
+    "longitude": "73.4135",
+    "googleMapsUrl": "https://maps.google.com/?q=Sacred+Temple+of+Telangana",
+    "nearbyHotels": [
+      "The Grand Telangana",
+      "Heritage Stay Hyderabad"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Hyderabadi Haleem House",
+      "Cafe Telangana"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.telangana.gov.in"
+  },
+  {
+    "id": 185,
+    "stateId": 24,
+    "stateSlug": "telangana",
+    "slug": "telangana-wildlife-sanctuary",
+    "name": "Telangana Wildlife Sanctuary",
+    "district": "Hyderabad District",
+    "city": "Hyderabad",
+    "category": "Island",
+    "rating": "4.5",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/48/Kawal_tiger_reserve.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/4/48/Kawal_tiger_reserve.jpg",
+      "https://images.unsplash.com/photo-photo-1600329976378-01362e584988?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1582510003544-4d00b7f7415e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning island located in the heart of Telangana, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Telangana Wildlife Sanctuary is one of the most prominent tourist attractions in Telangana. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Telangana Wildlife Sanctuary dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Hyderabad, Telangana, India",
+    "latitude": "16.4941",
+    "longitude": "78.2821",
+    "googleMapsUrl": "https://maps.google.com/?q=Telangana+Wildlife+Sanctuary",
+    "nearbyHotels": [
+      "The Grand Telangana",
+      "Heritage Stay Hyderabad"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Hyderabadi Haleem House",
+      "Cafe Telangana"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.telangana.gov.in"
+  },
+  {
+    "id": 186,
+    "stateId": 24,
+    "stateSlug": "telangana",
+    "slug": "telangana-botanical-gardens",
+    "name": "Telangana Botanical Gardens",
+    "district": "Hyderabad District",
+    "city": "Hyderabad",
+    "category": "Island",
+    "rating": "4.6",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f9/%E0%A6%95%E0%A7%8B%E0%A6%9F%E0%A6%B2%E0%A6%BE_%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A6%AF%E0%A6%BC_%E0%A6%AD%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%95%E0%A6%B0_%E0%A6%B0%E0%A7%87%E0%A6%A1%E0%A7%8D%E0%A6%A1%E0%A6%BF_%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AD%E0%A6%BF%E0%A6%A6_%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%2C_%E0%A6%B9%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B0_%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AC%E0%A7%87%E0%A6%B6%E0%A6%A6%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%B0.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/f/f9/%E0%A6%95%E0%A7%8B%E0%A6%9F%E0%A6%B2%E0%A6%BE_%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A6%AF%E0%A6%BC_%E0%A6%AD%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%95%E0%A6%B0_%E0%A6%B0%E0%A7%87%E0%A6%A1%E0%A7%8D%E0%A6%A1%E0%A6%BF_%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AD%E0%A6%BF%E0%A6%A6_%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%2C_%E0%A6%B9%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B0_%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AC%E0%A7%87%E0%A6%B6%E0%A6%A6%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%B0.jpg",
+      "https://images.unsplash.com/photo-photo-1589136128038-d6c547805177?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1585250462060-155e8840c8fa?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning island located in the heart of Telangana, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Telangana Botanical Gardens is one of the most prominent tourist attractions in Telangana. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Telangana Botanical Gardens dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Hyderabad, Telangana, India",
+    "latitude": "23.3407",
+    "longitude": "74.4587",
+    "googleMapsUrl": "https://maps.google.com/?q=Telangana+Botanical+Gardens",
+    "nearbyHotels": [
+      "The Grand Telangana",
+      "Heritage Stay Hyderabad"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Hyderabadi Haleem House",
+      "Cafe Telangana"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.telangana.gov.in"
+  },
+  {
+    "id": 187,
+    "stateId": 24,
+    "stateSlug": "telangana",
+    "slug": "grand-palace-of-telangana",
+    "name": "Grand Palace of Telangana",
+    "district": "Hyderabad District",
+    "city": "Hyderabad",
+    "category": "Adventure",
+    "rating": "4.8",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Chowmahalla_Palace_01.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/c/ce/Chowmahalla_Palace_01.jpg",
+      "https://images.unsplash.com/photo-photo-1600100397608-f010f41cb8ea?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1625066495209-1dc5ec3312e7?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning adventure located in the heart of Telangana, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Grand Palace of Telangana is one of the most prominent tourist attractions in Telangana. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Grand Palace of Telangana dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Hyderabad, Telangana, India",
+    "latitude": "15.0680",
+    "longitude": "74.2098",
+    "googleMapsUrl": "https://maps.google.com/?q=Grand+Palace+of+Telangana",
+    "nearbyHotels": [
+      "The Grand Telangana",
+      "Heritage Stay Hyderabad"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Hyderabadi Haleem House",
+      "Cafe Telangana"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.telangana.gov.in"
+  },
+  {
+    "id": 188,
+    "stateId": 24,
+    "stateSlug": "telangana",
+    "slug": "beautiful-lake-of-telangana",
+    "name": "Beautiful Lake of Telangana",
+    "district": "Hyderabad District",
+    "city": "Hyderabad",
+    "category": "Hill Station",
+    "rating": "4.9",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/53/Hyderabad_from_Khajaguda.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/5/53/Hyderabad_from_Khajaguda.jpg",
+      "https://images.unsplash.com/photo-photo-1582294109406-8d1cbbe55c5c?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1625066495209-1dc5ec3312e7?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning hill station located in the heart of Telangana, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Beautiful Lake of Telangana is one of the most prominent tourist attractions in Telangana. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Beautiful Lake of Telangana dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Hyderabad, Telangana, India",
+    "latitude": "24.2633",
+    "longitude": "78.1945",
+    "googleMapsUrl": "https://maps.google.com/?q=Beautiful+Lake+of+Telangana",
+    "nearbyHotels": [
+      "The Grand Telangana",
+      "Heritage Stay Hyderabad"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Hyderabadi Haleem House",
+      "Cafe Telangana"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.telangana.gov.in"
+  }
+]

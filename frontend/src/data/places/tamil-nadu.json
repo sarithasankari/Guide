@@ -1,0 +1,524 @@
+[
+  {
+    "id": 172,
+    "stateId": 23,
+    "stateSlug": "tamil-nadu",
+    "slug": "ooty",
+    "name": "Ooty",
+    "district": "Chennai District",
+    "city": "Chennai",
+    "category": "Hill Station",
+    "rating": "4.1",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/Ooty_lake.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/d/db/Ooty_lake.jpg",
+      "https://images.unsplash.com/photo-photo-1599661046289-e31897846e41?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1588725832729-19ec4f4d2f09?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning hill station located in the heart of Tamil Nadu, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Ooty is one of the most prominent tourist attractions in Tamil Nadu. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Ooty dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "November to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Chennai, Tamil Nadu, India",
+    "latitude": "16.7483",
+    "longitude": "80.7083",
+    "googleMapsUrl": "https://maps.google.com/?q=Ooty",
+    "nearbyHotels": [
+      "The Grand Tamil Nadu",
+      "Heritage Stay Chennai"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Dosa House",
+      "Cafe Tamil Nadu"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.tamil-nadu.gov.in"
+  },
+  {
+    "id": 173,
+    "stateId": 23,
+    "stateSlug": "tamil-nadu",
+    "slug": "kodaikanal",
+    "name": "Kodaikanal",
+    "district": "Chennai District",
+    "city": "Chennai",
+    "category": "Wildlife",
+    "rating": "4.9",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/da/Boating_in_Kodaikanal_Lake_with_Mist.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/d/da/Boating_in_Kodaikanal_Lake_with_Mist.jpg",
+      "https://images.unsplash.com/photo-photo-1626082260667-0c7f1a357f6f?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1582294109406-8d1cbbe55c5c?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning wildlife located in the heart of Tamil Nadu, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Kodaikanal is one of the most prominent tourist attractions in Tamil Nadu. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Kodaikanal dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "November to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Chennai, Tamil Nadu, India",
+    "latitude": "16.4115",
+    "longitude": "73.1763",
+    "googleMapsUrl": "https://maps.google.com/?q=Kodaikanal",
+    "nearbyHotels": [
+      "The Grand Tamil Nadu",
+      "Heritage Stay Chennai"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Dosa House",
+      "Cafe Tamil Nadu"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.tamil-nadu.gov.in"
+  },
+  {
+    "id": 174,
+    "stateId": 23,
+    "stateSlug": "tamil-nadu",
+    "slug": "chennai",
+    "name": "Chennai",
+    "district": "Chennai District",
+    "city": "Chennai",
+    "category": "Island",
+    "rating": "4.9",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/32/Chennai_Central.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/3/32/Chennai_Central.jpg",
+      "https://images.unsplash.com/photo-photo-1610012803823-74bba2eb703e?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1548013146-72479768bada?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning island located in the heart of Tamil Nadu, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Chennai is one of the most prominent tourist attractions in Tamil Nadu. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Chennai dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "November to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Chennai, Tamil Nadu, India",
+    "latitude": "15.0877",
+    "longitude": "81.0084",
+    "googleMapsUrl": "https://maps.google.com/?q=Chennai",
+    "nearbyHotels": [
+      "The Grand Tamil Nadu",
+      "Heritage Stay Chennai"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Dosa House",
+      "Cafe Tamil Nadu"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.tamil-nadu.gov.in"
+  },
+  {
+    "id": 175,
+    "stateId": 23,
+    "stateSlug": "tamil-nadu",
+    "slug": "mahabalipuram",
+    "name": "Mahabalipuram",
+    "district": "Chennai District",
+    "city": "Chennai",
+    "category": "Fort",
+    "rating": "4.7",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d7/A_collage_of_Mamallapuram_town_Tamil_Nadu_India.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/d/d7/A_collage_of_Mamallapuram_town_Tamil_Nadu_India.jpg",
+      "https://images.unsplash.com/photo-photo-1617415440798-2510b64be16a?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1570168007204-dfb528c6958f?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning fort located in the heart of Tamil Nadu, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Mahabalipuram is one of the most prominent tourist attractions in Tamil Nadu. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Mahabalipuram dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "November to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Chennai, Tamil Nadu, India",
+    "latitude": "21.0640",
+    "longitude": "79.5624",
+    "googleMapsUrl": "https://maps.google.com/?q=Mahabalipuram",
+    "nearbyHotels": [
+      "The Grand Tamil Nadu",
+      "Heritage Stay Chennai"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Dosa House",
+      "Cafe Tamil Nadu"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.tamil-nadu.gov.in"
+  },
+  {
+    "id": 176,
+    "stateId": 23,
+    "stateSlug": "tamil-nadu",
+    "slug": "madurai",
+    "name": "Madurai",
+    "district": "Chennai District",
+    "city": "Chennai",
+    "category": "City",
+    "rating": "4.0",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Meenakshi_Amman_West_Tower.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/f/f4/Meenakshi_Amman_West_Tower.jpg",
+      "https://images.unsplash.com/photo-photo-1582294109406-8d1cbbe55c5c?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1625066495209-1dc5ec3312e7?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning city located in the heart of Tamil Nadu, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Madurai is one of the most prominent tourist attractions in Tamil Nadu. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Madurai dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "November to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Chennai, Tamil Nadu, India",
+    "latitude": "21.8314",
+    "longitude": "75.5521",
+    "googleMapsUrl": "https://maps.google.com/?q=Madurai",
+    "nearbyHotels": [
+      "The Grand Tamil Nadu",
+      "Heritage Stay Chennai"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Dosa House",
+      "Cafe Tamil Nadu"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.tamil-nadu.gov.in"
+  },
+  {
+    "id": 177,
+    "stateId": 23,
+    "stateSlug": "tamil-nadu",
+    "slug": "rameswaram",
+    "name": "Rameswaram",
+    "district": "Chennai District",
+    "city": "Chennai",
+    "category": "Fort",
+    "rating": "4.5",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/54/Rameswaram_montage_image.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/5/54/Rameswaram_montage_image.jpg",
+      "https://images.unsplash.com/photo-photo-1602216056096-3b40cc0c9944?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1600100397608-f010f41cb8ea?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning fort located in the heart of Tamil Nadu, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Rameswaram is one of the most prominent tourist attractions in Tamil Nadu. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Rameswaram dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "November to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Chennai, Tamil Nadu, India",
+    "latitude": "22.3849",
+    "longitude": "79.7819",
+    "googleMapsUrl": "https://maps.google.com/?q=Rameswaram",
+    "nearbyHotels": [
+      "The Grand Tamil Nadu",
+      "Heritage Stay Chennai"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Dosa House",
+      "Cafe Tamil Nadu"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.tamil-nadu.gov.in"
+  },
+  {
+    "id": 178,
+    "stateId": 23,
+    "stateSlug": "tamil-nadu",
+    "slug": "kanyakumari",
+    "name": "Kanyakumari",
+    "district": "Chennai District",
+    "city": "Chennai",
+    "category": "Wildlife",
+    "rating": "4.8",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Vivekananda_Rock_Memorial%2C_Kanyakumari.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/5/5b/Vivekananda_Rock_Memorial%2C_Kanyakumari.jpg",
+      "https://images.unsplash.com/photo-photo-1596700681577-fb1ffdbcd9bc?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1596700682283-7a91a9f993d3?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning wildlife located in the heart of Tamil Nadu, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Kanyakumari is one of the most prominent tourist attractions in Tamil Nadu. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Kanyakumari dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "November to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Chennai, Tamil Nadu, India",
+    "latitude": "21.7773",
+    "longitude": "75.7722",
+    "googleMapsUrl": "https://maps.google.com/?q=Kanyakumari",
+    "nearbyHotels": [
+      "The Grand Tamil Nadu",
+      "Heritage Stay Chennai"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Dosa House",
+      "Cafe Tamil Nadu"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.tamil-nadu.gov.in"
+  },
+  {
+    "id": 179,
+    "stateId": 23,
+    "stateSlug": "tamil-nadu",
+    "slug": "yercaud",
+    "name": "Yercaud",
+    "district": "Chennai District",
+    "city": "Chennai",
+    "category": "Temple",
+    "rating": "4.6",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Yercaud_lake.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/0/0e/Yercaud_lake.jpg",
+      "https://images.unsplash.com/photo-photo-1588725832729-19ec4f4d2f09?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1582510003544-4d00b7f7415e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning temple located in the heart of Tamil Nadu, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Yercaud is one of the most prominent tourist attractions in Tamil Nadu. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Yercaud dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "November to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Chennai, Tamil Nadu, India",
+    "latitude": "24.8803",
+    "longitude": "77.5953",
+    "googleMapsUrl": "https://maps.google.com/?q=Yercaud",
+    "nearbyHotels": [
+      "The Grand Tamil Nadu",
+      "Heritage Stay Chennai"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Dosa House",
+      "Cafe Tamil Nadu"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.tamil-nadu.gov.in"
+  },
+  {
+    "id": 180,
+    "stateId": 23,
+    "stateSlug": "tamil-nadu",
+    "slug": "thanjavur",
+    "name": "Thanjavur",
+    "district": "Chennai District",
+    "city": "Chennai",
+    "category": "Palace",
+    "rating": "4.9",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/81/Thanjavur_2.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/8/81/Thanjavur_2.jpg",
+      "https://images.unsplash.com/photo-photo-1596700682283-7a91a9f993d3?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1582294025176-58c5f949c289?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning palace located in the heart of Tamil Nadu, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Thanjavur is one of the most prominent tourist attractions in Tamil Nadu. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Thanjavur dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "November to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Chennai, Tamil Nadu, India",
+    "latitude": "23.8390",
+    "longitude": "79.5902",
+    "googleMapsUrl": "https://maps.google.com/?q=Thanjavur",
+    "nearbyHotels": [
+      "The Grand Tamil Nadu",
+      "Heritage Stay Chennai"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Dosa House",
+      "Cafe Tamil Nadu"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.tamil-nadu.gov.in"
+  }
+]

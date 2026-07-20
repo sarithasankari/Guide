@@ -1,0 +1,466 @@
+[
+  {
+    "id": 107,
+    "stateId": 15,
+    "stateSlug": "manipur",
+    "slug": "imphal-city-center",
+    "name": "Imphal City Center",
+    "district": "Imphal District",
+    "city": "Imphal",
+    "category": "National Park",
+    "rating": "4.3",
+    "image": "https://images.unsplash.com/photo-photo-1582510003544-4d00b7f7415e?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-photo-1582510003544-4d00b7f7415e?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1588725832729-19ec4f4d2f09?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1599661046289-e31897846e41?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning national park located in the heart of Manipur, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Imphal City Center is one of the most prominent tourist attractions in Manipur. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Imphal City Center dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to April",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Imphal, Manipur, India",
+    "latitude": "19.7246",
+    "longitude": "76.7981",
+    "googleMapsUrl": "https://maps.google.com/?q=Imphal+City+Center",
+    "nearbyHotels": [
+      "The Grand Manipur",
+      "Heritage Stay Imphal"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Eromba House",
+      "Cafe Manipur"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.manipur.gov.in"
+  },
+  {
+    "id": 108,
+    "stateId": 15,
+    "stateSlug": "manipur",
+    "slug": "historic-fort-of-imphal",
+    "name": "Historic Fort of Imphal",
+    "district": "Imphal District",
+    "city": "Imphal",
+    "category": "Waterfall",
+    "rating": "4.2",
+    "image": "https://images.unsplash.com/photo-photo-1599661046289-e31897846e41?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-photo-1599661046289-e31897846e41?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1588725832729-19ec4f4d2f09?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1582510003544-4d00b7f7415e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning waterfall located in the heart of Manipur, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Historic Fort of Imphal is one of the most prominent tourist attractions in Manipur. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Historic Fort of Imphal dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to April",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Imphal, Manipur, India",
+    "latitude": "24.6327",
+    "longitude": "73.7187",
+    "googleMapsUrl": "https://maps.google.com/?q=Historic+Fort+of+Imphal",
+    "nearbyHotels": [
+      "The Grand Manipur",
+      "Heritage Stay Imphal"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Eromba House",
+      "Cafe Manipur"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.manipur.gov.in"
+  },
+  {
+    "id": 109,
+    "stateId": 15,
+    "stateSlug": "manipur",
+    "slug": "manipur-state-museum",
+    "name": "Manipur State Museum",
+    "district": "Imphal District",
+    "city": "Imphal",
+    "category": "Temple",
+    "rating": "4.8",
+    "image": "https://images.unsplash.com/photo-photo-1598466632420-53896b05be5a?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-photo-1598466632420-53896b05be5a?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1605634599723-5e92be167d4b?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1624898322883-99fc286b772f?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning temple located in the heart of Manipur, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Manipur State Museum is one of the most prominent tourist attractions in Manipur. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Manipur State Museum dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to April",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Imphal, Manipur, India",
+    "latitude": "17.2435",
+    "longitude": "73.0182",
+    "googleMapsUrl": "https://maps.google.com/?q=Manipur+State+Museum",
+    "nearbyHotels": [
+      "The Grand Manipur",
+      "Heritage Stay Imphal"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Eromba House",
+      "Cafe Manipur"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.manipur.gov.in"
+  },
+  {
+    "id": 110,
+    "stateId": 15,
+    "stateSlug": "manipur",
+    "slug": "sacred-temple-of-manipur",
+    "name": "Sacred Temple of Manipur",
+    "district": "Imphal District",
+    "city": "Imphal",
+    "category": "Pilgrimage",
+    "rating": "4.4",
+    "image": "https://images.unsplash.com/photo-photo-1563200773-1081387d3a0c?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-photo-1563200773-1081387d3a0c?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1624898322883-99fc286b772f?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1605634599723-5e92be167d4b?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning pilgrimage located in the heart of Manipur, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Sacred Temple of Manipur is one of the most prominent tourist attractions in Manipur. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Sacred Temple of Manipur dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to April",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Imphal, Manipur, India",
+    "latitude": "18.3069",
+    "longitude": "78.1592",
+    "googleMapsUrl": "https://maps.google.com/?q=Sacred+Temple+of+Manipur",
+    "nearbyHotels": [
+      "The Grand Manipur",
+      "Heritage Stay Imphal"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Eromba House",
+      "Cafe Manipur"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.manipur.gov.in"
+  },
+  {
+    "id": 111,
+    "stateId": 15,
+    "stateSlug": "manipur",
+    "slug": "manipur-wildlife-sanctuary",
+    "name": "Manipur Wildlife Sanctuary",
+    "district": "Imphal District",
+    "city": "Imphal",
+    "category": "Nature",
+    "rating": "4.6",
+    "image": "https://images.unsplash.com/photo-photo-1605634599723-5e92be167d4b?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-photo-1605634599723-5e92be167d4b?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1624898322883-99fc286b772f?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1563200773-1081387d3a0c?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning nature located in the heart of Manipur, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Manipur Wildlife Sanctuary is one of the most prominent tourist attractions in Manipur. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Manipur Wildlife Sanctuary dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to April",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Imphal, Manipur, India",
+    "latitude": "16.5764",
+    "longitude": "82.4473",
+    "googleMapsUrl": "https://maps.google.com/?q=Manipur+Wildlife+Sanctuary",
+    "nearbyHotels": [
+      "The Grand Manipur",
+      "Heritage Stay Imphal"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Eromba House",
+      "Cafe Manipur"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.manipur.gov.in"
+  },
+  {
+    "id": 112,
+    "stateId": 15,
+    "stateSlug": "manipur",
+    "slug": "manipur-botanical-gardens",
+    "name": "Manipur Botanical Gardens",
+    "district": "Imphal District",
+    "city": "Imphal",
+    "category": "Hill Station",
+    "rating": "4.4",
+    "image": "https://images.unsplash.com/photo-photo-1590483864455-d368e7ec3f89?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-photo-1590483864455-d368e7ec3f89?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1563200773-1081387d3a0c?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1624898322883-99fc286b772f?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning hill station located in the heart of Manipur, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Manipur Botanical Gardens is one of the most prominent tourist attractions in Manipur. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Manipur Botanical Gardens dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to April",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Imphal, Manipur, India",
+    "latitude": "15.0276",
+    "longitude": "78.3613",
+    "googleMapsUrl": "https://maps.google.com/?q=Manipur+Botanical+Gardens",
+    "nearbyHotels": [
+      "The Grand Manipur",
+      "Heritage Stay Imphal"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Eromba House",
+      "Cafe Manipur"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.manipur.gov.in"
+  },
+  {
+    "id": 113,
+    "stateId": 15,
+    "stateSlug": "manipur",
+    "slug": "grand-palace-of-manipur",
+    "name": "Grand Palace of Manipur",
+    "district": "Imphal District",
+    "city": "Imphal",
+    "category": "National Park",
+    "rating": "4.6",
+    "image": "https://images.unsplash.com/photo-photo-1610012803823-74bba2eb703e?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-photo-1610012803823-74bba2eb703e?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1548013146-72479768bada?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1600329976378-01362e584988?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning national park located in the heart of Manipur, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Grand Palace of Manipur is one of the most prominent tourist attractions in Manipur. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Grand Palace of Manipur dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to April",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Imphal, Manipur, India",
+    "latitude": "15.8406",
+    "longitude": "79.2419",
+    "googleMapsUrl": "https://maps.google.com/?q=Grand+Palace+of+Manipur",
+    "nearbyHotels": [
+      "The Grand Manipur",
+      "Heritage Stay Imphal"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Eromba House",
+      "Cafe Manipur"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.manipur.gov.in"
+  },
+  {
+    "id": 114,
+    "stateId": 15,
+    "stateSlug": "manipur",
+    "slug": "beautiful-lake-of-manipur",
+    "name": "Beautiful Lake of Manipur",
+    "district": "Imphal District",
+    "city": "Imphal",
+    "category": "Waterfall",
+    "rating": "5.0",
+    "image": "https://images.unsplash.com/photo-photo-1624898322883-99fc286b772f?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-photo-1624898322883-99fc286b772f?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1563200773-1081387d3a0c?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1590483864455-d368e7ec3f89?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning waterfall located in the heart of Manipur, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Beautiful Lake of Manipur is one of the most prominent tourist attractions in Manipur. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Beautiful Lake of Manipur dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to April",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Imphal, Manipur, India",
+    "latitude": "24.0904",
+    "longitude": "73.5378",
+    "googleMapsUrl": "https://maps.google.com/?q=Beautiful+Lake+of+Manipur",
+    "nearbyHotels": [
+      "The Grand Manipur",
+      "Heritage Stay Imphal"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Eromba House",
+      "Cafe Manipur"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.manipur.gov.in"
+  }
+]

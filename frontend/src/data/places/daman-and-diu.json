@@ -1,0 +1,466 @@
+[
+  {
+    "id": 230,
+    "stateId": 31,
+    "stateSlug": "daman-and-diu",
+    "slug": "daman-city-center",
+    "name": "Daman City Center",
+    "district": "Daman District",
+    "city": "Daman",
+    "category": "Palace",
+    "rating": "4.2",
+    "image": "https://images.unsplash.com/photo-photo-1602715690326-f7bcdafa41c0?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-photo-1602715690326-f7bcdafa41c0?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1512343879784-a960bf40e7f2?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1598466632420-53896b05be5a?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning palace located in the heart of Dadra and Nagar Haveli and Daman and Diu, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Daman City Center is one of the most prominent tourist attractions in Dadra and Nagar Haveli and Daman and Diu. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Daman City Center dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Daman, Dadra and Nagar Haveli and Daman and Diu, India",
+    "latitude": "15.4449",
+    "longitude": "73.0739",
+    "googleMapsUrl": "https://maps.google.com/?q=Daman+City+Center",
+    "nearbyHotels": [
+      "The Grand Dadra and Nagar Haveli and Daman and Diu",
+      "Heritage Stay Daman"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Seafood House",
+      "Cafe Dadra and Nagar Haveli and Daman and Diu"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.daman-and-diu.gov.in"
+  },
+  {
+    "id": 231,
+    "stateId": 31,
+    "stateSlug": "daman-and-diu",
+    "slug": "historic-fort-of-daman",
+    "name": "Historic Fort of Daman",
+    "district": "Daman District",
+    "city": "Daman",
+    "category": "City",
+    "rating": "4.6",
+    "image": "https://images.unsplash.com/photo-photo-1582294109406-8d1cbbe55c5c?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-photo-1582294109406-8d1cbbe55c5c?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1626082260667-0c7f1a357f6f?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1602715690326-f7bcdafa41c0?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning city located in the heart of Dadra and Nagar Haveli and Daman and Diu, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Historic Fort of Daman is one of the most prominent tourist attractions in Dadra and Nagar Haveli and Daman and Diu. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Historic Fort of Daman dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Daman, Dadra and Nagar Haveli and Daman and Diu, India",
+    "latitude": "23.7496",
+    "longitude": "78.2780",
+    "googleMapsUrl": "https://maps.google.com/?q=Historic+Fort+of+Daman",
+    "nearbyHotels": [
+      "The Grand Dadra and Nagar Haveli and Daman and Diu",
+      "Heritage Stay Daman"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Seafood House",
+      "Cafe Dadra and Nagar Haveli and Daman and Diu"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.daman-and-diu.gov.in"
+  },
+  {
+    "id": 232,
+    "stateId": 31,
+    "stateSlug": "daman-and-diu",
+    "slug": "dadra-and-nagar-haveli-and-daman-and-diu-state-museum",
+    "name": "Dadra and Nagar Haveli and Daman and Diu State Museum",
+    "district": "Daman District",
+    "city": "Daman",
+    "category": "Palace",
+    "rating": "4.4",
+    "image": "https://images.unsplash.com/photo-photo-1599661046289-e31897846e41?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-photo-1599661046289-e31897846e41?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1585250462060-155e8840c8fa?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1589136128038-d6c547805177?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning palace located in the heart of Dadra and Nagar Haveli and Daman and Diu, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Dadra and Nagar Haveli and Daman and Diu State Museum is one of the most prominent tourist attractions in Dadra and Nagar Haveli and Daman and Diu. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Dadra and Nagar Haveli and Daman and Diu State Museum dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Daman, Dadra and Nagar Haveli and Daman and Diu, India",
+    "latitude": "24.6588",
+    "longitude": "79.8313",
+    "googleMapsUrl": "https://maps.google.com/?q=Dadra+and+Nagar+Haveli+and+Daman+and+Diu+State+Museum",
+    "nearbyHotels": [
+      "The Grand Dadra and Nagar Haveli and Daman and Diu",
+      "Heritage Stay Daman"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Seafood House",
+      "Cafe Dadra and Nagar Haveli and Daman and Diu"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.daman-and-diu.gov.in"
+  },
+  {
+    "id": 233,
+    "stateId": 31,
+    "stateSlug": "daman-and-diu",
+    "slug": "sacred-temple-of-dadra-and-nagar-haveli-and-daman-and-diu",
+    "name": "Sacred Temple of Dadra and Nagar Haveli and Daman and Diu",
+    "district": "Daman District",
+    "city": "Daman",
+    "category": "Island",
+    "rating": "4.6",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Flag_of_Portugal_%28official%29.svg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/a/a8/Flag_of_Portugal_%28official%29.svg",
+      "https://images.unsplash.com/photo-photo-1596700681577-fb1ffdbcd9bc?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1596700682283-7a91a9f993d3?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning island located in the heart of Dadra and Nagar Haveli and Daman and Diu, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Sacred Temple of Dadra and Nagar Haveli and Daman and Diu is one of the most prominent tourist attractions in Dadra and Nagar Haveli and Daman and Diu. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Sacred Temple of Dadra and Nagar Haveli and Daman and Diu dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Daman, Dadra and Nagar Haveli and Daman and Diu, India",
+    "latitude": "21.5189",
+    "longitude": "76.4195",
+    "googleMapsUrl": "https://maps.google.com/?q=Sacred+Temple+of+Dadra+and+Nagar+Haveli+and+Daman+and+Diu",
+    "nearbyHotels": [
+      "The Grand Dadra and Nagar Haveli and Daman and Diu",
+      "Heritage Stay Daman"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Seafood House",
+      "Cafe Dadra and Nagar Haveli and Daman and Diu"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.daman-and-diu.gov.in"
+  },
+  {
+    "id": 234,
+    "stateId": 31,
+    "stateSlug": "daman-and-diu",
+    "slug": "dadra-and-nagar-haveli-and-daman-and-diu-wildlife-sanctuary",
+    "name": "Dadra and Nagar Haveli and Daman and Diu Wildlife Sanctuary",
+    "district": "Daman District",
+    "city": "Daman",
+    "category": "Fort",
+    "rating": "4.3",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Vanganga_Garden%2C_Silvassa_%2832345632184%29.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/5/5f/Vanganga_Garden%2C_Silvassa_%2832345632184%29.jpg",
+      "https://images.unsplash.com/photo-photo-1589136128038-d6c547805177?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1585250462060-155e8840c8fa?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning fort located in the heart of Dadra and Nagar Haveli and Daman and Diu, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Dadra and Nagar Haveli and Daman and Diu Wildlife Sanctuary is one of the most prominent tourist attractions in Dadra and Nagar Haveli and Daman and Diu. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Dadra and Nagar Haveli and Daman and Diu Wildlife Sanctuary dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Daman, Dadra and Nagar Haveli and Daman and Diu, India",
+    "latitude": "16.7799",
+    "longitude": "77.6006",
+    "googleMapsUrl": "https://maps.google.com/?q=Dadra+and+Nagar+Haveli+and+Daman+and+Diu+Wildlife+Sanctuary",
+    "nearbyHotels": [
+      "The Grand Dadra and Nagar Haveli and Daman and Diu",
+      "Heritage Stay Daman"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Seafood House",
+      "Cafe Dadra and Nagar Haveli and Daman and Diu"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.daman-and-diu.gov.in"
+  },
+  {
+    "id": 235,
+    "stateId": 31,
+    "stateSlug": "daman-and-diu",
+    "slug": "dadra-and-nagar-haveli-and-daman-and-diu-botanical-gardens",
+    "name": "Dadra and Nagar Haveli and Daman and Diu Botanical Gardens",
+    "district": "Daman District",
+    "city": "Daman",
+    "category": "Palace",
+    "rating": "5.0",
+    "image": "https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg",
+      "https://images.unsplash.com/photo-photo-1596700681577-fb1ffdbcd9bc?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1589136128038-d6c547805177?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning palace located in the heart of Dadra and Nagar Haveli and Daman and Diu, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Dadra and Nagar Haveli and Daman and Diu Botanical Gardens is one of the most prominent tourist attractions in Dadra and Nagar Haveli and Daman and Diu. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Dadra and Nagar Haveli and Daman and Diu Botanical Gardens dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Daman, Dadra and Nagar Haveli and Daman and Diu, India",
+    "latitude": "22.0469",
+    "longitude": "76.8885",
+    "googleMapsUrl": "https://maps.google.com/?q=Dadra+and+Nagar+Haveli+and+Daman+and+Diu+Botanical+Gardens",
+    "nearbyHotels": [
+      "The Grand Dadra and Nagar Haveli and Daman and Diu",
+      "Heritage Stay Daman"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Seafood House",
+      "Cafe Dadra and Nagar Haveli and Daman and Diu"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.daman-and-diu.gov.in"
+  },
+  {
+    "id": 236,
+    "stateId": 31,
+    "stateSlug": "daman-and-diu",
+    "slug": "grand-palace-of-dadra-and-nagar-haveli-and-daman-and-diu",
+    "name": "Grand Palace of Dadra and Nagar Haveli and Daman and Diu",
+    "district": "Daman District",
+    "city": "Daman",
+    "category": "Beach",
+    "rating": "4.7",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Flag_of_Portugal_%28official%29.svg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/a/a8/Flag_of_Portugal_%28official%29.svg",
+      "https://images.unsplash.com/photo-photo-1598466632420-53896b05be5a?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1512343879784-a960bf40e7f2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning beach located in the heart of Dadra and Nagar Haveli and Daman and Diu, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Grand Palace of Dadra and Nagar Haveli and Daman and Diu is one of the most prominent tourist attractions in Dadra and Nagar Haveli and Daman and Diu. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Grand Palace of Dadra and Nagar Haveli and Daman and Diu dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Daman, Dadra and Nagar Haveli and Daman and Diu, India",
+    "latitude": "16.7076",
+    "longitude": "73.8171",
+    "googleMapsUrl": "https://maps.google.com/?q=Grand+Palace+of+Dadra+and+Nagar+Haveli+and+Daman+and+Diu",
+    "nearbyHotels": [
+      "The Grand Dadra and Nagar Haveli and Daman and Diu",
+      "Heritage Stay Daman"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Seafood House",
+      "Cafe Dadra and Nagar Haveli and Daman and Diu"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.daman-and-diu.gov.in"
+  },
+  {
+    "id": 237,
+    "stateId": 31,
+    "stateSlug": "daman-and-diu",
+    "slug": "beautiful-lake-of-dadra-and-nagar-haveli-and-daman-and-diu",
+    "name": "Beautiful Lake of Dadra and Nagar Haveli and Daman and Diu",
+    "district": "Daman District",
+    "city": "Daman",
+    "category": "Museum",
+    "rating": "4.6",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a3/View_from_Kosbad_Hill%2C_Dahanu%2C_Thane_-_panoramio.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/a/a3/View_from_Kosbad_Hill%2C_Dahanu%2C_Thane_-_panoramio.jpg",
+      "https://images.unsplash.com/photo-photo-1605634599723-5e92be167d4b?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1598466632420-53896b05be5a?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning museum located in the heart of Dadra and Nagar Haveli and Daman and Diu, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Beautiful Lake of Dadra and Nagar Haveli and Daman and Diu is one of the most prominent tourist attractions in Dadra and Nagar Haveli and Daman and Diu. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Beautiful Lake of Dadra and Nagar Haveli and Daman and Diu dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Daman, Dadra and Nagar Haveli and Daman and Diu, India",
+    "latitude": "24.6058",
+    "longitude": "82.2749",
+    "googleMapsUrl": "https://maps.google.com/?q=Beautiful+Lake+of+Dadra+and+Nagar+Haveli+and+Daman+and+Diu",
+    "nearbyHotels": [
+      "The Grand Dadra and Nagar Haveli and Daman and Diu",
+      "Heritage Stay Daman"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Seafood House",
+      "Cafe Dadra and Nagar Haveli and Daman and Diu"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.daman-and-diu.gov.in"
+  }
+]

@@ -1,0 +1,466 @@
+[
+  {
+    "id": 17,
+    "stateId": 3,
+    "stateSlug": "assam",
+    "slug": "dispur-city-center",
+    "name": "Dispur City Center",
+    "district": "Dispur District",
+    "city": "Dispur",
+    "category": "National Park",
+    "rating": "4.3",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/11/Guwahati_citysky.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/1/11/Guwahati_citysky.jpg",
+      "https://images.unsplash.com/photo-photo-1626082260667-0c7f1a357f6f?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1602715690326-f7bcdafa41c0?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning national park located in the heart of Assam, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Dispur City Center is one of the most prominent tourist attractions in Assam. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Dispur City Center dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "November to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Dispur, Assam, India",
+    "latitude": "24.5478",
+    "longitude": "79.0548",
+    "googleMapsUrl": "https://maps.google.com/?q=Dispur+City+Center",
+    "nearbyHotels": [
+      "The Grand Assam",
+      "Heritage Stay Dispur"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Masor Tenga House",
+      "Cafe Assam"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.assam.gov.in"
+  },
+  {
+    "id": 18,
+    "stateId": 3,
+    "stateSlug": "assam",
+    "slug": "historic-fort-of-dispur",
+    "name": "Historic Fort of Dispur",
+    "district": "Dispur District",
+    "city": "Dispur",
+    "category": "Fort",
+    "rating": "4.7",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/A_tea_garden_in_Dibrugarh.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/5/5d/A_tea_garden_in_Dibrugarh.jpg",
+      "https://images.unsplash.com/photo-photo-1626082260667-0c7f1a357f6f?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1582294109406-8d1cbbe55c5c?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning fort located in the heart of Assam, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Historic Fort of Dispur is one of the most prominent tourist attractions in Assam. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Historic Fort of Dispur dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "November to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Dispur, Assam, India",
+    "latitude": "20.3069",
+    "longitude": "79.7526",
+    "googleMapsUrl": "https://maps.google.com/?q=Historic+Fort+of+Dispur",
+    "nearbyHotels": [
+      "The Grand Assam",
+      "Heritage Stay Dispur"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Masor Tenga House",
+      "Cafe Assam"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.assam.gov.in"
+  },
+  {
+    "id": 19,
+    "stateId": 3,
+    "stateSlug": "assam",
+    "slug": "assam-state-museum",
+    "name": "Assam State Museum",
+    "district": "Dispur District",
+    "city": "Dispur",
+    "category": "Palace",
+    "rating": "4.2",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/19/Assam_State_Museum.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/1/19/Assam_State_Museum.jpg",
+      "https://images.unsplash.com/photo-photo-1610012803823-74bba2eb703e?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1591963236746-95f00e93bc4b?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning palace located in the heart of Assam, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Assam State Museum is one of the most prominent tourist attractions in Assam. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Assam State Museum dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "November to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Dispur, Assam, India",
+    "latitude": "21.8826",
+    "longitude": "82.4122",
+    "googleMapsUrl": "https://maps.google.com/?q=Assam+State+Museum",
+    "nearbyHotels": [
+      "The Grand Assam",
+      "Heritage Stay Dispur"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Masor Tenga House",
+      "Cafe Assam"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.assam.gov.in"
+  },
+  {
+    "id": 20,
+    "stateId": 3,
+    "stateSlug": "assam",
+    "slug": "sacred-temple-of-assam",
+    "name": "Sacred Temple of Assam",
+    "district": "Dispur District",
+    "city": "Dispur",
+    "category": "Palace",
+    "rating": "4.2",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Kamakshya_Shakespeare_Sarani_Arnab_Dutta_2011.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/9/9b/Kamakshya_Shakespeare_Sarani_Arnab_Dutta_2011.jpg",
+      "https://images.unsplash.com/photo-photo-1596700681577-fb1ffdbcd9bc?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1589136128038-d6c547805177?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning palace located in the heart of Assam, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Sacred Temple of Assam is one of the most prominent tourist attractions in Assam. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Sacred Temple of Assam dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "November to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Dispur, Assam, India",
+    "latitude": "15.8471",
+    "longitude": "79.0844",
+    "googleMapsUrl": "https://maps.google.com/?q=Sacred+Temple+of+Assam",
+    "nearbyHotels": [
+      "The Grand Assam",
+      "Heritage Stay Dispur"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Masor Tenga House",
+      "Cafe Assam"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.assam.gov.in"
+  },
+  {
+    "id": 21,
+    "stateId": 3,
+    "stateSlug": "assam",
+    "slug": "assam-wildlife-sanctuary",
+    "name": "Assam Wildlife Sanctuary",
+    "district": "Dispur District",
+    "city": "Dispur",
+    "category": "Adventure",
+    "rating": "4.8",
+    "image": "https://images.unsplash.com/photo-photo-1596700681577-fb1ffdbcd9bc?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-photo-1596700681577-fb1ffdbcd9bc?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1596700682283-7a91a9f993d3?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1582294025176-58c5f949c289?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning adventure located in the heart of Assam, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Assam Wildlife Sanctuary is one of the most prominent tourist attractions in Assam. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Assam Wildlife Sanctuary dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "November to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Dispur, Assam, India",
+    "latitude": "17.5921",
+    "longitude": "75.3142",
+    "googleMapsUrl": "https://maps.google.com/?q=Assam+Wildlife+Sanctuary",
+    "nearbyHotels": [
+      "The Grand Assam",
+      "Heritage Stay Dispur"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Masor Tenga House",
+      "Cafe Assam"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.assam.gov.in"
+  },
+  {
+    "id": 22,
+    "stateId": 3,
+    "stateSlug": "assam",
+    "slug": "assam-botanical-gardens",
+    "name": "Assam Botanical Gardens",
+    "district": "Dispur District",
+    "city": "Dispur",
+    "category": "Hill Station",
+    "rating": "4.9",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/85/Rhino_at_Assam_State_Zoo.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/8/85/Rhino_at_Assam_State_Zoo.jpg",
+      "https://images.unsplash.com/photo-photo-1602715690326-f7bcdafa41c0?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1512343879784-a960bf40e7f2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning hill station located in the heart of Assam, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Assam Botanical Gardens is one of the most prominent tourist attractions in Assam. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Assam Botanical Gardens dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "November to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Dispur, Assam, India",
+    "latitude": "18.8210",
+    "longitude": "77.9922",
+    "googleMapsUrl": "https://maps.google.com/?q=Assam+Botanical+Gardens",
+    "nearbyHotels": [
+      "The Grand Assam",
+      "Heritage Stay Dispur"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Masor Tenga House",
+      "Cafe Assam"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.assam.gov.in"
+  },
+  {
+    "id": 23,
+    "stateId": 3,
+    "stateSlug": "assam",
+    "slug": "grand-palace-of-assam",
+    "name": "Grand Palace of Assam",
+    "district": "Dispur District",
+    "city": "Dispur",
+    "category": "Heritage",
+    "rating": "4.5",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/81/The_Cooch_Behar_Palace_or_the_Cooch_Behar_Rajbari%2C_Cooch_Behar_District%2C_West_Bengal%2C_India_01.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/8/81/The_Cooch_Behar_Palace_or_the_Cooch_Behar_Rajbari%2C_Cooch_Behar_District%2C_West_Bengal%2C_India_01.jpg",
+      "https://images.unsplash.com/photo-photo-1625066495209-1dc5ec3312e7?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1582294109406-8d1cbbe55c5c?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning heritage located in the heart of Assam, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Grand Palace of Assam is one of the most prominent tourist attractions in Assam. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Grand Palace of Assam dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "November to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Dispur, Assam, India",
+    "latitude": "18.4832",
+    "longitude": "81.9547",
+    "googleMapsUrl": "https://maps.google.com/?q=Grand+Palace+of+Assam",
+    "nearbyHotels": [
+      "The Grand Assam",
+      "Heritage Stay Dispur"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Masor Tenga House",
+      "Cafe Assam"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.assam.gov.in"
+  },
+  {
+    "id": 24,
+    "stateId": 3,
+    "stateSlug": "assam",
+    "slug": "beautiful-lake-of-assam",
+    "name": "Beautiful Lake of Assam",
+    "district": "Dispur District",
+    "city": "Dispur",
+    "category": "Wildlife",
+    "rating": "4.8",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Beauty_of_Kaziranga_National_Park.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/f/fe/Beauty_of_Kaziranga_National_Park.jpg",
+      "https://images.unsplash.com/photo-photo-1626082260667-0c7f1a357f6f?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1582294109406-8d1cbbe55c5c?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning wildlife located in the heart of Assam, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Beautiful Lake of Assam is one of the most prominent tourist attractions in Assam. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Beautiful Lake of Assam dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "November to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Dispur, Assam, India",
+    "latitude": "20.6491",
+    "longitude": "73.0588",
+    "googleMapsUrl": "https://maps.google.com/?q=Beautiful+Lake+of+Assam",
+    "nearbyHotels": [
+      "The Grand Assam",
+      "Heritage Stay Dispur"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Masor Tenga House",
+      "Cafe Assam"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.assam.gov.in"
+  }
+]

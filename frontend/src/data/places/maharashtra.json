@@ -1,0 +1,408 @@
+[
+  {
+    "id": 100,
+    "stateId": 14,
+    "stateSlug": "maharashtra",
+    "slug": "mumbai-gateway",
+    "name": "Mumbai Gateway",
+    "district": "Mumbai District",
+    "city": "Mumbai",
+    "category": "City",
+    "rating": "4.8",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Mumbai_03-2016_30_Gateway_of_India.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/3/3a/Mumbai_03-2016_30_Gateway_of_India.jpg",
+      "https://images.unsplash.com/photo-photo-1596700681577-fb1ffdbcd9bc?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1596700682283-7a91a9f993d3?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning city located in the heart of Maharashtra, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Mumbai Gateway is one of the most prominent tourist attractions in Maharashtra. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Mumbai Gateway dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Mumbai, Maharashtra, India",
+    "latitude": "20.0046",
+    "longitude": "73.7709",
+    "googleMapsUrl": "https://maps.google.com/?q=Mumbai+Gateway",
+    "nearbyHotels": [
+      "The Grand Maharashtra",
+      "Heritage Stay Mumbai"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Vada Pav House",
+      "Cafe Maharashtra"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.maharashtra.gov.in"
+  },
+  {
+    "id": 101,
+    "stateId": 14,
+    "stateSlug": "maharashtra",
+    "slug": "mahabaleshwar",
+    "name": "Mahabaleshwar",
+    "district": "Mumbai District",
+    "city": "Mumbai",
+    "category": "Wildlife",
+    "rating": "4.8",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/01/MAHABALESWAR_LANDSCAPE.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/0/01/MAHABALESWAR_LANDSCAPE.jpg",
+      "https://images.unsplash.com/photo-photo-1596700683050-2f9547d7c672?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1582294025176-58c5f949c289?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning wildlife located in the heart of Maharashtra, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Mahabaleshwar is one of the most prominent tourist attractions in Maharashtra. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Mahabaleshwar dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Mumbai, Maharashtra, India",
+    "latitude": "22.9340",
+    "longitude": "80.8065",
+    "googleMapsUrl": "https://maps.google.com/?q=Mahabaleshwar",
+    "nearbyHotels": [
+      "The Grand Maharashtra",
+      "Heritage Stay Mumbai"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Vada Pav House",
+      "Cafe Maharashtra"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.maharashtra.gov.in"
+  },
+  {
+    "id": 102,
+    "stateId": 14,
+    "stateSlug": "maharashtra",
+    "slug": "lonavala",
+    "name": "Lonavala",
+    "district": "Mumbai District",
+    "city": "Mumbai",
+    "category": "Pilgrimage",
+    "rating": "4.5",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Mumbai_Pune_Expressway2.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/5/5d/Mumbai_Pune_Expressway2.jpg",
+      "https://images.unsplash.com/photo-photo-1591963236746-95f00e93bc4b?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1610012803823-74bba2eb703e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning pilgrimage located in the heart of Maharashtra, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Lonavala is one of the most prominent tourist attractions in Maharashtra. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Lonavala dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Mumbai, Maharashtra, India",
+    "latitude": "15.0392",
+    "longitude": "82.3229",
+    "googleMapsUrl": "https://maps.google.com/?q=Lonavala",
+    "nearbyHotels": [
+      "The Grand Maharashtra",
+      "Heritage Stay Mumbai"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Vada Pav House",
+      "Cafe Maharashtra"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.maharashtra.gov.in"
+  },
+  {
+    "id": 103,
+    "stateId": 14,
+    "stateSlug": "maharashtra",
+    "slug": "ajanta-caves",
+    "name": "Ajanta Caves",
+    "district": "Mumbai District",
+    "city": "Mumbai",
+    "category": "Pilgrimage",
+    "rating": "4.2",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Ajanta_%2863%29.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/c/c3/Ajanta_%2863%29.jpg",
+      "https://images.unsplash.com/photo-photo-1596700681577-fb1ffdbcd9bc?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1589136128038-d6c547805177?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning pilgrimage located in the heart of Maharashtra, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Ajanta Caves is one of the most prominent tourist attractions in Maharashtra. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Ajanta Caves dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Mumbai, Maharashtra, India",
+    "latitude": "20.5698",
+    "longitude": "73.7750",
+    "googleMapsUrl": "https://maps.google.com/?q=Ajanta+Caves",
+    "nearbyHotels": [
+      "The Grand Maharashtra",
+      "Heritage Stay Mumbai"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Vada Pav House",
+      "Cafe Maharashtra"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.maharashtra.gov.in"
+  },
+  {
+    "id": 104,
+    "stateId": 14,
+    "stateSlug": "maharashtra",
+    "slug": "ellora-caves",
+    "name": "Ellora Caves",
+    "district": "Mumbai District",
+    "city": "Mumbai",
+    "category": "Pilgrimage",
+    "rating": "4.6",
+    "image": "https://images.unsplash.com/photo-photo-1602216056096-3b40cc0c9944?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-photo-1602216056096-3b40cc0c9944?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1600100397608-f010f41cb8ea?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1625066495209-1dc5ec3312e7?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning pilgrimage located in the heart of Maharashtra, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Ellora Caves is one of the most prominent tourist attractions in Maharashtra. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Ellora Caves dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Mumbai, Maharashtra, India",
+    "latitude": "23.4464",
+    "longitude": "73.1553",
+    "googleMapsUrl": "https://maps.google.com/?q=Ellora+Caves",
+    "nearbyHotels": [
+      "The Grand Maharashtra",
+      "Heritage Stay Mumbai"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Vada Pav House",
+      "Cafe Maharashtra"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.maharashtra.gov.in"
+  },
+  {
+    "id": 105,
+    "stateId": 14,
+    "stateSlug": "maharashtra",
+    "slug": "pune",
+    "name": "Pune",
+    "district": "Mumbai District",
+    "city": "Mumbai",
+    "category": "Fort",
+    "rating": "4.3",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Pune_West_skyline_-_March_2017.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/c/c5/Pune_West_skyline_-_March_2017.jpg",
+      "https://images.unsplash.com/photo-photo-1563200773-1081387d3a0c?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1624898322883-99fc286b772f?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning fort located in the heart of Maharashtra, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Pune is one of the most prominent tourist attractions in Maharashtra. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Pune dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Mumbai, Maharashtra, India",
+    "latitude": "24.3774",
+    "longitude": "73.0290",
+    "googleMapsUrl": "https://maps.google.com/?q=Pune",
+    "nearbyHotels": [
+      "The Grand Maharashtra",
+      "Heritage Stay Mumbai"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Vada Pav House",
+      "Cafe Maharashtra"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.maharashtra.gov.in"
+  },
+  {
+    "id": 106,
+    "stateId": 14,
+    "stateSlug": "maharashtra",
+    "slug": "shirdi",
+    "name": "Shirdi",
+    "district": "Mumbai District",
+    "city": "Mumbai",
+    "category": "Adventure",
+    "rating": "4.6",
+    "image": "https://images.unsplash.com/photo-photo-1599661046289-e31897846e41?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-photo-1599661046289-e31897846e41?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1585250462060-155e8840c8fa?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1589136128038-d6c547805177?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning adventure located in the heart of Maharashtra, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Shirdi is one of the most prominent tourist attractions in Maharashtra. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Shirdi dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Mumbai, Maharashtra, India",
+    "latitude": "19.2866",
+    "longitude": "80.9629",
+    "googleMapsUrl": "https://maps.google.com/?q=Shirdi",
+    "nearbyHotels": [
+      "The Grand Maharashtra",
+      "Heritage Stay Mumbai"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Vada Pav House",
+      "Cafe Maharashtra"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.maharashtra.gov.in"
+  }
+]

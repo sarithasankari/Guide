@@ -1,0 +1,466 @@
+[
+  {
+    "id": 1,
+    "stateId": 1,
+    "stateSlug": "andhra-pradesh",
+    "slug": "amaravati-city-center",
+    "name": "Amaravati City Center",
+    "district": "Amaravati District",
+    "city": "Amaravati",
+    "category": "Nature",
+    "rating": "4.2",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/28/GunturCollage06022017.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/2/28/GunturCollage06022017.jpg",
+      "https://images.unsplash.com/photo-photo-1582294109406-8d1cbbe55c5c?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1626082260667-0c7f1a357f6f?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning nature located in the heart of Andhra Pradesh, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Amaravati City Center is one of the most prominent tourist attractions in Andhra Pradesh. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Amaravati City Center dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "November to February",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Amaravati, Andhra Pradesh, India",
+    "latitude": "16.8096",
+    "longitude": "77.4377",
+    "googleMapsUrl": "https://maps.google.com/?q=Amaravati+City+Center",
+    "nearbyHotels": [
+      "The Grand Andhra Pradesh",
+      "Heritage Stay Amaravati"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Hyderabadi Biryani House",
+      "Cafe Andhra Pradesh"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.andhra-pradesh.gov.in"
+  },
+  {
+    "id": 2,
+    "stateId": 1,
+    "stateSlug": "andhra-pradesh",
+    "slug": "historic-fort-of-amaravati",
+    "name": "Historic Fort of Amaravati",
+    "district": "Amaravati District",
+    "city": "Amaravati",
+    "category": "Temple",
+    "rating": "4.8",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Lepakshi...jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/f/f9/Lepakshi...jpg",
+      "https://images.unsplash.com/photo-photo-1596700681577-fb1ffdbcd9bc?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1596700682283-7a91a9f993d3?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning temple located in the heart of Andhra Pradesh, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Historic Fort of Amaravati is one of the most prominent tourist attractions in Andhra Pradesh. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Historic Fort of Amaravati dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "November to February",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Amaravati, Andhra Pradesh, India",
+    "latitude": "16.9862",
+    "longitude": "80.8646",
+    "googleMapsUrl": "https://maps.google.com/?q=Historic+Fort+of+Amaravati",
+    "nearbyHotels": [
+      "The Grand Andhra Pradesh",
+      "Heritage Stay Amaravati"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Hyderabadi Biryani House",
+      "Cafe Andhra Pradesh"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.andhra-pradesh.gov.in"
+  },
+  {
+    "id": 3,
+    "stateId": 1,
+    "stateSlug": "andhra-pradesh",
+    "slug": "andhra-pradesh-state-museum",
+    "name": "Andhra Pradesh State Museum",
+    "district": "Amaravati District",
+    "city": "Amaravati",
+    "category": "Museum",
+    "rating": "4.1",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/Emblem_of_Andhra_Pradesh.svg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/3/37/Emblem_of_Andhra_Pradesh.svg",
+      "https://images.unsplash.com/photo-photo-1570168007204-dfb528c6958f?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1617415440798-2510b64be16a?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning museum located in the heart of Andhra Pradesh, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Andhra Pradesh State Museum is one of the most prominent tourist attractions in Andhra Pradesh. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Andhra Pradesh State Museum dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "November to February",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Amaravati, Andhra Pradesh, India",
+    "latitude": "22.0772",
+    "longitude": "77.2541",
+    "googleMapsUrl": "https://maps.google.com/?q=Andhra+Pradesh+State+Museum",
+    "nearbyHotels": [
+      "The Grand Andhra Pradesh",
+      "Heritage Stay Amaravati"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Hyderabadi Biryani House",
+      "Cafe Andhra Pradesh"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.andhra-pradesh.gov.in"
+  },
+  {
+    "id": 4,
+    "stateId": 1,
+    "stateSlug": "andhra-pradesh",
+    "slug": "sacred-temple-of-andhra-pradesh",
+    "name": "Sacred Temple of Andhra Pradesh",
+    "district": "Amaravati District",
+    "city": "Amaravati",
+    "category": "Museum",
+    "rating": "4.9",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Tirumala_090615.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/4/4e/Tirumala_090615.jpg",
+      "https://images.unsplash.com/photo-photo-1600329976378-01362e584988?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1582510003544-4d00b7f7415e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning museum located in the heart of Andhra Pradesh, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Sacred Temple of Andhra Pradesh is one of the most prominent tourist attractions in Andhra Pradesh. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Sacred Temple of Andhra Pradesh dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "November to February",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Amaravati, Andhra Pradesh, India",
+    "latitude": "20.6491",
+    "longitude": "78.4476",
+    "googleMapsUrl": "https://maps.google.com/?q=Sacred+Temple+of+Andhra+Pradesh",
+    "nearbyHotels": [
+      "The Grand Andhra Pradesh",
+      "Heritage Stay Amaravati"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Hyderabadi Biryani House",
+      "Cafe Andhra Pradesh"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.andhra-pradesh.gov.in"
+  },
+  {
+    "id": 5,
+    "stateId": 1,
+    "stateSlug": "andhra-pradesh",
+    "slug": "andhra-pradesh-wildlife-sanctuary",
+    "name": "Andhra Pradesh Wildlife Sanctuary",
+    "district": "Amaravati District",
+    "city": "Amaravati",
+    "category": "Adventure",
+    "rating": "4.1",
+    "image": "https://images.unsplash.com/photo-photo-1610012803823-74bba2eb703e?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-photo-1610012803823-74bba2eb703e?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1548013146-72479768bada?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1600329976378-01362e584988?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning adventure located in the heart of Andhra Pradesh, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Andhra Pradesh Wildlife Sanctuary is one of the most prominent tourist attractions in Andhra Pradesh. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Andhra Pradesh Wildlife Sanctuary dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "November to February",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Amaravati, Andhra Pradesh, India",
+    "latitude": "24.0120",
+    "longitude": "73.6278",
+    "googleMapsUrl": "https://maps.google.com/?q=Andhra+Pradesh+Wildlife+Sanctuary",
+    "nearbyHotels": [
+      "The Grand Andhra Pradesh",
+      "Heritage Stay Amaravati"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Hyderabadi Biryani House",
+      "Cafe Andhra Pradesh"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.andhra-pradesh.gov.in"
+  },
+  {
+    "id": 6,
+    "stateId": 1,
+    "stateSlug": "andhra-pradesh",
+    "slug": "andhra-pradesh-botanical-gardens",
+    "name": "Andhra Pradesh Botanical Gardens",
+    "district": "Amaravati District",
+    "city": "Amaravati",
+    "category": "Museum",
+    "rating": "4.6",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f9/%E0%A6%95%E0%A7%8B%E0%A6%9F%E0%A6%B2%E0%A6%BE_%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A6%AF%E0%A6%BC_%E0%A6%AD%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%95%E0%A6%B0_%E0%A6%B0%E0%A7%87%E0%A6%A1%E0%A7%8D%E0%A6%A1%E0%A6%BF_%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AD%E0%A6%BF%E0%A6%A6_%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%2C_%E0%A6%B9%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B0_%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AC%E0%A7%87%E0%A6%B6%E0%A6%A6%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%B0.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/f/f9/%E0%A6%95%E0%A7%8B%E0%A6%9F%E0%A6%B2%E0%A6%BE_%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A6%AF%E0%A6%BC_%E0%A6%AD%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%95%E0%A6%B0_%E0%A6%B0%E0%A7%87%E0%A6%A1%E0%A7%8D%E0%A6%A1%E0%A6%BF_%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AD%E0%A6%BF%E0%A6%A6_%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%2C_%E0%A6%B9%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B0_%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AC%E0%A7%87%E0%A6%B6%E0%A6%A6%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%B0.jpg",
+      "https://images.unsplash.com/photo-photo-1626082260667-0c7f1a357f6f?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1582294109406-8d1cbbe55c5c?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning museum located in the heart of Andhra Pradesh, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Andhra Pradesh Botanical Gardens is one of the most prominent tourist attractions in Andhra Pradesh. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Andhra Pradesh Botanical Gardens dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "November to February",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Amaravati, Andhra Pradesh, India",
+    "latitude": "19.2009",
+    "longitude": "80.9912",
+    "googleMapsUrl": "https://maps.google.com/?q=Andhra+Pradesh+Botanical+Gardens",
+    "nearbyHotels": [
+      "The Grand Andhra Pradesh",
+      "Heritage Stay Amaravati"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Hyderabadi Biryani House",
+      "Cafe Andhra Pradesh"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.andhra-pradesh.gov.in"
+  },
+  {
+    "id": 7,
+    "stateId": 1,
+    "stateSlug": "andhra-pradesh",
+    "slug": "grand-palace-of-andhra-pradesh",
+    "name": "Grand Palace of Andhra Pradesh",
+    "district": "Amaravati District",
+    "city": "Amaravati",
+    "category": "Temple",
+    "rating": "4.8",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/88/Downtown_hyderabad_drone.png",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/8/88/Downtown_hyderabad_drone.png",
+      "https://images.unsplash.com/photo-photo-1570168007204-dfb528c6958f?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1596700683050-2f9547d7c672?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning temple located in the heart of Andhra Pradesh, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Grand Palace of Andhra Pradesh is one of the most prominent tourist attractions in Andhra Pradesh. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Grand Palace of Andhra Pradesh dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "November to February",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Amaravati, Andhra Pradesh, India",
+    "latitude": "18.1629",
+    "longitude": "74.5768",
+    "googleMapsUrl": "https://maps.google.com/?q=Grand+Palace+of+Andhra+Pradesh",
+    "nearbyHotels": [
+      "The Grand Andhra Pradesh",
+      "Heritage Stay Amaravati"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Hyderabadi Biryani House",
+      "Cafe Andhra Pradesh"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.andhra-pradesh.gov.in"
+  },
+  {
+    "id": 8,
+    "stateId": 1,
+    "stateSlug": "andhra-pradesh",
+    "slug": "beautiful-lake-of-andhra-pradesh",
+    "name": "Beautiful Lake of Andhra Pradesh",
+    "district": "Amaravati District",
+    "city": "Amaravati",
+    "category": "Lake",
+    "rating": "4.9",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Late_Vedic_Culture_%281100-500_BCE%29.png",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/5/51/Late_Vedic_Culture_%281100-500_BCE%29.png",
+      "https://images.unsplash.com/photo-photo-1582510003544-4d00b7f7415e?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1588725832729-19ec4f4d2f09?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning lake located in the heart of Andhra Pradesh, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Beautiful Lake of Andhra Pradesh is one of the most prominent tourist attractions in Andhra Pradesh. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Beautiful Lake of Andhra Pradesh dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "November to February",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Amaravati, Andhra Pradesh, India",
+    "latitude": "20.8891",
+    "longitude": "80.6841",
+    "googleMapsUrl": "https://maps.google.com/?q=Beautiful+Lake+of+Andhra+Pradesh",
+    "nearbyHotels": [
+      "The Grand Andhra Pradesh",
+      "Heritage Stay Amaravati"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Hyderabadi Biryani House",
+      "Cafe Andhra Pradesh"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.andhra-pradesh.gov.in"
+  }
+]

@@ -1,0 +1,292 @@
+[
+  {
+    "id": 249,
+    "stateId": 34,
+    "stateSlug": "ladakh",
+    "slug": "pangong-lake",
+    "name": "Pangong Lake",
+    "district": "Leh District",
+    "city": "Leh",
+    "category": "National Park",
+    "rating": "4.0",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/66/ISS054-E-7809_-_View_of_Earth_%28cropped%29.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/6/66/ISS054-E-7809_-_View_of_Earth_%28cropped%29.jpg",
+      "https://images.unsplash.com/photo-photo-1596700681577-fb1ffdbcd9bc?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1596700682283-7a91a9f993d3?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning national park located in the heart of Ladakh, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Pangong Lake is one of the most prominent tourist attractions in Ladakh. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Pangong Lake dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "June to September",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Leh, Ladakh, India",
+    "latitude": "18.6012",
+    "longitude": "81.0735",
+    "googleMapsUrl": "https://maps.google.com/?q=Pangong+Lake",
+    "nearbyHotels": [
+      "The Grand Ladakh",
+      "Heritage Stay Leh"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Thukpa House",
+      "Cafe Ladakh"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.ladakh.gov.in"
+  },
+  {
+    "id": 250,
+    "stateId": 34,
+    "stateSlug": "ladakh",
+    "slug": "nubra-valley",
+    "name": "Nubra Valley",
+    "district": "Leh District",
+    "city": "Leh",
+    "category": "City",
+    "rating": "4.0",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/5_Nubra_valley.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/7/75/5_Nubra_valley.jpg",
+      "https://images.unsplash.com/photo-photo-1589136128038-d6c547805177?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1596700681577-fb1ffdbcd9bc?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning city located in the heart of Ladakh, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Nubra Valley is one of the most prominent tourist attractions in Ladakh. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Nubra Valley dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "June to September",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Leh, Ladakh, India",
+    "latitude": "17.5758",
+    "longitude": "80.2199",
+    "googleMapsUrl": "https://maps.google.com/?q=Nubra+Valley",
+    "nearbyHotels": [
+      "The Grand Ladakh",
+      "Heritage Stay Leh"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Thukpa House",
+      "Cafe Ladakh"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.ladakh.gov.in"
+  },
+  {
+    "id": 251,
+    "stateId": 34,
+    "stateSlug": "ladakh",
+    "slug": "magnetic-hill",
+    "name": "Magnetic Hill",
+    "district": "Leh District",
+    "city": "Leh",
+    "category": "National Park",
+    "rating": "4.5",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Magnetic_Hill%2C_New_Brunswick.JPG",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/5/5b/Magnetic_Hill%2C_New_Brunswick.JPG",
+      "https://images.unsplash.com/photo-photo-1602216056096-3b40cc0c9944?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1617415440798-2510b64be16a?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning national park located in the heart of Ladakh, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Magnetic Hill is one of the most prominent tourist attractions in Ladakh. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Magnetic Hill dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "June to September",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Leh, Ladakh, India",
+    "latitude": "19.0579",
+    "longitude": "79.8911",
+    "googleMapsUrl": "https://maps.google.com/?q=Magnetic+Hill",
+    "nearbyHotels": [
+      "The Grand Ladakh",
+      "Heritage Stay Leh"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Thukpa House",
+      "Cafe Ladakh"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.ladakh.gov.in"
+  },
+  {
+    "id": 252,
+    "stateId": 34,
+    "stateSlug": "ladakh",
+    "slug": "leh-palace",
+    "name": "Leh Palace",
+    "district": "Leh District",
+    "city": "Leh",
+    "category": "Palace",
+    "rating": "4.4",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Leh_Palace_2011.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/3/36/Leh_Palace_2011.jpg",
+      "https://images.unsplash.com/photo-photo-1585250462060-155e8840c8fa?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1589136128038-d6c547805177?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning palace located in the heart of Ladakh, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Leh Palace is one of the most prominent tourist attractions in Ladakh. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Leh Palace dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "June to September",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Leh, Ladakh, India",
+    "latitude": "19.1653",
+    "longitude": "75.2574",
+    "googleMapsUrl": "https://maps.google.com/?q=Leh+Palace",
+    "nearbyHotels": [
+      "The Grand Ladakh",
+      "Heritage Stay Leh"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Thukpa House",
+      "Cafe Ladakh"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.ladakh.gov.in"
+  },
+  {
+    "id": 253,
+    "stateId": 34,
+    "stateSlug": "ladakh",
+    "slug": "thiksey-monastery",
+    "name": "Thiksey Monastery",
+    "district": "Leh District",
+    "city": "Leh",
+    "category": "Wildlife",
+    "rating": "4.9",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Thikse_Monastery_.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/e/e5/Thikse_Monastery_.jpg",
+      "https://images.unsplash.com/photo-photo-1563200773-1081387d3a0c?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1590483864455-d368e7ec3f89?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning wildlife located in the heart of Ladakh, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Thiksey Monastery is one of the most prominent tourist attractions in Ladakh. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Thiksey Monastery dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "June to September",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Leh, Ladakh, India",
+    "latitude": "15.3964",
+    "longitude": "82.1094",
+    "googleMapsUrl": "https://maps.google.com/?q=Thiksey+Monastery",
+    "nearbyHotels": [
+      "The Grand Ladakh",
+      "Heritage Stay Leh"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Thukpa House",
+      "Cafe Ladakh"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.ladakh.gov.in"
+  }
+]

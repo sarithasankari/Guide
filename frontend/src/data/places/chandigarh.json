@@ -1,0 +1,466 @@
+[
+  {
+    "id": 222,
+    "stateId": 30,
+    "stateSlug": "chandigarh",
+    "slug": "chandigarh-city-center",
+    "name": "Chandigarh City Center",
+    "district": "Chandigarh District",
+    "city": "Chandigarh",
+    "category": "Heritage",
+    "rating": "4.5",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/76/Open_Hand_monument%2C_Chandigarh.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/7/76/Open_Hand_monument%2C_Chandigarh.jpg",
+      "https://images.unsplash.com/photo-photo-1626082260667-0c7f1a357f6f?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1602715690326-f7bcdafa41c0?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning heritage located in the heart of Chandigarh, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Chandigarh City Center is one of the most prominent tourist attractions in Chandigarh. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Chandigarh City Center dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Chandigarh, Chandigarh, India",
+    "latitude": "18.8598",
+    "longitude": "78.8089",
+    "googleMapsUrl": "https://maps.google.com/?q=Chandigarh+City+Center",
+    "nearbyHotels": [
+      "The Grand Chandigarh",
+      "Heritage Stay Chandigarh"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Chole Bhature House",
+      "Cafe Chandigarh"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.chandigarh.gov.in"
+  },
+  {
+    "id": 223,
+    "stateId": 30,
+    "stateSlug": "chandigarh",
+    "slug": "historic-fort-of-chandigarh",
+    "name": "Historic Fort of Chandigarh",
+    "district": "Chandigarh District",
+    "city": "Chandigarh",
+    "category": "Lake",
+    "rating": "5.0",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/76/Open_Hand_monument%2C_Chandigarh.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/7/76/Open_Hand_monument%2C_Chandigarh.jpg",
+      "https://images.unsplash.com/photo-photo-1602216056096-3b40cc0c9944?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1617415440798-2510b64be16a?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning lake located in the heart of Chandigarh, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Historic Fort of Chandigarh is one of the most prominent tourist attractions in Chandigarh. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Historic Fort of Chandigarh dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Chandigarh, Chandigarh, India",
+    "latitude": "15.8676",
+    "longitude": "79.5329",
+    "googleMapsUrl": "https://maps.google.com/?q=Historic+Fort+of+Chandigarh",
+    "nearbyHotels": [
+      "The Grand Chandigarh",
+      "Heritage Stay Chandigarh"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Chole Bhature House",
+      "Cafe Chandigarh"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.chandigarh.gov.in"
+  },
+  {
+    "id": 224,
+    "stateId": 30,
+    "stateSlug": "chandigarh",
+    "slug": "chandigarh-state-museum",
+    "name": "Chandigarh State Museum",
+    "district": "Chandigarh District",
+    "city": "Chandigarh",
+    "category": "Palace",
+    "rating": "4.6",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Chandigarh_Museum_and_Art_Gallery.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/a/a5/Chandigarh_Museum_and_Art_Gallery.jpg",
+      "https://images.unsplash.com/photo-photo-1598466632420-53896b05be5a?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1512343879784-a960bf40e7f2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning palace located in the heart of Chandigarh, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Chandigarh State Museum is one of the most prominent tourist attractions in Chandigarh. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Chandigarh State Museum dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Chandigarh, Chandigarh, India",
+    "latitude": "19.3923",
+    "longitude": "75.2333",
+    "googleMapsUrl": "https://maps.google.com/?q=Chandigarh+State+Museum",
+    "nearbyHotels": [
+      "The Grand Chandigarh",
+      "Heritage Stay Chandigarh"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Chole Bhature House",
+      "Cafe Chandigarh"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.chandigarh.gov.in"
+  },
+  {
+    "id": 225,
+    "stateId": 30,
+    "stateSlug": "chandigarh",
+    "slug": "sacred-temple-of-chandigarh",
+    "name": "Sacred Temple of Chandigarh",
+    "district": "Chandigarh District",
+    "city": "Chandigarh",
+    "category": "Monument",
+    "rating": "4.7",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/76/Open_Hand_monument%2C_Chandigarh.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/7/76/Open_Hand_monument%2C_Chandigarh.jpg",
+      "https://images.unsplash.com/photo-photo-1596700682283-7a91a9f993d3?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1582294025176-58c5f949c289?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning monument located in the heart of Chandigarh, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Sacred Temple of Chandigarh is one of the most prominent tourist attractions in Chandigarh. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Sacred Temple of Chandigarh dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Chandigarh, Chandigarh, India",
+    "latitude": "17.4215",
+    "longitude": "74.9865",
+    "googleMapsUrl": "https://maps.google.com/?q=Sacred+Temple+of+Chandigarh",
+    "nearbyHotels": [
+      "The Grand Chandigarh",
+      "Heritage Stay Chandigarh"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Chole Bhature House",
+      "Cafe Chandigarh"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.chandigarh.gov.in"
+  },
+  {
+    "id": 226,
+    "stateId": 30,
+    "stateSlug": "chandigarh",
+    "slug": "chandigarh-wildlife-sanctuary",
+    "name": "Chandigarh Wildlife Sanctuary",
+    "district": "Chandigarh District",
+    "city": "Chandigarh",
+    "category": "Heritage",
+    "rating": "4.9",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Entrance_of_Sukhna_Wildlife_Sanctuary%2CChandigarh%2C_India.JPG",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/a/a6/Entrance_of_Sukhna_Wildlife_Sanctuary%2CChandigarh%2C_India.JPG",
+      "https://images.unsplash.com/photo-photo-1563200773-1081387d3a0c?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1624898322883-99fc286b772f?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning heritage located in the heart of Chandigarh, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Chandigarh Wildlife Sanctuary is one of the most prominent tourist attractions in Chandigarh. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Chandigarh Wildlife Sanctuary dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Chandigarh, Chandigarh, India",
+    "latitude": "17.9494",
+    "longitude": "82.5062",
+    "googleMapsUrl": "https://maps.google.com/?q=Chandigarh+Wildlife+Sanctuary",
+    "nearbyHotels": [
+      "The Grand Chandigarh",
+      "Heritage Stay Chandigarh"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Chole Bhature House",
+      "Cafe Chandigarh"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.chandigarh.gov.in"
+  },
+  {
+    "id": 227,
+    "stateId": 30,
+    "stateSlug": "chandigarh",
+    "slug": "chandigarh-botanical-gardens",
+    "name": "Chandigarh Botanical Gardens",
+    "district": "Chandigarh District",
+    "city": "Chandigarh",
+    "category": "National Park",
+    "rating": "4.5",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1f/When_the_big_cat_turned_to_my_camera%21.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/1/1f/When_the_big_cat_turned_to_my_camera%21.jpg",
+      "https://images.unsplash.com/photo-photo-1596700683050-2f9547d7c672?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1570168007204-dfb528c6958f?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning national park located in the heart of Chandigarh, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Chandigarh Botanical Gardens is one of the most prominent tourist attractions in Chandigarh. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Chandigarh Botanical Gardens dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Chandigarh, Chandigarh, India",
+    "latitude": "21.6434",
+    "longitude": "74.5545",
+    "googleMapsUrl": "https://maps.google.com/?q=Chandigarh+Botanical+Gardens",
+    "nearbyHotels": [
+      "The Grand Chandigarh",
+      "Heritage Stay Chandigarh"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Chole Bhature House",
+      "Cafe Chandigarh"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.chandigarh.gov.in"
+  },
+  {
+    "id": 228,
+    "stateId": 30,
+    "stateSlug": "chandigarh",
+    "slug": "grand-palace-of-chandigarh",
+    "name": "Grand Palace of Chandigarh",
+    "district": "Chandigarh District",
+    "city": "Chandigarh",
+    "category": "Lake",
+    "rating": "4.4",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Palace_of_Assembly_Chandigarh_2006.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/1/1a/Palace_of_Assembly_Chandigarh_2006.jpg",
+      "https://images.unsplash.com/photo-photo-1563200773-1081387d3a0c?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1624898322883-99fc286b772f?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning lake located in the heart of Chandigarh, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Grand Palace of Chandigarh is one of the most prominent tourist attractions in Chandigarh. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Grand Palace of Chandigarh dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Chandigarh, Chandigarh, India",
+    "latitude": "23.9950",
+    "longitude": "77.0157",
+    "googleMapsUrl": "https://maps.google.com/?q=Grand+Palace+of+Chandigarh",
+    "nearbyHotels": [
+      "The Grand Chandigarh",
+      "Heritage Stay Chandigarh"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Chole Bhature House",
+      "Cafe Chandigarh"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.chandigarh.gov.in"
+  },
+  {
+    "id": 229,
+    "stateId": 30,
+    "stateSlug": "chandigarh",
+    "slug": "beautiful-lake-of-chandigarh",
+    "name": "Beautiful Lake of Chandigarh",
+    "district": "Chandigarh District",
+    "city": "Chandigarh",
+    "category": "Fort",
+    "rating": "4.5",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/76/Open_Hand_monument%2C_Chandigarh.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/7/76/Open_Hand_monument%2C_Chandigarh.jpg",
+      "https://images.unsplash.com/photo-photo-1624898322883-99fc286b772f?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1563200773-1081387d3a0c?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning fort located in the heart of Chandigarh, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Beautiful Lake of Chandigarh is one of the most prominent tourist attractions in Chandigarh. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Beautiful Lake of Chandigarh dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Chandigarh, Chandigarh, India",
+    "latitude": "17.7258",
+    "longitude": "73.0432",
+    "googleMapsUrl": "https://maps.google.com/?q=Beautiful+Lake+of+Chandigarh",
+    "nearbyHotels": [
+      "The Grand Chandigarh",
+      "Heritage Stay Chandigarh"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Chole Bhature House",
+      "Cafe Chandigarh"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.chandigarh.gov.in"
+  }
+]

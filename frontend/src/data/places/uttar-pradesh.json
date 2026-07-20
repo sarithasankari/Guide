@@ -1,0 +1,408 @@
+[
+  {
+    "id": 197,
+    "stateId": 26,
+    "stateSlug": "uttar-pradesh",
+    "slug": "taj-mahal",
+    "name": "Taj Mahal",
+    "district": "Lucknow District",
+    "city": "Lucknow",
+    "category": "City",
+    "rating": "4.7",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Taj_Mahal_%28Edited%29.jpeg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/1/1d/Taj_Mahal_%28Edited%29.jpeg",
+      "https://images.unsplash.com/photo-photo-1602715690326-f7bcdafa41c0?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1626082260667-0c7f1a357f6f?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning city located in the heart of Uttar Pradesh, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Taj Mahal is one of the most prominent tourist attractions in Uttar Pradesh. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Taj Mahal dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Lucknow, Uttar Pradesh, India",
+    "latitude": "16.9027",
+    "longitude": "80.0243",
+    "googleMapsUrl": "https://maps.google.com/?q=Taj+Mahal",
+    "nearbyHotels": [
+      "The Grand Uttar Pradesh",
+      "Heritage Stay Lucknow"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Tunday Kababi House",
+      "Cafe Uttar Pradesh"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.uttar-pradesh.gov.in"
+  },
+  {
+    "id": 198,
+    "stateId": 26,
+    "stateSlug": "uttar-pradesh",
+    "slug": "varanasi-ghats",
+    "name": "Varanasi Ghats",
+    "district": "Lucknow District",
+    "city": "Lucknow",
+    "category": "National Park",
+    "rating": "4.7",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/04/Ahilya_Ghat_by_the_Ganges%2C_Varanasi.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/0/04/Ahilya_Ghat_by_the_Ganges%2C_Varanasi.jpg",
+      "https://images.unsplash.com/photo-photo-1625066495209-1dc5ec3312e7?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1582294109406-8d1cbbe55c5c?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning national park located in the heart of Uttar Pradesh, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Varanasi Ghats is one of the most prominent tourist attractions in Uttar Pradesh. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Varanasi Ghats dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Lucknow, Uttar Pradesh, India",
+    "latitude": "23.1230",
+    "longitude": "78.4836",
+    "googleMapsUrl": "https://maps.google.com/?q=Varanasi+Ghats",
+    "nearbyHotels": [
+      "The Grand Uttar Pradesh",
+      "Heritage Stay Lucknow"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Tunday Kababi House",
+      "Cafe Uttar Pradesh"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.uttar-pradesh.gov.in"
+  },
+  {
+    "id": 199,
+    "stateId": 26,
+    "stateSlug": "uttar-pradesh",
+    "slug": "agra-fort",
+    "name": "Agra Fort",
+    "district": "Lucknow District",
+    "city": "Lucknow",
+    "category": "Wildlife",
+    "rating": "4.5",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Agra_03-2016_10_Agra_Fort.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/7/7e/Agra_03-2016_10_Agra_Fort.jpg",
+      "https://images.unsplash.com/photo-photo-1582510003544-4d00b7f7415e?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1588725832729-19ec4f4d2f09?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning wildlife located in the heart of Uttar Pradesh, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Agra Fort is one of the most prominent tourist attractions in Uttar Pradesh. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Agra Fort dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Lucknow, Uttar Pradesh, India",
+    "latitude": "23.7715",
+    "longitude": "81.8663",
+    "googleMapsUrl": "https://maps.google.com/?q=Agra+Fort",
+    "nearbyHotels": [
+      "The Grand Uttar Pradesh",
+      "Heritage Stay Lucknow"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Tunday Kababi House",
+      "Cafe Uttar Pradesh"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.uttar-pradesh.gov.in"
+  },
+  {
+    "id": 200,
+    "stateId": 26,
+    "stateSlug": "uttar-pradesh",
+    "slug": "sarnath",
+    "name": "Sarnath",
+    "district": "Lucknow District",
+    "city": "Lucknow",
+    "category": "Fort",
+    "rating": "4.3",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Ancient_Buddhist_monasteries_near_Dhamekh_Stupa_Monument_Site%2C_Sarnath.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/d/d9/Ancient_Buddhist_monasteries_near_Dhamekh_Stupa_Monument_Site%2C_Sarnath.jpg",
+      "https://images.unsplash.com/photo-photo-1582294025176-58c5f949c289?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1596700682283-7a91a9f993d3?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning fort located in the heart of Uttar Pradesh, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Sarnath is one of the most prominent tourist attractions in Uttar Pradesh. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Sarnath dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Lucknow, Uttar Pradesh, India",
+    "latitude": "17.4590",
+    "longitude": "80.5797",
+    "googleMapsUrl": "https://maps.google.com/?q=Sarnath",
+    "nearbyHotels": [
+      "The Grand Uttar Pradesh",
+      "Heritage Stay Lucknow"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Tunday Kababi House",
+      "Cafe Uttar Pradesh"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.uttar-pradesh.gov.in"
+  },
+  {
+    "id": 201,
+    "stateId": 26,
+    "stateSlug": "uttar-pradesh",
+    "slug": "fatehpur-sikri",
+    "name": "Fatehpur Sikri",
+    "district": "Lucknow District",
+    "city": "Lucknow",
+    "category": "UNESCO",
+    "rating": "4.6",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Fatehput_Sikiri_Buland_Darwaza_gate_2010.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/b/b5/Fatehput_Sikiri_Buland_Darwaza_gate_2010.jpg",
+      "https://images.unsplash.com/photo-photo-1582510003544-4d00b7f7415e?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1588725832729-19ec4f4d2f09?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning unesco located in the heart of Uttar Pradesh, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Fatehpur Sikri is one of the most prominent tourist attractions in Uttar Pradesh. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Fatehpur Sikri dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Lucknow, Uttar Pradesh, India",
+    "latitude": "20.2734",
+    "longitude": "77.8180",
+    "googleMapsUrl": "https://maps.google.com/?q=Fatehpur+Sikri",
+    "nearbyHotels": [
+      "The Grand Uttar Pradesh",
+      "Heritage Stay Lucknow"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Tunday Kababi House",
+      "Cafe Uttar Pradesh"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.uttar-pradesh.gov.in"
+  },
+  {
+    "id": 202,
+    "stateId": 26,
+    "stateSlug": "uttar-pradesh",
+    "slug": "mathura",
+    "name": "Mathura",
+    "district": "Lucknow District",
+    "city": "Lucknow",
+    "category": "Pilgrimage",
+    "rating": "4.0",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Vishram_Ghat.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/c/cc/Vishram_Ghat.jpg",
+      "https://images.unsplash.com/photo-photo-1512343879784-a960bf40e7f2?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1602715690326-f7bcdafa41c0?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning pilgrimage located in the heart of Uttar Pradesh, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Mathura is one of the most prominent tourist attractions in Uttar Pradesh. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Mathura dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Lucknow, Uttar Pradesh, India",
+    "latitude": "15.6838",
+    "longitude": "79.0284",
+    "googleMapsUrl": "https://maps.google.com/?q=Mathura",
+    "nearbyHotels": [
+      "The Grand Uttar Pradesh",
+      "Heritage Stay Lucknow"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Tunday Kababi House",
+      "Cafe Uttar Pradesh"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.uttar-pradesh.gov.in"
+  },
+  {
+    "id": 203,
+    "stateId": 26,
+    "stateSlug": "uttar-pradesh",
+    "slug": "vrindavan",
+    "name": "Vrindavan",
+    "district": "Lucknow District",
+    "city": "Lucknow",
+    "category": "Monument",
+    "rating": "4.5",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Iskon_Temple%2C_Vrindawan.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/b/bf/Iskon_Temple%2C_Vrindawan.jpg",
+      "https://images.unsplash.com/photo-photo-1626082260667-0c7f1a357f6f?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1582294109406-8d1cbbe55c5c?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning monument located in the heart of Uttar Pradesh, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Vrindavan is one of the most prominent tourist attractions in Uttar Pradesh. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Vrindavan dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Lucknow, Uttar Pradesh, India",
+    "latitude": "16.1580",
+    "longitude": "77.1443",
+    "googleMapsUrl": "https://maps.google.com/?q=Vrindavan",
+    "nearbyHotels": [
+      "The Grand Uttar Pradesh",
+      "Heritage Stay Lucknow"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Tunday Kababi House",
+      "Cafe Uttar Pradesh"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.uttar-pradesh.gov.in"
+  }
+]

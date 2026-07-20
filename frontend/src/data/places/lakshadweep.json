@@ -1,0 +1,466 @@
+[
+  {
+    "id": 254,
+    "stateId": 35,
+    "stateSlug": "lakshadweep",
+    "slug": "kavaratti-city-center",
+    "name": "Kavaratti City Center",
+    "district": "Kavaratti District",
+    "city": "Kavaratti",
+    "category": "Heritage",
+    "rating": "4.9",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/23/Kavaratii.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/2/23/Kavaratii.jpg",
+      "https://images.unsplash.com/photo-photo-1626082260667-0c7f1a357f6f?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1602715690326-f7bcdafa41c0?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning heritage located in the heart of Lakshadweep, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Kavaratti City Center is one of the most prominent tourist attractions in Lakshadweep. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Kavaratti City Center dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to May",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Kavaratti, Lakshadweep, India",
+    "latitude": "23.5839",
+    "longitude": "74.2873",
+    "googleMapsUrl": "https://maps.google.com/?q=Kavaratti+City+Center",
+    "nearbyHotels": [
+      "The Grand Lakshadweep",
+      "Heritage Stay Kavaratti"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Octopus Fry House",
+      "Cafe Lakshadweep"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.lakshadweep.gov.in"
+  },
+  {
+    "id": 255,
+    "stateId": 35,
+    "stateSlug": "lakshadweep",
+    "slug": "historic-fort-of-kavaratti",
+    "name": "Historic Fort of Kavaratti",
+    "district": "Kavaratti District",
+    "city": "Kavaratti",
+    "category": "UNESCO",
+    "rating": "4.9",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Malabar_District_Map.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/f/fb/Malabar_District_Map.jpg",
+      "https://images.unsplash.com/photo-photo-1589136128038-d6c547805177?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1596700681577-fb1ffdbcd9bc?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning unesco located in the heart of Lakshadweep, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Historic Fort of Kavaratti is one of the most prominent tourist attractions in Lakshadweep. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Historic Fort of Kavaratti dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to May",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Kavaratti, Lakshadweep, India",
+    "latitude": "24.3265",
+    "longitude": "79.0883",
+    "googleMapsUrl": "https://maps.google.com/?q=Historic+Fort+of+Kavaratti",
+    "nearbyHotels": [
+      "The Grand Lakshadweep",
+      "Heritage Stay Kavaratti"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Octopus Fry House",
+      "Cafe Lakshadweep"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.lakshadweep.gov.in"
+  },
+  {
+    "id": 256,
+    "stateId": 35,
+    "stateSlug": "lakshadweep",
+    "slug": "lakshadweep-state-museum",
+    "name": "Lakshadweep State Museum",
+    "district": "Kavaratti District",
+    "city": "Kavaratti",
+    "category": "Island",
+    "rating": "4.5",
+    "image": "https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg",
+      "https://images.unsplash.com/photo-photo-1605634599723-5e92be167d4b?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1624898322883-99fc286b772f?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning island located in the heart of Lakshadweep, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Lakshadweep State Museum is one of the most prominent tourist attractions in Lakshadweep. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Lakshadweep State Museum dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to May",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Kavaratti, Lakshadweep, India",
+    "latitude": "19.0124",
+    "longitude": "80.5940",
+    "googleMapsUrl": "https://maps.google.com/?q=Lakshadweep+State+Museum",
+    "nearbyHotels": [
+      "The Grand Lakshadweep",
+      "Heritage Stay Kavaratti"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Octopus Fry House",
+      "Cafe Lakshadweep"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.lakshadweep.gov.in"
+  },
+  {
+    "id": 257,
+    "stateId": 35,
+    "stateSlug": "lakshadweep",
+    "slug": "sacred-temple-of-lakshadweep",
+    "name": "Sacred Temple of Lakshadweep",
+    "district": "Kavaratti District",
+    "city": "Kavaratti",
+    "category": "Temple",
+    "rating": "4.2",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Haripad_Subrahmanya_swami_Temple.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/3/3f/Haripad_Subrahmanya_swami_Temple.jpg",
+      "https://images.unsplash.com/photo-photo-1600100397608-f010f41cb8ea?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1602216056096-3b40cc0c9944?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning temple located in the heart of Lakshadweep, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Sacred Temple of Lakshadweep is one of the most prominent tourist attractions in Lakshadweep. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Sacred Temple of Lakshadweep dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to May",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Kavaratti, Lakshadweep, India",
+    "latitude": "15.4529",
+    "longitude": "80.3371",
+    "googleMapsUrl": "https://maps.google.com/?q=Sacred+Temple+of+Lakshadweep",
+    "nearbyHotels": [
+      "The Grand Lakshadweep",
+      "Heritage Stay Kavaratti"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Octopus Fry House",
+      "Cafe Lakshadweep"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.lakshadweep.gov.in"
+  },
+  {
+    "id": 258,
+    "stateId": 35,
+    "stateSlug": "lakshadweep",
+    "slug": "lakshadweep-wildlife-sanctuary",
+    "name": "Lakshadweep Wildlife Sanctuary",
+    "district": "Kavaratti District",
+    "city": "Kavaratti",
+    "category": "Palace",
+    "rating": "4.3",
+    "image": "https://images.unsplash.com/photo-photo-1599661046289-e31897846e41?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-photo-1599661046289-e31897846e41?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1588725832729-19ec4f4d2f09?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1582510003544-4d00b7f7415e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning palace located in the heart of Lakshadweep, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Lakshadweep Wildlife Sanctuary is one of the most prominent tourist attractions in Lakshadweep. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Lakshadweep Wildlife Sanctuary dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to May",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Kavaratti, Lakshadweep, India",
+    "latitude": "21.6049",
+    "longitude": "73.6697",
+    "googleMapsUrl": "https://maps.google.com/?q=Lakshadweep+Wildlife+Sanctuary",
+    "nearbyHotels": [
+      "The Grand Lakshadweep",
+      "Heritage Stay Kavaratti"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Octopus Fry House",
+      "Cafe Lakshadweep"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.lakshadweep.gov.in"
+  },
+  {
+    "id": 259,
+    "stateId": 35,
+    "stateSlug": "lakshadweep",
+    "slug": "lakshadweep-botanical-gardens",
+    "name": "Lakshadweep Botanical Gardens",
+    "district": "Kavaratti District",
+    "city": "Kavaratti",
+    "category": "Fort",
+    "rating": "4.6",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/43/Uninhabited_island_near_Rathafandhoo%2C_Maldives-_Maldives_is_famous_for_its_spectacular_coral_reefs_2013-04-05_01-57.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/4/43/Uninhabited_island_near_Rathafandhoo%2C_Maldives-_Maldives_is_famous_for_its_spectacular_coral_reefs_2013-04-05_01-57.jpg",
+      "https://images.unsplash.com/photo-photo-1585250462060-155e8840c8fa?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1599661046289-e31897846e41?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning fort located in the heart of Lakshadweep, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Lakshadweep Botanical Gardens is one of the most prominent tourist attractions in Lakshadweep. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Lakshadweep Botanical Gardens dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to May",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Kavaratti, Lakshadweep, India",
+    "latitude": "24.4286",
+    "longitude": "80.6707",
+    "googleMapsUrl": "https://maps.google.com/?q=Lakshadweep+Botanical+Gardens",
+    "nearbyHotels": [
+      "The Grand Lakshadweep",
+      "Heritage Stay Kavaratti"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Octopus Fry House",
+      "Cafe Lakshadweep"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.lakshadweep.gov.in"
+  },
+  {
+    "id": 260,
+    "stateId": 35,
+    "stateSlug": "lakshadweep",
+    "slug": "grand-palace-of-lakshadweep",
+    "name": "Grand Palace of Lakshadweep",
+    "district": "Kavaratti District",
+    "city": "Kavaratti",
+    "category": "Palace",
+    "rating": "4.7",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/Kingkoti_palace_dwaramu_cropped.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/d/db/Kingkoti_palace_dwaramu_cropped.jpg",
+      "https://images.unsplash.com/photo-photo-1599661046289-e31897846e41?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1585250462060-155e8840c8fa?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning palace located in the heart of Lakshadweep, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Grand Palace of Lakshadweep is one of the most prominent tourist attractions in Lakshadweep. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Grand Palace of Lakshadweep dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to May",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Kavaratti, Lakshadweep, India",
+    "latitude": "23.2874",
+    "longitude": "82.1509",
+    "googleMapsUrl": "https://maps.google.com/?q=Grand+Palace+of+Lakshadweep",
+    "nearbyHotels": [
+      "The Grand Lakshadweep",
+      "Heritage Stay Kavaratti"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Octopus Fry House",
+      "Cafe Lakshadweep"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.lakshadweep.gov.in"
+  },
+  {
+    "id": 261,
+    "stateId": 35,
+    "stateSlug": "lakshadweep",
+    "slug": "beautiful-lake-of-lakshadweep",
+    "name": "Beautiful Lake of Lakshadweep",
+    "district": "Kavaratti District",
+    "city": "Kavaratti",
+    "category": "Beach",
+    "rating": "4.8",
+    "image": "https://images.unsplash.com/photo-photo-1548013146-72479768bada?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-photo-1548013146-72479768bada?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1610012803823-74bba2eb703e?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1591963236746-95f00e93bc4b?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning beach located in the heart of Lakshadweep, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Beautiful Lake of Lakshadweep is one of the most prominent tourist attractions in Lakshadweep. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Beautiful Lake of Lakshadweep dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to May",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Kavaratti, Lakshadweep, India",
+    "latitude": "18.6892",
+    "longitude": "78.0704",
+    "googleMapsUrl": "https://maps.google.com/?q=Beautiful+Lake+of+Lakshadweep",
+    "nearbyHotels": [
+      "The Grand Lakshadweep",
+      "Heritage Stay Kavaratti"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Octopus Fry House",
+      "Cafe Lakshadweep"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.lakshadweep.gov.in"
+  }
+]

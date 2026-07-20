@@ -1,0 +1,466 @@
+[
+  {
+    "id": 204,
+    "stateId": 27,
+    "stateSlug": "uttarakhand",
+    "slug": "rishikesh",
+    "name": "Rishikesh",
+    "district": "Dehradun District",
+    "city": "Dehradun",
+    "category": "Lake",
+    "rating": "4.4",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/74/Trayambakeshwar_Temple_VK.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/7/74/Trayambakeshwar_Temple_VK.jpg",
+      "https://images.unsplash.com/photo-photo-1617415440798-2510b64be16a?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1570168007204-dfb528c6958f?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning lake located in the heart of Uttarakhand, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Rishikesh is one of the most prominent tourist attractions in Uttarakhand. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Rishikesh dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "March to June",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Dehradun, Uttarakhand, India",
+    "latitude": "17.0724",
+    "longitude": "79.1743",
+    "googleMapsUrl": "https://maps.google.com/?q=Rishikesh",
+    "nearbyHotels": [
+      "The Grand Uttarakhand",
+      "Heritage Stay Dehradun"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Aloo ke Gutke House",
+      "Cafe Uttarakhand"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.uttarakhand.gov.in"
+  },
+  {
+    "id": 205,
+    "stateId": 27,
+    "stateSlug": "uttarakhand",
+    "slug": "nainital",
+    "name": "Nainital",
+    "district": "Dehradun District",
+    "city": "Dehradun",
+    "category": "Palace",
+    "rating": "4.8",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Nainital_metro.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/6/6f/Nainital_metro.jpg",
+      "https://images.unsplash.com/photo-photo-1570168007204-dfb528c6958f?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1617415440798-2510b64be16a?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning palace located in the heart of Uttarakhand, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Nainital is one of the most prominent tourist attractions in Uttarakhand. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Nainital dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "March to June",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Dehradun, Uttarakhand, India",
+    "latitude": "15.3344",
+    "longitude": "79.4474",
+    "googleMapsUrl": "https://maps.google.com/?q=Nainital",
+    "nearbyHotels": [
+      "The Grand Uttarakhand",
+      "Heritage Stay Dehradun"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Aloo ke Gutke House",
+      "Cafe Uttarakhand"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.uttarakhand.gov.in"
+  },
+  {
+    "id": 206,
+    "stateId": 27,
+    "stateSlug": "uttarakhand",
+    "slug": "mussoorie",
+    "name": "Mussoorie",
+    "district": "Dehradun District",
+    "city": "Dehradun",
+    "category": "Fort",
+    "rating": "4.8",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Mussoorie_Snow_Over_Dehradun_%2814831297545%29.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/e/e0/Mussoorie_Snow_Over_Dehradun_%2814831297545%29.jpg",
+      "https://images.unsplash.com/photo-photo-1591963236746-95f00e93bc4b?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1590483864455-d368e7ec3f89?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning fort located in the heart of Uttarakhand, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Mussoorie is one of the most prominent tourist attractions in Uttarakhand. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Mussoorie dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "March to June",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Dehradun, Uttarakhand, India",
+    "latitude": "16.0263",
+    "longitude": "82.7459",
+    "googleMapsUrl": "https://maps.google.com/?q=Mussoorie",
+    "nearbyHotels": [
+      "The Grand Uttarakhand",
+      "Heritage Stay Dehradun"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Aloo ke Gutke House",
+      "Cafe Uttarakhand"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.uttarakhand.gov.in"
+  },
+  {
+    "id": 207,
+    "stateId": 27,
+    "stateSlug": "uttarakhand",
+    "slug": "auli",
+    "name": "Auli",
+    "district": "Dehradun District",
+    "city": "Dehradun",
+    "category": "Fort",
+    "rating": "4.6",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/83/Auli_Himalayas.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/8/83/Auli_Himalayas.jpg",
+      "https://images.unsplash.com/photo-photo-1625066495209-1dc5ec3312e7?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1600100397608-f010f41cb8ea?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning fort located in the heart of Uttarakhand, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Auli is one of the most prominent tourist attractions in Uttarakhand. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Auli dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "March to June",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Dehradun, Uttarakhand, India",
+    "latitude": "24.2662",
+    "longitude": "79.5948",
+    "googleMapsUrl": "https://maps.google.com/?q=Auli",
+    "nearbyHotels": [
+      "The Grand Uttarakhand",
+      "Heritage Stay Dehradun"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Aloo ke Gutke House",
+      "Cafe Uttarakhand"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.uttarakhand.gov.in"
+  },
+  {
+    "id": 208,
+    "stateId": 27,
+    "stateSlug": "uttarakhand",
+    "slug": "jim-corbett",
+    "name": "Jim Corbett",
+    "district": "Dehradun District",
+    "city": "Dehradun",
+    "category": "Pilgrimage",
+    "rating": "4.1",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/40/Jim_Corbett%2C_c._1907.png",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/4/40/Jim_Corbett%2C_c._1907.png",
+      "https://images.unsplash.com/photo-photo-1617415440798-2510b64be16a?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1602216056096-3b40cc0c9944?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning pilgrimage located in the heart of Uttarakhand, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Jim Corbett is one of the most prominent tourist attractions in Uttarakhand. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Jim Corbett dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "March to June",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Dehradun, Uttarakhand, India",
+    "latitude": "17.5025",
+    "longitude": "82.1324",
+    "googleMapsUrl": "https://maps.google.com/?q=Jim+Corbett",
+    "nearbyHotels": [
+      "The Grand Uttarakhand",
+      "Heritage Stay Dehradun"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Aloo ke Gutke House",
+      "Cafe Uttarakhand"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.uttarakhand.gov.in"
+  },
+  {
+    "id": 209,
+    "stateId": 27,
+    "stateSlug": "uttarakhand",
+    "slug": "haridwar",
+    "name": "Haridwar",
+    "district": "Dehradun District",
+    "city": "Dehradun",
+    "category": "Nature",
+    "rating": "4.5",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/00/Ganga_aarti_haridwar_01.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/0/00/Ganga_aarti_haridwar_01.jpg",
+      "https://images.unsplash.com/photo-photo-1625066495209-1dc5ec3312e7?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1582294109406-8d1cbbe55c5c?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning nature located in the heart of Uttarakhand, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Haridwar is one of the most prominent tourist attractions in Uttarakhand. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Haridwar dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "March to June",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Dehradun, Uttarakhand, India",
+    "latitude": "23.9191",
+    "longitude": "75.8251",
+    "googleMapsUrl": "https://maps.google.com/?q=Haridwar",
+    "nearbyHotels": [
+      "The Grand Uttarakhand",
+      "Heritage Stay Dehradun"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Aloo ke Gutke House",
+      "Cafe Uttarakhand"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.uttarakhand.gov.in"
+  },
+  {
+    "id": 210,
+    "stateId": 27,
+    "stateSlug": "uttarakhand",
+    "slug": "kedarnath",
+    "name": "Kedarnath",
+    "district": "Dehradun District",
+    "city": "Dehradun",
+    "category": "Waterfall",
+    "rating": "4.5",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Kedarnath_View1.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/1/1a/Kedarnath_View1.jpg",
+      "https://images.unsplash.com/photo-photo-1563200773-1081387d3a0c?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1590483864455-d368e7ec3f89?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning waterfall located in the heart of Uttarakhand, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Kedarnath is one of the most prominent tourist attractions in Uttarakhand. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Kedarnath dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "March to June",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Dehradun, Uttarakhand, India",
+    "latitude": "18.4756",
+    "longitude": "79.9288",
+    "googleMapsUrl": "https://maps.google.com/?q=Kedarnath",
+    "nearbyHotels": [
+      "The Grand Uttarakhand",
+      "Heritage Stay Dehradun"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Aloo ke Gutke House",
+      "Cafe Uttarakhand"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.uttarakhand.gov.in"
+  },
+  {
+    "id": 211,
+    "stateId": 27,
+    "stateSlug": "uttarakhand",
+    "slug": "badrinath",
+    "name": "Badrinath",
+    "district": "Dehradun District",
+    "city": "Dehradun",
+    "category": "Monument",
+    "rating": "4.7",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/68/Badrinath_Temple-_Uttarakhand.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/6/68/Badrinath_Temple-_Uttarakhand.jpg",
+      "https://images.unsplash.com/photo-photo-1588725832729-19ec4f4d2f09?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1599661046289-e31897846e41?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning monument located in the heart of Uttarakhand, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Badrinath is one of the most prominent tourist attractions in Uttarakhand. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Badrinath dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "March to June",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Dehradun, Uttarakhand, India",
+    "latitude": "16.3496",
+    "longitude": "81.9043",
+    "googleMapsUrl": "https://maps.google.com/?q=Badrinath",
+    "nearbyHotels": [
+      "The Grand Uttarakhand",
+      "Heritage Stay Dehradun"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Aloo ke Gutke House",
+      "Cafe Uttarakhand"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.uttarakhand.gov.in"
+  }
+]

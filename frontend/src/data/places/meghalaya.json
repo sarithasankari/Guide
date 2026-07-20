@@ -1,0 +1,466 @@
+[
+  {
+    "id": 115,
+    "stateId": 16,
+    "stateSlug": "meghalaya",
+    "slug": "shillong-city-center",
+    "name": "Shillong City Center",
+    "district": "Shillong District",
+    "city": "Shillong",
+    "category": "Island",
+    "rating": "4.8",
+    "image": "https://images.unsplash.com/photo-photo-1596700681577-fb1ffdbcd9bc?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-photo-1596700681577-fb1ffdbcd9bc?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1596700682283-7a91a9f993d3?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1582294025176-58c5f949c289?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning island located in the heart of Meghalaya, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Shillong City Center is one of the most prominent tourist attractions in Meghalaya. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Shillong City Center dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to June",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Shillong, Meghalaya, India",
+    "latitude": "19.2557",
+    "longitude": "73.7589",
+    "googleMapsUrl": "https://maps.google.com/?q=Shillong+City+Center",
+    "nearbyHotels": [
+      "The Grand Meghalaya",
+      "Heritage Stay Shillong"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Jadoh House",
+      "Cafe Meghalaya"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.meghalaya.gov.in"
+  },
+  {
+    "id": 116,
+    "stateId": 16,
+    "stateSlug": "meghalaya",
+    "slug": "historic-fort-of-shillong",
+    "name": "Historic Fort of Shillong",
+    "district": "Shillong District",
+    "city": "Shillong",
+    "category": "Fort",
+    "rating": "4.1",
+    "image": "https://images.unsplash.com/photo-photo-1582294109406-8d1cbbe55c5c?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-photo-1582294109406-8d1cbbe55c5c?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1625066495209-1dc5ec3312e7?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1600100397608-f010f41cb8ea?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning fort located in the heart of Meghalaya, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Historic Fort of Shillong is one of the most prominent tourist attractions in Meghalaya. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Historic Fort of Shillong dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to June",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Shillong, Meghalaya, India",
+    "latitude": "20.6604",
+    "longitude": "77.9213",
+    "googleMapsUrl": "https://maps.google.com/?q=Historic+Fort+of+Shillong",
+    "nearbyHotels": [
+      "The Grand Meghalaya",
+      "Heritage Stay Shillong"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Jadoh House",
+      "Cafe Meghalaya"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.meghalaya.gov.in"
+  },
+  {
+    "id": 117,
+    "stateId": 16,
+    "stateSlug": "meghalaya",
+    "slug": "meghalaya-state-museum",
+    "name": "Meghalaya State Museum",
+    "district": "Shillong District",
+    "city": "Shillong",
+    "category": "Fort",
+    "rating": "4.1",
+    "image": "https://images.unsplash.com/photo-photo-1582294025176-58c5f949c289?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-photo-1582294025176-58c5f949c289?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1596700683050-2f9547d7c672?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1570168007204-dfb528c6958f?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning fort located in the heart of Meghalaya, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Meghalaya State Museum is one of the most prominent tourist attractions in Meghalaya. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Meghalaya State Museum dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to June",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Shillong, Meghalaya, India",
+    "latitude": "23.1949",
+    "longitude": "74.7657",
+    "googleMapsUrl": "https://maps.google.com/?q=Meghalaya+State+Museum",
+    "nearbyHotels": [
+      "The Grand Meghalaya",
+      "Heritage Stay Shillong"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Jadoh House",
+      "Cafe Meghalaya"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.meghalaya.gov.in"
+  },
+  {
+    "id": 118,
+    "stateId": 16,
+    "stateSlug": "meghalaya",
+    "slug": "sacred-temple-of-meghalaya",
+    "name": "Sacred Temple of Meghalaya",
+    "district": "Shillong District",
+    "city": "Shillong",
+    "category": "Temple",
+    "rating": "5.0",
+    "image": "https://images.unsplash.com/photo-photo-1589136128038-d6c547805177?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-photo-1589136128038-d6c547805177?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1585250462060-155e8840c8fa?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1599661046289-e31897846e41?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning temple located in the heart of Meghalaya, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Sacred Temple of Meghalaya is one of the most prominent tourist attractions in Meghalaya. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Sacred Temple of Meghalaya dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to June",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Shillong, Meghalaya, India",
+    "latitude": "21.3186",
+    "longitude": "75.7888",
+    "googleMapsUrl": "https://maps.google.com/?q=Sacred+Temple+of+Meghalaya",
+    "nearbyHotels": [
+      "The Grand Meghalaya",
+      "Heritage Stay Shillong"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Jadoh House",
+      "Cafe Meghalaya"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.meghalaya.gov.in"
+  },
+  {
+    "id": 119,
+    "stateId": 16,
+    "stateSlug": "meghalaya",
+    "slug": "meghalaya-wildlife-sanctuary",
+    "name": "Meghalaya Wildlife Sanctuary",
+    "district": "Shillong District",
+    "city": "Shillong",
+    "category": "UNESCO",
+    "rating": "4.5",
+    "image": "https://images.unsplash.com/photo-photo-1624898322883-99fc286b772f?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-photo-1624898322883-99fc286b772f?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1563200773-1081387d3a0c?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1590483864455-d368e7ec3f89?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning unesco located in the heart of Meghalaya, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Meghalaya Wildlife Sanctuary is one of the most prominent tourist attractions in Meghalaya. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Meghalaya Wildlife Sanctuary dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to June",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Shillong, Meghalaya, India",
+    "latitude": "15.5642",
+    "longitude": "74.7977",
+    "googleMapsUrl": "https://maps.google.com/?q=Meghalaya+Wildlife+Sanctuary",
+    "nearbyHotels": [
+      "The Grand Meghalaya",
+      "Heritage Stay Shillong"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Jadoh House",
+      "Cafe Meghalaya"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.meghalaya.gov.in"
+  },
+  {
+    "id": 120,
+    "stateId": 16,
+    "stateSlug": "meghalaya",
+    "slug": "meghalaya-botanical-gardens",
+    "name": "Meghalaya Botanical Gardens",
+    "district": "Shillong District",
+    "city": "Shillong",
+    "category": "Adventure",
+    "rating": "4.7",
+    "image": "https://images.unsplash.com/photo-photo-1512343879784-a960bf40e7f2?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-photo-1512343879784-a960bf40e7f2?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1602715690326-f7bcdafa41c0?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1626082260667-0c7f1a357f6f?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning adventure located in the heart of Meghalaya, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Meghalaya Botanical Gardens is one of the most prominent tourist attractions in Meghalaya. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Meghalaya Botanical Gardens dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to June",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Shillong, Meghalaya, India",
+    "latitude": "24.2752",
+    "longitude": "81.5218",
+    "googleMapsUrl": "https://maps.google.com/?q=Meghalaya+Botanical+Gardens",
+    "nearbyHotels": [
+      "The Grand Meghalaya",
+      "Heritage Stay Shillong"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Jadoh House",
+      "Cafe Meghalaya"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.meghalaya.gov.in"
+  },
+  {
+    "id": 121,
+    "stateId": 16,
+    "stateSlug": "meghalaya",
+    "slug": "grand-palace-of-meghalaya",
+    "name": "Grand Palace of Meghalaya",
+    "district": "Shillong District",
+    "city": "Shillong",
+    "category": "City",
+    "rating": "4.1",
+    "image": "https://images.unsplash.com/photo-photo-1596700681577-fb1ffdbcd9bc?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-photo-1596700681577-fb1ffdbcd9bc?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1596700682283-7a91a9f993d3?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1582294025176-58c5f949c289?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning city located in the heart of Meghalaya, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Grand Palace of Meghalaya is one of the most prominent tourist attractions in Meghalaya. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Grand Palace of Meghalaya dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to June",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Shillong, Meghalaya, India",
+    "latitude": "15.7310",
+    "longitude": "81.3376",
+    "googleMapsUrl": "https://maps.google.com/?q=Grand+Palace+of+Meghalaya",
+    "nearbyHotels": [
+      "The Grand Meghalaya",
+      "Heritage Stay Shillong"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Jadoh House",
+      "Cafe Meghalaya"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.meghalaya.gov.in"
+  },
+  {
+    "id": 122,
+    "stateId": 16,
+    "stateSlug": "meghalaya",
+    "slug": "beautiful-lake-of-meghalaya",
+    "name": "Beautiful Lake of Meghalaya",
+    "district": "Shillong District",
+    "city": "Shillong",
+    "category": "Heritage",
+    "rating": "4.9",
+    "image": "https://images.unsplash.com/photo-photo-1588725832729-19ec4f4d2f09?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-photo-1588725832729-19ec4f4d2f09?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1599661046289-e31897846e41?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1585250462060-155e8840c8fa?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning heritage located in the heart of Meghalaya, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Beautiful Lake of Meghalaya is one of the most prominent tourist attractions in Meghalaya. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Beautiful Lake of Meghalaya dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to June",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Shillong, Meghalaya, India",
+    "latitude": "18.1383",
+    "longitude": "73.9755",
+    "googleMapsUrl": "https://maps.google.com/?q=Beautiful+Lake+of+Meghalaya",
+    "nearbyHotels": [
+      "The Grand Meghalaya",
+      "Heritage Stay Shillong"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Jadoh House",
+      "Cafe Meghalaya"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.meghalaya.gov.in"
+  }
+]

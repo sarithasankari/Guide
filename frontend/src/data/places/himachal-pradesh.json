@@ -1,0 +1,466 @@
+[
+  {
+    "id": 61,
+    "stateId": 9,
+    "stateSlug": "himachal-pradesh",
+    "slug": "manali",
+    "name": "Manali",
+    "district": "Shimla District",
+    "city": "Shimla",
+    "category": "Nature",
+    "rating": "4.2",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/Manali_City.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/0/03/Manali_City.jpg",
+      "https://images.unsplash.com/photo-photo-1589136128038-d6c547805177?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1596700681577-fb1ffdbcd9bc?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning nature located in the heart of Himachal Pradesh, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Manali is one of the most prominent tourist attractions in Himachal Pradesh. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Manali dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "March to June",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Shimla, Himachal Pradesh, India",
+    "latitude": "20.4292",
+    "longitude": "75.2305",
+    "googleMapsUrl": "https://maps.google.com/?q=Manali",
+    "nearbyHotels": [
+      "The Grand Himachal Pradesh",
+      "Heritage Stay Shimla"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Madra House",
+      "Cafe Himachal Pradesh"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.himachal-pradesh.gov.in"
+  },
+  {
+    "id": 62,
+    "stateId": 9,
+    "stateSlug": "himachal-pradesh",
+    "slug": "shimla",
+    "name": "Shimla",
+    "district": "Shimla District",
+    "city": "Shimla",
+    "category": "Waterfall",
+    "rating": "4.9",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Landscape_of_Shimla_%2C_Himachal_Pradesh.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/b/ba/Landscape_of_Shimla_%2C_Himachal_Pradesh.jpg",
+      "https://images.unsplash.com/photo-photo-1588725832729-19ec4f4d2f09?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1599661046289-e31897846e41?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning waterfall located in the heart of Himachal Pradesh, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Shimla is one of the most prominent tourist attractions in Himachal Pradesh. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Shimla dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "March to June",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Shimla, Himachal Pradesh, India",
+    "latitude": "20.9436",
+    "longitude": "75.8335",
+    "googleMapsUrl": "https://maps.google.com/?q=Shimla",
+    "nearbyHotels": [
+      "The Grand Himachal Pradesh",
+      "Heritage Stay Shimla"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Madra House",
+      "Cafe Himachal Pradesh"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.himachal-pradesh.gov.in"
+  },
+  {
+    "id": 63,
+    "stateId": 9,
+    "stateSlug": "himachal-pradesh",
+    "slug": "dharamshala",
+    "name": "Dharamshala",
+    "district": "Shimla District",
+    "city": "Shimla",
+    "category": "Island",
+    "rating": "4.1",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Dharamshala_03_%28Cropped%29.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/a/a6/Dharamshala_03_%28Cropped%29.jpg",
+      "https://images.unsplash.com/photo-photo-1582294025176-58c5f949c289?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1596700682283-7a91a9f993d3?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning island located in the heart of Himachal Pradesh, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Dharamshala is one of the most prominent tourist attractions in Himachal Pradesh. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Dharamshala dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "March to June",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Shimla, Himachal Pradesh, India",
+    "latitude": "19.8407",
+    "longitude": "73.4604",
+    "googleMapsUrl": "https://maps.google.com/?q=Dharamshala",
+    "nearbyHotels": [
+      "The Grand Himachal Pradesh",
+      "Heritage Stay Shimla"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Madra House",
+      "Cafe Himachal Pradesh"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.himachal-pradesh.gov.in"
+  },
+  {
+    "id": 64,
+    "stateId": 9,
+    "stateSlug": "himachal-pradesh",
+    "slug": "dalhousie",
+    "name": "Dalhousie",
+    "district": "Shimla District",
+    "city": "Shimla",
+    "category": "Museum",
+    "rating": "5.0",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Dalhouise_1.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/c/c2/Dalhouise_1.jpg",
+      "https://images.unsplash.com/photo-photo-1588725832729-19ec4f4d2f09?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1599661046289-e31897846e41?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning museum located in the heart of Himachal Pradesh, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Dalhousie is one of the most prominent tourist attractions in Himachal Pradesh. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Dalhousie dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "March to June",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Shimla, Himachal Pradesh, India",
+    "latitude": "20.5074",
+    "longitude": "75.4021",
+    "googleMapsUrl": "https://maps.google.com/?q=Dalhousie",
+    "nearbyHotels": [
+      "The Grand Himachal Pradesh",
+      "Heritage Stay Shimla"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Madra House",
+      "Cafe Himachal Pradesh"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.himachal-pradesh.gov.in"
+  },
+  {
+    "id": 65,
+    "stateId": 9,
+    "stateSlug": "himachal-pradesh",
+    "slug": "kasol",
+    "name": "Kasol",
+    "district": "Shimla District",
+    "city": "Shimla",
+    "category": "Monument",
+    "rating": "4.0",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Kasol_mountain_view.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/a/a2/Kasol_mountain_view.jpg",
+      "https://images.unsplash.com/photo-photo-1589136128038-d6c547805177?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1585250462060-155e8840c8fa?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning monument located in the heart of Himachal Pradesh, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Kasol is one of the most prominent tourist attractions in Himachal Pradesh. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Kasol dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "March to June",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Shimla, Himachal Pradesh, India",
+    "latitude": "20.7551",
+    "longitude": "73.6265",
+    "googleMapsUrl": "https://maps.google.com/?q=Kasol",
+    "nearbyHotels": [
+      "The Grand Himachal Pradesh",
+      "Heritage Stay Shimla"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Madra House",
+      "Cafe Himachal Pradesh"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.himachal-pradesh.gov.in"
+  },
+  {
+    "id": 66,
+    "stateId": 9,
+    "stateSlug": "himachal-pradesh",
+    "slug": "spiti-valley",
+    "name": "Spiti Valley",
+    "district": "Shimla District",
+    "city": "Shimla",
+    "category": "Fort",
+    "rating": "4.1",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Spiti_River_Kaza_Himachal_Jun18_D72_7232.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/3/3f/Spiti_River_Kaza_Himachal_Jun18_D72_7232.jpg",
+      "https://images.unsplash.com/photo-photo-1582510003544-4d00b7f7415e?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1588725832729-19ec4f4d2f09?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning fort located in the heart of Himachal Pradesh, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Spiti Valley is one of the most prominent tourist attractions in Himachal Pradesh. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Spiti Valley dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "March to June",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Shimla, Himachal Pradesh, India",
+    "latitude": "23.6737",
+    "longitude": "78.9836",
+    "googleMapsUrl": "https://maps.google.com/?q=Spiti+Valley",
+    "nearbyHotels": [
+      "The Grand Himachal Pradesh",
+      "Heritage Stay Shimla"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Madra House",
+      "Cafe Himachal Pradesh"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.himachal-pradesh.gov.in"
+  },
+  {
+    "id": 67,
+    "stateId": 9,
+    "stateSlug": "himachal-pradesh",
+    "slug": "kasauli",
+    "name": "Kasauli",
+    "district": "Shimla District",
+    "city": "Shimla",
+    "category": "Waterfall",
+    "rating": "4.5",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Kasauli_hills.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/1/1d/Kasauli_hills.jpg",
+      "https://images.unsplash.com/photo-photo-1605634599723-5e92be167d4b?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1598466632420-53896b05be5a?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning waterfall located in the heart of Himachal Pradesh, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Kasauli is one of the most prominent tourist attractions in Himachal Pradesh. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Kasauli dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "March to June",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Shimla, Himachal Pradesh, India",
+    "latitude": "21.6148",
+    "longitude": "77.7495",
+    "googleMapsUrl": "https://maps.google.com/?q=Kasauli",
+    "nearbyHotels": [
+      "The Grand Himachal Pradesh",
+      "Heritage Stay Shimla"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Madra House",
+      "Cafe Himachal Pradesh"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.himachal-pradesh.gov.in"
+  },
+  {
+    "id": 68,
+    "stateId": 9,
+    "stateSlug": "himachal-pradesh",
+    "slug": "kullu",
+    "name": "Kullu",
+    "district": "Shimla District",
+    "city": "Shimla",
+    "category": "Pilgrimage",
+    "rating": "4.8",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/34/Beas_Valley_-_Palchan_-_Kullu_2014-05-10_2275.JPG",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/3/34/Beas_Valley_-_Palchan_-_Kullu_2014-05-10_2275.JPG",
+      "https://images.unsplash.com/photo-photo-1582510003544-4d00b7f7415e?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1600329976378-01362e584988?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning pilgrimage located in the heart of Himachal Pradesh, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Kullu is one of the most prominent tourist attractions in Himachal Pradesh. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Kullu dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "March to June",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Shimla, Himachal Pradesh, India",
+    "latitude": "21.3356",
+    "longitude": "80.3706",
+    "googleMapsUrl": "https://maps.google.com/?q=Kullu",
+    "nearbyHotels": [
+      "The Grand Himachal Pradesh",
+      "Heritage Stay Shimla"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Madra House",
+      "Cafe Himachal Pradesh"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.himachal-pradesh.gov.in"
+  }
+]

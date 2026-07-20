@@ -1,0 +1,466 @@
+[
+  {
+    "id": 262,
+    "stateId": 36,
+    "stateSlug": "puducherry",
+    "slug": "pondicherry-city-center",
+    "name": "Pondicherry City Center",
+    "district": "Pondicherry District",
+    "city": "Pondicherry",
+    "category": "National Park",
+    "rating": "4.3",
+    "image": "https://images.unsplash.com/photo-photo-1589136128038-d6c547805177?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-photo-1589136128038-d6c547805177?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1596700681577-fb1ffdbcd9bc?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1596700682283-7a91a9f993d3?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning national park located in the heart of Puducherry, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Pondicherry City Center is one of the most prominent tourist attractions in Puducherry. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Pondicherry City Center dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Pondicherry, Puducherry, India",
+    "latitude": "23.5074",
+    "longitude": "75.4001",
+    "googleMapsUrl": "https://maps.google.com/?q=Pondicherry+City+Center",
+    "nearbyHotels": [
+      "The Grand Puducherry",
+      "Heritage Stay Pondicherry"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Crepes House",
+      "Cafe Puducherry"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.puducherry.gov.in"
+  },
+  {
+    "id": 263,
+    "stateId": 36,
+    "stateSlug": "puducherry",
+    "slug": "historic-fort-of-pondicherry",
+    "name": "Historic Fort of Pondicherry",
+    "district": "Pondicherry District",
+    "city": "Pondicherry",
+    "category": "Waterfall",
+    "rating": "4.9",
+    "image": "https://images.unsplash.com/photo-photo-1602216056096-3b40cc0c9944?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-photo-1602216056096-3b40cc0c9944?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1600100397608-f010f41cb8ea?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1625066495209-1dc5ec3312e7?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning waterfall located in the heart of Puducherry, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Historic Fort of Pondicherry is one of the most prominent tourist attractions in Puducherry. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Historic Fort of Pondicherry dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Pondicherry, Puducherry, India",
+    "latitude": "17.8433",
+    "longitude": "74.1367",
+    "googleMapsUrl": "https://maps.google.com/?q=Historic+Fort+of+Pondicherry",
+    "nearbyHotels": [
+      "The Grand Puducherry",
+      "Heritage Stay Pondicherry"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Crepes House",
+      "Cafe Puducherry"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.puducherry.gov.in"
+  },
+  {
+    "id": 264,
+    "stateId": 36,
+    "stateSlug": "puducherry",
+    "slug": "puducherry-state-museum",
+    "name": "Puducherry State Museum",
+    "district": "Pondicherry District",
+    "city": "Pondicherry",
+    "category": "Museum",
+    "rating": "4.2",
+    "image": "https://images.unsplash.com/photo-photo-1590483864455-d368e7ec3f89?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-photo-1590483864455-d368e7ec3f89?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1563200773-1081387d3a0c?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1624898322883-99fc286b772f?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning museum located in the heart of Puducherry, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Puducherry State Museum is one of the most prominent tourist attractions in Puducherry. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Puducherry State Museum dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Pondicherry, Puducherry, India",
+    "latitude": "24.4814",
+    "longitude": "77.4769",
+    "googleMapsUrl": "https://maps.google.com/?q=Puducherry+State+Museum",
+    "nearbyHotels": [
+      "The Grand Puducherry",
+      "Heritage Stay Pondicherry"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Crepes House",
+      "Cafe Puducherry"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.puducherry.gov.in"
+  },
+  {
+    "id": 265,
+    "stateId": 36,
+    "stateSlug": "puducherry",
+    "slug": "sacred-temple-of-puducherry",
+    "name": "Sacred Temple of Puducherry",
+    "district": "Pondicherry District",
+    "city": "Pondicherry",
+    "category": "Heritage",
+    "rating": "4.5",
+    "image": "https://images.unsplash.com/photo-photo-1590483864455-d368e7ec3f89?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-photo-1590483864455-d368e7ec3f89?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1591963236746-95f00e93bc4b?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1610012803823-74bba2eb703e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning heritage located in the heart of Puducherry, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Sacred Temple of Puducherry is one of the most prominent tourist attractions in Puducherry. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Sacred Temple of Puducherry dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Pondicherry, Puducherry, India",
+    "latitude": "16.1277",
+    "longitude": "79.4343",
+    "googleMapsUrl": "https://maps.google.com/?q=Sacred+Temple+of+Puducherry",
+    "nearbyHotels": [
+      "The Grand Puducherry",
+      "Heritage Stay Pondicherry"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Crepes House",
+      "Cafe Puducherry"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.puducherry.gov.in"
+  },
+  {
+    "id": 266,
+    "stateId": 36,
+    "stateSlug": "puducherry",
+    "slug": "puducherry-wildlife-sanctuary",
+    "name": "Puducherry Wildlife Sanctuary",
+    "district": "Pondicherry District",
+    "city": "Pondicherry",
+    "category": "Heritage",
+    "rating": "4.9",
+    "image": "https://images.unsplash.com/photo-photo-1602715690326-f7bcdafa41c0?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-photo-1602715690326-f7bcdafa41c0?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1626082260667-0c7f1a357f6f?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1582294109406-8d1cbbe55c5c?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning heritage located in the heart of Puducherry, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Puducherry Wildlife Sanctuary is one of the most prominent tourist attractions in Puducherry. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Puducherry Wildlife Sanctuary dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Pondicherry, Puducherry, India",
+    "latitude": "16.7827",
+    "longitude": "73.0596",
+    "googleMapsUrl": "https://maps.google.com/?q=Puducherry+Wildlife+Sanctuary",
+    "nearbyHotels": [
+      "The Grand Puducherry",
+      "Heritage Stay Pondicherry"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Crepes House",
+      "Cafe Puducherry"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.puducherry.gov.in"
+  },
+  {
+    "id": 267,
+    "stateId": 36,
+    "stateSlug": "puducherry",
+    "slug": "puducherry-botanical-gardens",
+    "name": "Puducherry Botanical Gardens",
+    "district": "Pondicherry District",
+    "city": "Pondicherry",
+    "category": "Lake",
+    "rating": "4.8",
+    "image": "https://images.unsplash.com/photo-photo-1602216056096-3b40cc0c9944?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-photo-1602216056096-3b40cc0c9944?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1617415440798-2510b64be16a?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1570168007204-dfb528c6958f?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning lake located in the heart of Puducherry, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Puducherry Botanical Gardens is one of the most prominent tourist attractions in Puducherry. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Puducherry Botanical Gardens dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Pondicherry, Puducherry, India",
+    "latitude": "16.0982",
+    "longitude": "79.7633",
+    "googleMapsUrl": "https://maps.google.com/?q=Puducherry+Botanical+Gardens",
+    "nearbyHotels": [
+      "The Grand Puducherry",
+      "Heritage Stay Pondicherry"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Crepes House",
+      "Cafe Puducherry"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.puducherry.gov.in"
+  },
+  {
+    "id": 268,
+    "stateId": 36,
+    "stateSlug": "puducherry",
+    "slug": "grand-palace-of-puducherry",
+    "name": "Grand Palace of Puducherry",
+    "district": "Pondicherry District",
+    "city": "Pondicherry",
+    "category": "Lake",
+    "rating": "4.9",
+    "image": "https://images.unsplash.com/photo-photo-1617415440798-2510b64be16a?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-photo-1617415440798-2510b64be16a?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1570168007204-dfb528c6958f?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1596700683050-2f9547d7c672?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning lake located in the heart of Puducherry, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Grand Palace of Puducherry is one of the most prominent tourist attractions in Puducherry. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Grand Palace of Puducherry dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Pondicherry, Puducherry, India",
+    "latitude": "19.5358",
+    "longitude": "82.2060",
+    "googleMapsUrl": "https://maps.google.com/?q=Grand+Palace+of+Puducherry",
+    "nearbyHotels": [
+      "The Grand Puducherry",
+      "Heritage Stay Pondicherry"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Crepes House",
+      "Cafe Puducherry"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.puducherry.gov.in"
+  },
+  {
+    "id": 269,
+    "stateId": 36,
+    "stateSlug": "puducherry",
+    "slug": "beautiful-lake-of-puducherry",
+    "name": "Beautiful Lake of Puducherry",
+    "district": "Pondicherry District",
+    "city": "Pondicherry",
+    "category": "UNESCO",
+    "rating": "4.0",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Indian_Air_Force_Relief_and_Rescue_Op_during_Tamil_Nadu_Flood_December_2015.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/c/ce/Indian_Air_Force_Relief_and_Rescue_Op_during_Tamil_Nadu_Flood_December_2015.jpg",
+      "https://images.unsplash.com/photo-photo-1596700681577-fb1ffdbcd9bc?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1596700682283-7a91a9f993d3?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning unesco located in the heart of Puducherry, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Beautiful Lake of Puducherry is one of the most prominent tourist attractions in Puducherry. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Beautiful Lake of Puducherry dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Pondicherry, Puducherry, India",
+    "latitude": "19.6702",
+    "longitude": "73.3661",
+    "googleMapsUrl": "https://maps.google.com/?q=Beautiful+Lake+of+Puducherry",
+    "nearbyHotels": [
+      "The Grand Puducherry",
+      "Heritage Stay Pondicherry"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Crepes House",
+      "Cafe Puducherry"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.puducherry.gov.in"
+  }
+]

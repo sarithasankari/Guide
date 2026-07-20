@@ -1,0 +1,466 @@
+[
+  {
+    "id": 84,
+    "stateId": 12,
+    "stateSlug": "kerala",
+    "slug": "munnar",
+    "name": "Munnar",
+    "district": "Thiruvananthapuram District",
+    "city": "Thiruvananthapuram",
+    "category": "Hill Station",
+    "rating": "4.9",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Munnar_Overview.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/b/b9/Munnar_Overview.jpg",
+      "https://images.unsplash.com/photo-photo-1596700681577-fb1ffdbcd9bc?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1596700682283-7a91a9f993d3?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning hill station located in the heart of Kerala, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Munnar is one of the most prominent tourist attractions in Kerala. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Munnar dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "September to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Thiruvananthapuram, Kerala, India",
+    "latitude": "18.2865",
+    "longitude": "75.5922",
+    "googleMapsUrl": "https://maps.google.com/?q=Munnar",
+    "nearbyHotels": [
+      "The Grand Kerala",
+      "Heritage Stay Thiruvananthapuram"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Appam House",
+      "Cafe Kerala"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.kerala.gov.in"
+  },
+  {
+    "id": 85,
+    "stateId": 12,
+    "stateSlug": "kerala",
+    "slug": "alleppey",
+    "name": "Alleppey",
+    "district": "Thiruvananthapuram District",
+    "city": "Thiruvananthapuram",
+    "category": "City",
+    "rating": "4.3",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Alappuzha_Boat_Beauty_W.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/e/e4/Alappuzha_Boat_Beauty_W.jpg",
+      "https://images.unsplash.com/photo-photo-1602715690326-f7bcdafa41c0?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1626082260667-0c7f1a357f6f?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning city located in the heart of Kerala, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Alleppey is one of the most prominent tourist attractions in Kerala. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Alleppey dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "September to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Thiruvananthapuram, Kerala, India",
+    "latitude": "15.7231",
+    "longitude": "79.5041",
+    "googleMapsUrl": "https://maps.google.com/?q=Alleppey",
+    "nearbyHotels": [
+      "The Grand Kerala",
+      "Heritage Stay Thiruvananthapuram"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Appam House",
+      "Cafe Kerala"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.kerala.gov.in"
+  },
+  {
+    "id": 86,
+    "stateId": 12,
+    "stateSlug": "kerala",
+    "slug": "wayanad",
+    "name": "Wayanad",
+    "district": "Thiruvananthapuram District",
+    "city": "Thiruvananthapuram",
+    "category": "Beach",
+    "rating": "4.6",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Blue%2C_Green_%26_White.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/e/e8/Blue%2C_Green_%26_White.jpg",
+      "https://images.unsplash.com/photo-photo-1600329976378-01362e584988?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1548013146-72479768bada?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning beach located in the heart of Kerala, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Wayanad is one of the most prominent tourist attractions in Kerala. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Wayanad dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "September to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Thiruvananthapuram, Kerala, India",
+    "latitude": "23.8616",
+    "longitude": "78.8849",
+    "googleMapsUrl": "https://maps.google.com/?q=Wayanad",
+    "nearbyHotels": [
+      "The Grand Kerala",
+      "Heritage Stay Thiruvananthapuram"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Appam House",
+      "Cafe Kerala"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.kerala.gov.in"
+  },
+  {
+    "id": 87,
+    "stateId": 12,
+    "stateSlug": "kerala",
+    "slug": "kochi",
+    "name": "Kochi",
+    "district": "Thiruvananthapuram District",
+    "city": "Thiruvananthapuram",
+    "category": "Waterfall",
+    "rating": "4.5",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Kochi_Skyline.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/8/8f/Kochi_Skyline.jpg",
+      "https://images.unsplash.com/photo-photo-1602715690326-f7bcdafa41c0?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1626082260667-0c7f1a357f6f?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning waterfall located in the heart of Kerala, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Kochi is one of the most prominent tourist attractions in Kerala. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Kochi dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "September to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Thiruvananthapuram, Kerala, India",
+    "latitude": "21.5479",
+    "longitude": "74.2692",
+    "googleMapsUrl": "https://maps.google.com/?q=Kochi",
+    "nearbyHotels": [
+      "The Grand Kerala",
+      "Heritage Stay Thiruvananthapuram"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Appam House",
+      "Cafe Kerala"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.kerala.gov.in"
+  },
+  {
+    "id": 88,
+    "stateId": 12,
+    "stateSlug": "kerala",
+    "slug": "kovalam",
+    "name": "Kovalam",
+    "district": "Thiruvananthapuram District",
+    "city": "Thiruvananthapuram",
+    "category": "Nature",
+    "rating": "4.4",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Kovalam_beach_trivandrum_kerala.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/3/3c/Kovalam_beach_trivandrum_kerala.jpg",
+      "https://images.unsplash.com/photo-photo-1585250462060-155e8840c8fa?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1599661046289-e31897846e41?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning nature located in the heart of Kerala, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Kovalam is one of the most prominent tourist attractions in Kerala. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Kovalam dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "September to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Thiruvananthapuram, Kerala, India",
+    "latitude": "18.6012",
+    "longitude": "81.2255",
+    "googleMapsUrl": "https://maps.google.com/?q=Kovalam",
+    "nearbyHotels": [
+      "The Grand Kerala",
+      "Heritage Stay Thiruvananthapuram"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Appam House",
+      "Cafe Kerala"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.kerala.gov.in"
+  },
+  {
+    "id": 89,
+    "stateId": 12,
+    "stateSlug": "kerala",
+    "slug": "thekkady",
+    "name": "Thekkady",
+    "district": "Thiruvananthapuram District",
+    "city": "Thiruvananthapuram",
+    "category": "Wildlife",
+    "rating": "4.3",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Thekkady.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/b/ba/Thekkady.jpg",
+      "https://images.unsplash.com/photo-photo-1582510003544-4d00b7f7415e?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1600329976378-01362e584988?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning wildlife located in the heart of Kerala, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Thekkady is one of the most prominent tourist attractions in Kerala. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Thekkady dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "September to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Thiruvananthapuram, Kerala, India",
+    "latitude": "21.6340",
+    "longitude": "76.5461",
+    "googleMapsUrl": "https://maps.google.com/?q=Thekkady",
+    "nearbyHotels": [
+      "The Grand Kerala",
+      "Heritage Stay Thiruvananthapuram"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Appam House",
+      "Cafe Kerala"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.kerala.gov.in"
+  },
+  {
+    "id": 90,
+    "stateId": 12,
+    "stateSlug": "kerala",
+    "slug": "kumarakom",
+    "name": "Kumarakom",
+    "district": "Thiruvananthapuram District",
+    "city": "Thiruvananthapuram",
+    "category": "Fort",
+    "rating": "4.1",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/50/Kumarkom.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/5/50/Kumarkom.jpg",
+      "https://images.unsplash.com/photo-photo-1591963236746-95f00e93bc4b?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1590483864455-d368e7ec3f89?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning fort located in the heart of Kerala, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Kumarakom is one of the most prominent tourist attractions in Kerala. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Kumarakom dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "September to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Thiruvananthapuram, Kerala, India",
+    "latitude": "18.8956",
+    "longitude": "75.3248",
+    "googleMapsUrl": "https://maps.google.com/?q=Kumarakom",
+    "nearbyHotels": [
+      "The Grand Kerala",
+      "Heritage Stay Thiruvananthapuram"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Appam House",
+      "Cafe Kerala"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.kerala.gov.in"
+  },
+  {
+    "id": 91,
+    "stateId": 12,
+    "stateSlug": "kerala",
+    "slug": "varkala",
+    "name": "Varkala",
+    "district": "Thiruvananthapuram District",
+    "city": "Thiruvananthapuram",
+    "category": "National Park",
+    "rating": "4.1",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/49/Varkala_Beach%2C_Varkala%2C_Kerala.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/4/49/Varkala_Beach%2C_Varkala%2C_Kerala.jpg",
+      "https://images.unsplash.com/photo-photo-1582294109406-8d1cbbe55c5c?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1625066495209-1dc5ec3312e7?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning national park located in the heart of Kerala, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Varkala is one of the most prominent tourist attractions in Kerala. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Varkala dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "September to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Thiruvananthapuram, Kerala, India",
+    "latitude": "16.9530",
+    "longitude": "73.5277",
+    "googleMapsUrl": "https://maps.google.com/?q=Varkala",
+    "nearbyHotels": [
+      "The Grand Kerala",
+      "Heritage Stay Thiruvananthapuram"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Appam House",
+      "Cafe Kerala"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.kerala.gov.in"
+  }
+]

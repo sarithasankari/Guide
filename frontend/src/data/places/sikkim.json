@@ -1,0 +1,466 @@
+[
+  {
+    "id": 164,
+    "stateId": 22,
+    "stateSlug": "sikkim",
+    "slug": "gangtok-city-center",
+    "name": "Gangtok City Center",
+    "district": "Gangtok District",
+    "city": "Gangtok",
+    "category": "City",
+    "rating": "4.0",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Gurudongmar_Lake_Sikkim%2C_India_%28edit%29.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/5/5f/Gurudongmar_Lake_Sikkim%2C_India_%28edit%29.jpg",
+      "https://images.unsplash.com/photo-photo-1605634599723-5e92be167d4b?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1624898322883-99fc286b772f?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning city located in the heart of Sikkim, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Gangtok City Center is one of the most prominent tourist attractions in Sikkim. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Gangtok City Center dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "March to May",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Gangtok, Sikkim, India",
+    "latitude": "19.5307",
+    "longitude": "73.3789",
+    "googleMapsUrl": "https://maps.google.com/?q=Gangtok+City+Center",
+    "nearbyHotels": [
+      "The Grand Sikkim",
+      "Heritage Stay Gangtok"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Momo House",
+      "Cafe Sikkim"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.sikkim.gov.in"
+  },
+  {
+    "id": 165,
+    "stateId": 22,
+    "stateSlug": "sikkim",
+    "slug": "historic-fort-of-gangtok",
+    "name": "Historic Fort of Gangtok",
+    "district": "Gangtok District",
+    "city": "Gangtok",
+    "category": "Palace",
+    "rating": "4.2",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/76/Gururinpochen.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/7/76/Gururinpochen.jpg",
+      "https://images.unsplash.com/photo-photo-1602216056096-3b40cc0c9944?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1600100397608-f010f41cb8ea?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning palace located in the heart of Sikkim, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Historic Fort of Gangtok is one of the most prominent tourist attractions in Sikkim. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Historic Fort of Gangtok dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "March to May",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Gangtok, Sikkim, India",
+    "latitude": "21.4070",
+    "longitude": "80.1966",
+    "googleMapsUrl": "https://maps.google.com/?q=Historic+Fort+of+Gangtok",
+    "nearbyHotels": [
+      "The Grand Sikkim",
+      "Heritage Stay Gangtok"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Momo House",
+      "Cafe Sikkim"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.sikkim.gov.in"
+  },
+  {
+    "id": 166,
+    "stateId": 22,
+    "stateSlug": "sikkim",
+    "slug": "sikkim-state-museum",
+    "name": "Sikkim State Museum",
+    "district": "Gangtok District",
+    "city": "Gangtok",
+    "category": "Monument",
+    "rating": "4.4",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Kangch-Goechala.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/0/0a/Kangch-Goechala.jpg",
+      "https://images.unsplash.com/photo-photo-1590483864455-d368e7ec3f89?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1563200773-1081387d3a0c?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning monument located in the heart of Sikkim, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Sikkim State Museum is one of the most prominent tourist attractions in Sikkim. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Sikkim State Museum dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "March to May",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Gangtok, Sikkim, India",
+    "latitude": "17.1477",
+    "longitude": "77.6467",
+    "googleMapsUrl": "https://maps.google.com/?q=Sikkim+State+Museum",
+    "nearbyHotels": [
+      "The Grand Sikkim",
+      "Heritage Stay Gangtok"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Momo House",
+      "Cafe Sikkim"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.sikkim.gov.in"
+  },
+  {
+    "id": 167,
+    "stateId": 22,
+    "stateSlug": "sikkim",
+    "slug": "sacred-temple-of-sikkim",
+    "name": "Sacred Temple of Sikkim",
+    "district": "Gangtok District",
+    "city": "Gangtok",
+    "category": "Island",
+    "rating": "4.2",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Legship_shiva_temple.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/e/e0/Legship_shiva_temple.jpg",
+      "https://images.unsplash.com/photo-photo-1590483864455-d368e7ec3f89?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1591963236746-95f00e93bc4b?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning island located in the heart of Sikkim, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Sacred Temple of Sikkim is one of the most prominent tourist attractions in Sikkim. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Sacred Temple of Sikkim dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "March to May",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Gangtok, Sikkim, India",
+    "latitude": "21.3625",
+    "longitude": "76.6620",
+    "googleMapsUrl": "https://maps.google.com/?q=Sacred+Temple+of+Sikkim",
+    "nearbyHotels": [
+      "The Grand Sikkim",
+      "Heritage Stay Gangtok"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Momo House",
+      "Cafe Sikkim"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.sikkim.gov.in"
+  },
+  {
+    "id": 168,
+    "stateId": 22,
+    "stateSlug": "sikkim",
+    "slug": "sikkim-wildlife-sanctuary",
+    "name": "Sikkim Wildlife Sanctuary",
+    "district": "Gangtok District",
+    "city": "Gangtok",
+    "category": "Wildlife",
+    "rating": "4.2",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Landscape_of_Pangolakha_Wildlife_Sanctuary_East_Sikkim_India_13.02.2016.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/a/a1/Landscape_of_Pangolakha_Wildlife_Sanctuary_East_Sikkim_India_13.02.2016.jpg",
+      "https://images.unsplash.com/photo-photo-1610012803823-74bba2eb703e?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1548013146-72479768bada?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning wildlife located in the heart of Sikkim, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Sikkim Wildlife Sanctuary is one of the most prominent tourist attractions in Sikkim. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Sikkim Wildlife Sanctuary dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "March to May",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Gangtok, Sikkim, India",
+    "latitude": "17.8556",
+    "longitude": "76.6419",
+    "googleMapsUrl": "https://maps.google.com/?q=Sikkim+Wildlife+Sanctuary",
+    "nearbyHotels": [
+      "The Grand Sikkim",
+      "Heritage Stay Gangtok"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Momo House",
+      "Cafe Sikkim"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.sikkim.gov.in"
+  },
+  {
+    "id": 169,
+    "stateId": 22,
+    "stateSlug": "sikkim",
+    "slug": "sikkim-botanical-gardens",
+    "name": "Sikkim Botanical Gardens",
+    "district": "Gangtok District",
+    "city": "Gangtok",
+    "category": "Nature",
+    "rating": "4.3",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/85/Darjeeling_Botanical_Garden_02.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/8/85/Darjeeling_Botanical_Garden_02.jpg",
+      "https://images.unsplash.com/photo-photo-1591963236746-95f00e93bc4b?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1610012803823-74bba2eb703e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning nature located in the heart of Sikkim, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Sikkim Botanical Gardens is one of the most prominent tourist attractions in Sikkim. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Sikkim Botanical Gardens dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "March to May",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Gangtok, Sikkim, India",
+    "latitude": "24.5635",
+    "longitude": "74.6230",
+    "googleMapsUrl": "https://maps.google.com/?q=Sikkim+Botanical+Gardens",
+    "nearbyHotels": [
+      "The Grand Sikkim",
+      "Heritage Stay Gangtok"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Momo House",
+      "Cafe Sikkim"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.sikkim.gov.in"
+  },
+  {
+    "id": 170,
+    "stateId": 22,
+    "stateSlug": "sikkim",
+    "slug": "grand-palace-of-sikkim",
+    "name": "Grand Palace of Sikkim",
+    "district": "Gangtok District",
+    "city": "Gangtok",
+    "category": "National Park",
+    "rating": "4.2",
+    "image": "https://images.unsplash.com/photo-photo-1582294025176-58c5f949c289?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-photo-1582294025176-58c5f949c289?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1596700682283-7a91a9f993d3?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1596700681577-fb1ffdbcd9bc?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning national park located in the heart of Sikkim, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Grand Palace of Sikkim is one of the most prominent tourist attractions in Sikkim. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Grand Palace of Sikkim dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "March to May",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Gangtok, Sikkim, India",
+    "latitude": "21.1572",
+    "longitude": "82.0678",
+    "googleMapsUrl": "https://maps.google.com/?q=Grand+Palace+of+Sikkim",
+    "nearbyHotels": [
+      "The Grand Sikkim",
+      "Heritage Stay Gangtok"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Momo House",
+      "Cafe Sikkim"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.sikkim.gov.in"
+  },
+  {
+    "id": 171,
+    "stateId": 22,
+    "stateSlug": "sikkim",
+    "slug": "beautiful-lake-of-sikkim",
+    "name": "Beautiful Lake of Sikkim",
+    "district": "Gangtok District",
+    "city": "Gangtok",
+    "category": "City",
+    "rating": "4.2",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Gurudongmar_Lake_Sikkim%2C_India_%28edit%29.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/5/5f/Gurudongmar_Lake_Sikkim%2C_India_%28edit%29.jpg",
+      "https://images.unsplash.com/photo-photo-1625066495209-1dc5ec3312e7?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1582294109406-8d1cbbe55c5c?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning city located in the heart of Sikkim, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Beautiful Lake of Sikkim is one of the most prominent tourist attractions in Sikkim. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Beautiful Lake of Sikkim dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "March to May",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Gangtok, Sikkim, India",
+    "latitude": "24.9151",
+    "longitude": "74.3357",
+    "googleMapsUrl": "https://maps.google.com/?q=Beautiful+Lake+of+Sikkim",
+    "nearbyHotels": [
+      "The Grand Sikkim",
+      "Heritage Stay Gangtok"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Momo House",
+      "Cafe Sikkim"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.sikkim.gov.in"
+  }
+]

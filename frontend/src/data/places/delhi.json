@@ -1,0 +1,350 @@
+[
+  {
+    "id": 238,
+    "stateId": 32,
+    "stateSlug": "delhi",
+    "slug": "red-fort",
+    "name": "Red Fort",
+    "district": "New Delhi District",
+    "city": "New Delhi",
+    "category": "Fort",
+    "rating": "4.1",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Delhi_fort.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/2/2a/Delhi_fort.jpg",
+      "https://images.unsplash.com/photo-photo-1548013146-72479768bada?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1600329976378-01362e584988?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning fort located in the heart of Delhi, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Red Fort is one of the most prominent tourist attractions in Delhi. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Red Fort dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, New Delhi, Delhi, India",
+    "latitude": "19.5034",
+    "longitude": "79.1962",
+    "googleMapsUrl": "https://maps.google.com/?q=Red+Fort",
+    "nearbyHotels": [
+      "The Grand Delhi",
+      "Heritage Stay New Delhi"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Butter Chicken House",
+      "Cafe Delhi"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.delhi.gov.in"
+  },
+  {
+    "id": 239,
+    "stateId": 32,
+    "stateSlug": "delhi",
+    "slug": "india-gate",
+    "name": "India Gate",
+    "district": "New Delhi District",
+    "city": "New Delhi",
+    "category": "Fort",
+    "rating": "4.6",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/India_Gate_%28All_India_War_Memorial%29.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/7/75/India_Gate_%28All_India_War_Memorial%29.jpg",
+      "https://images.unsplash.com/photo-photo-1600329976378-01362e584988?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1582510003544-4d00b7f7415e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning fort located in the heart of Delhi, offering breathtaking views and cultural heritage.",
+    "fullDescription": "India Gate is one of the most prominent tourist attractions in Delhi. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of India Gate dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, New Delhi, Delhi, India",
+    "latitude": "22.7031",
+    "longitude": "75.3875",
+    "googleMapsUrl": "https://maps.google.com/?q=India+Gate",
+    "nearbyHotels": [
+      "The Grand Delhi",
+      "Heritage Stay New Delhi"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Butter Chicken House",
+      "Cafe Delhi"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.delhi.gov.in"
+  },
+  {
+    "id": 240,
+    "stateId": 32,
+    "stateSlug": "delhi",
+    "slug": "qutub-minar",
+    "name": "Qutub Minar",
+    "district": "New Delhi District",
+    "city": "New Delhi",
+    "category": "Nature",
+    "rating": "4.8",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Qutb_Minar_2022.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/3/3c/Qutb_Minar_2022.jpg",
+      "https://images.unsplash.com/photo-photo-1588725832729-19ec4f4d2f09?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1599661046289-e31897846e41?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning nature located in the heart of Delhi, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Qutub Minar is one of the most prominent tourist attractions in Delhi. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Qutub Minar dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, New Delhi, Delhi, India",
+    "latitude": "21.1343",
+    "longitude": "80.9932",
+    "googleMapsUrl": "https://maps.google.com/?q=Qutub+Minar",
+    "nearbyHotels": [
+      "The Grand Delhi",
+      "Heritage Stay New Delhi"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Butter Chicken House",
+      "Cafe Delhi"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.delhi.gov.in"
+  },
+  {
+    "id": 241,
+    "stateId": 32,
+    "stateSlug": "delhi",
+    "slug": "humayun-s-tomb",
+    "name": "Humayun's Tomb",
+    "district": "New Delhi District",
+    "city": "New Delhi",
+    "category": "Hill Station",
+    "rating": "4.6",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Tomb_of_Humayun%2C_Delhi.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/d/d2/Tomb_of_Humayun%2C_Delhi.jpg",
+      "https://images.unsplash.com/photo-photo-1596700681577-fb1ffdbcd9bc?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1596700682283-7a91a9f993d3?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning hill station located in the heart of Delhi, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Humayun's Tomb is one of the most prominent tourist attractions in Delhi. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Humayun's Tomb dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, New Delhi, Delhi, India",
+    "latitude": "18.1635",
+    "longitude": "80.5148",
+    "googleMapsUrl": "https://maps.google.com/?q=Humayun's+Tomb",
+    "nearbyHotels": [
+      "The Grand Delhi",
+      "Heritage Stay New Delhi"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Butter Chicken House",
+      "Cafe Delhi"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.delhi.gov.in"
+  },
+  {
+    "id": 242,
+    "stateId": 32,
+    "stateSlug": "delhi",
+    "slug": "lotus-temple",
+    "name": "Lotus Temple",
+    "district": "New Delhi District",
+    "city": "New Delhi",
+    "category": "Temple",
+    "rating": "4.6",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/fc/LotusDelhi.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/f/fc/LotusDelhi.jpg",
+      "https://images.unsplash.com/photo-photo-1626082260667-0c7f1a357f6f?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1602715690326-f7bcdafa41c0?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning temple located in the heart of Delhi, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Lotus Temple is one of the most prominent tourist attractions in Delhi. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Lotus Temple dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, New Delhi, Delhi, India",
+    "latitude": "18.4323",
+    "longitude": "77.9246",
+    "googleMapsUrl": "https://maps.google.com/?q=Lotus+Temple",
+    "nearbyHotels": [
+      "The Grand Delhi",
+      "Heritage Stay New Delhi"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Butter Chicken House",
+      "Cafe Delhi"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.delhi.gov.in"
+  },
+  {
+    "id": 243,
+    "stateId": 32,
+    "stateSlug": "delhi",
+    "slug": "akshardham",
+    "name": "Akshardham",
+    "district": "New Delhi District",
+    "city": "New Delhi",
+    "category": "Island",
+    "rating": "4.0",
+    "image": "https://images.unsplash.com/photo-photo-1626082260667-0c7f1a357f6f?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-photo-1626082260667-0c7f1a357f6f?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1582294109406-8d1cbbe55c5c?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1625066495209-1dc5ec3312e7?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning island located in the heart of Delhi, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Akshardham is one of the most prominent tourist attractions in Delhi. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Akshardham dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, New Delhi, Delhi, India",
+    "latitude": "22.5257",
+    "longitude": "75.3417",
+    "googleMapsUrl": "https://maps.google.com/?q=Akshardham",
+    "nearbyHotels": [
+      "The Grand Delhi",
+      "Heritage Stay New Delhi"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Butter Chicken House",
+      "Cafe Delhi"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.delhi.gov.in"
+  }
+]

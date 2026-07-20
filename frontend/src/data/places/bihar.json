@@ -1,0 +1,466 @@
+[
+  {
+    "id": 25,
+    "stateId": 4,
+    "stateSlug": "bihar",
+    "slug": "patna-city-center",
+    "name": "Patna City Center",
+    "district": "Patna District",
+    "city": "Patna",
+    "category": "Island",
+    "rating": "4.1",
+    "image": "https://images.unsplash.com/photo-photo-1590483864455-d368e7ec3f89?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-photo-1590483864455-d368e7ec3f89?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1563200773-1081387d3a0c?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1624898322883-99fc286b772f?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning island located in the heart of Bihar, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Patna City Center is one of the most prominent tourist attractions in Bihar. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Patna City Center dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Patna, Bihar, India",
+    "latitude": "18.2572",
+    "longitude": "78.7317",
+    "googleMapsUrl": "https://maps.google.com/?q=Patna+City+Center",
+    "nearbyHotels": [
+      "The Grand Bihar",
+      "Heritage Stay Patna"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Litti Chokha House",
+      "Cafe Bihar"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.bihar.gov.in"
+  },
+  {
+    "id": 26,
+    "stateId": 4,
+    "stateSlug": "bihar",
+    "slug": "historic-fort-of-patna",
+    "name": "Historic Fort of Patna",
+    "district": "Patna District",
+    "city": "Patna",
+    "category": "Fort",
+    "rating": "5.0",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Patna_high_court1.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/9/99/Patna_high_court1.jpg",
+      "https://images.unsplash.com/photo-photo-1548013146-72479768bada?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1600329976378-01362e584988?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning fort located in the heart of Bihar, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Historic Fort of Patna is one of the most prominent tourist attractions in Bihar. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Historic Fort of Patna dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Patna, Bihar, India",
+    "latitude": "24.8459",
+    "longitude": "78.6272",
+    "googleMapsUrl": "https://maps.google.com/?q=Historic+Fort+of+Patna",
+    "nearbyHotels": [
+      "The Grand Bihar",
+      "Heritage Stay Patna"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Litti Chokha House",
+      "Cafe Bihar"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.bihar.gov.in"
+  },
+  {
+    "id": 27,
+    "stateId": 4,
+    "stateSlug": "bihar",
+    "slug": "bihar-state-museum",
+    "name": "Bihar State Museum",
+    "district": "Patna District",
+    "city": "Patna",
+    "category": "Beach",
+    "rating": "4.1",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Bihar_Museum_Bailey_Road_02.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/0/08/Bihar_Museum_Bailey_Road_02.jpg",
+      "https://images.unsplash.com/photo-photo-1591963236746-95f00e93bc4b?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1610012803823-74bba2eb703e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning beach located in the heart of Bihar, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Bihar State Museum is one of the most prominent tourist attractions in Bihar. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Bihar State Museum dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Patna, Bihar, India",
+    "latitude": "23.8907",
+    "longitude": "82.3331",
+    "googleMapsUrl": "https://maps.google.com/?q=Bihar+State+Museum",
+    "nearbyHotels": [
+      "The Grand Bihar",
+      "Heritage Stay Patna"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Litti Chokha House",
+      "Cafe Bihar"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.bihar.gov.in"
+  },
+  {
+    "id": 28,
+    "stateId": 4,
+    "stateSlug": "bihar",
+    "slug": "sacred-temple-of-bihar",
+    "name": "Sacred Temple of Bihar",
+    "district": "Patna District",
+    "city": "Patna",
+    "category": "Hill Station",
+    "rating": "4.7",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Vishnupad_Temple%2CUpdated.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/f/ff/Vishnupad_Temple%2CUpdated.jpg",
+      "https://images.unsplash.com/photo-photo-1624898322883-99fc286b772f?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1605634599723-5e92be167d4b?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning hill station located in the heart of Bihar, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Sacred Temple of Bihar is one of the most prominent tourist attractions in Bihar. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Sacred Temple of Bihar dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Patna, Bihar, India",
+    "latitude": "19.7062",
+    "longitude": "80.4623",
+    "googleMapsUrl": "https://maps.google.com/?q=Sacred+Temple+of+Bihar",
+    "nearbyHotels": [
+      "The Grand Bihar",
+      "Heritage Stay Patna"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Litti Chokha House",
+      "Cafe Bihar"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.bihar.gov.in"
+  },
+  {
+    "id": 29,
+    "stateId": 4,
+    "stateSlug": "bihar",
+    "slug": "bihar-wildlife-sanctuary",
+    "name": "Bihar Wildlife Sanctuary",
+    "district": "Patna District",
+    "city": "Patna",
+    "category": "Temple",
+    "rating": "4.7",
+    "image": "https://images.unsplash.com/photo-photo-1589136128038-d6c547805177?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-photo-1589136128038-d6c547805177?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1596700681577-fb1ffdbcd9bc?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1596700682283-7a91a9f993d3?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning temple located in the heart of Bihar, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Bihar Wildlife Sanctuary is one of the most prominent tourist attractions in Bihar. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Bihar Wildlife Sanctuary dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Patna, Bihar, India",
+    "latitude": "19.9384",
+    "longitude": "82.3495",
+    "googleMapsUrl": "https://maps.google.com/?q=Bihar+Wildlife+Sanctuary",
+    "nearbyHotels": [
+      "The Grand Bihar",
+      "Heritage Stay Patna"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Litti Chokha House",
+      "Cafe Bihar"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.bihar.gov.in"
+  },
+  {
+    "id": 30,
+    "stateId": 4,
+    "stateSlug": "bihar",
+    "slug": "bihar-botanical-gardens",
+    "name": "Bihar Botanical Gardens",
+    "district": "Patna District",
+    "city": "Patna",
+    "category": "Palace",
+    "rating": "4.2",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1f/When_the_big_cat_turned_to_my_camera%21.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/1/1f/When_the_big_cat_turned_to_my_camera%21.jpg",
+      "https://images.unsplash.com/photo-photo-1596700682283-7a91a9f993d3?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1596700681577-fb1ffdbcd9bc?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning palace located in the heart of Bihar, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Bihar Botanical Gardens is one of the most prominent tourist attractions in Bihar. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Bihar Botanical Gardens dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Patna, Bihar, India",
+    "latitude": "16.9347",
+    "longitude": "81.4350",
+    "googleMapsUrl": "https://maps.google.com/?q=Bihar+Botanical+Gardens",
+    "nearbyHotels": [
+      "The Grand Bihar",
+      "Heritage Stay Patna"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Litti Chokha House",
+      "Cafe Bihar"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.bihar.gov.in"
+  },
+  {
+    "id": 31,
+    "stateId": 4,
+    "stateSlug": "bihar",
+    "slug": "grand-palace-of-bihar",
+    "name": "Grand Palace of Bihar",
+    "district": "Patna District",
+    "city": "Patna",
+    "category": "National Park",
+    "rating": "4.1",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Kali_Mandir_Rajanagar_Madhubani.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/1/1f/Kali_Mandir_Rajanagar_Madhubani.jpg",
+      "https://images.unsplash.com/photo-photo-1548013146-72479768bada?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1600329976378-01362e584988?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning national park located in the heart of Bihar, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Grand Palace of Bihar is one of the most prominent tourist attractions in Bihar. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Grand Palace of Bihar dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Patna, Bihar, India",
+    "latitude": "19.1362",
+    "longitude": "78.2325",
+    "googleMapsUrl": "https://maps.google.com/?q=Grand+Palace+of+Bihar",
+    "nearbyHotels": [
+      "The Grand Bihar",
+      "Heritage Stay Patna"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Litti Chokha House",
+      "Cafe Bihar"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.bihar.gov.in"
+  },
+  {
+    "id": 32,
+    "stateId": 4,
+    "stateSlug": "bihar",
+    "slug": "beautiful-lake-of-bihar",
+    "name": "Beautiful Lake of Bihar",
+    "district": "Patna District",
+    "city": "Patna",
+    "category": "Lake",
+    "rating": "4.8",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/61/Harahi_Lake%2C_Darbhanga.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/6/61/Harahi_Lake%2C_Darbhanga.jpg",
+      "https://images.unsplash.com/photo-photo-1585250462060-155e8840c8fa?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1599661046289-e31897846e41?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning lake located in the heart of Bihar, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Beautiful Lake of Bihar is one of the most prominent tourist attractions in Bihar. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Beautiful Lake of Bihar dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Patna, Bihar, India",
+    "latitude": "24.8250",
+    "longitude": "77.1383",
+    "googleMapsUrl": "https://maps.google.com/?q=Beautiful+Lake+of+Bihar",
+    "nearbyHotels": [
+      "The Grand Bihar",
+      "Heritage Stay Patna"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Litti Chokha House",
+      "Cafe Bihar"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.bihar.gov.in"
+  }
+]

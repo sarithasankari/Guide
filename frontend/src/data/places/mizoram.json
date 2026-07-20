@@ -1,0 +1,466 @@
+[
+  {
+    "id": 123,
+    "stateId": 17,
+    "stateSlug": "mizoram",
+    "slug": "aizawl-city-center",
+    "name": "Aizawl City Center",
+    "district": "Aizawl District",
+    "city": "Aizawl",
+    "category": "Island",
+    "rating": "4.4",
+    "image": "https://images.unsplash.com/photo-photo-1617415440798-2510b64be16a?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-photo-1617415440798-2510b64be16a?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1570168007204-dfb528c6958f?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1596700683050-2f9547d7c672?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning island located in the heart of Mizoram, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Aizawl City Center is one of the most prominent tourist attractions in Mizoram. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Aizawl City Center dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "November to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Aizawl, Mizoram, India",
+    "latitude": "15.5823",
+    "longitude": "81.3899",
+    "googleMapsUrl": "https://maps.google.com/?q=Aizawl+City+Center",
+    "nearbyHotels": [
+      "The Grand Mizoram",
+      "Heritage Stay Aizawl"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Bai House",
+      "Cafe Mizoram"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.mizoram.gov.in"
+  },
+  {
+    "id": 124,
+    "stateId": 17,
+    "stateSlug": "mizoram",
+    "slug": "historic-fort-of-aizawl",
+    "name": "Historic Fort of Aizawl",
+    "district": "Aizawl District",
+    "city": "Aizawl",
+    "category": "Fort",
+    "rating": "4.0",
+    "image": "https://images.unsplash.com/photo-photo-1602715690326-f7bcdafa41c0?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-photo-1602715690326-f7bcdafa41c0?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1626082260667-0c7f1a357f6f?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1582294109406-8d1cbbe55c5c?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning fort located in the heart of Mizoram, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Historic Fort of Aizawl is one of the most prominent tourist attractions in Mizoram. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Historic Fort of Aizawl dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "November to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Aizawl, Mizoram, India",
+    "latitude": "17.8394",
+    "longitude": "76.7390",
+    "googleMapsUrl": "https://maps.google.com/?q=Historic+Fort+of+Aizawl",
+    "nearbyHotels": [
+      "The Grand Mizoram",
+      "Heritage Stay Aizawl"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Bai House",
+      "Cafe Mizoram"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.mizoram.gov.in"
+  },
+  {
+    "id": 125,
+    "stateId": 17,
+    "stateSlug": "mizoram",
+    "slug": "mizoram-state-museum",
+    "name": "Mizoram State Museum",
+    "district": "Aizawl District",
+    "city": "Aizawl",
+    "category": "Lake",
+    "rating": "4.6",
+    "image": "https://images.unsplash.com/photo-photo-1596700682283-7a91a9f993d3?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-photo-1596700682283-7a91a9f993d3?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1596700681577-fb1ffdbcd9bc?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1589136128038-d6c547805177?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning lake located in the heart of Mizoram, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Mizoram State Museum is one of the most prominent tourist attractions in Mizoram. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Mizoram State Museum dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "November to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Aizawl, Mizoram, India",
+    "latitude": "21.6717",
+    "longitude": "73.3086",
+    "googleMapsUrl": "https://maps.google.com/?q=Mizoram+State+Museum",
+    "nearbyHotels": [
+      "The Grand Mizoram",
+      "Heritage Stay Aizawl"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Bai House",
+      "Cafe Mizoram"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.mizoram.gov.in"
+  },
+  {
+    "id": 126,
+    "stateId": 17,
+    "stateSlug": "mizoram",
+    "slug": "sacred-temple-of-mizoram",
+    "name": "Sacred Temple of Mizoram",
+    "district": "Aizawl District",
+    "city": "Aizawl",
+    "category": "City",
+    "rating": "4.9",
+    "image": "https://images.unsplash.com/photo-photo-1570168007204-dfb528c6958f?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-photo-1570168007204-dfb528c6958f?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1596700683050-2f9547d7c672?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1582294025176-58c5f949c289?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning city located in the heart of Mizoram, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Sacred Temple of Mizoram is one of the most prominent tourist attractions in Mizoram. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Sacred Temple of Mizoram dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "November to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Aizawl, Mizoram, India",
+    "latitude": "16.4590",
+    "longitude": "82.0970",
+    "googleMapsUrl": "https://maps.google.com/?q=Sacred+Temple+of+Mizoram",
+    "nearbyHotels": [
+      "The Grand Mizoram",
+      "Heritage Stay Aizawl"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Bai House",
+      "Cafe Mizoram"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.mizoram.gov.in"
+  },
+  {
+    "id": 127,
+    "stateId": 17,
+    "stateSlug": "mizoram",
+    "slug": "mizoram-wildlife-sanctuary",
+    "name": "Mizoram Wildlife Sanctuary",
+    "district": "Aizawl District",
+    "city": "Aizawl",
+    "category": "Beach",
+    "rating": "4.6",
+    "image": "https://images.unsplash.com/photo-photo-1600100397608-f010f41cb8ea?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-photo-1600100397608-f010f41cb8ea?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1625066495209-1dc5ec3312e7?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1582294109406-8d1cbbe55c5c?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning beach located in the heart of Mizoram, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Mizoram Wildlife Sanctuary is one of the most prominent tourist attractions in Mizoram. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Mizoram Wildlife Sanctuary dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "November to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Aizawl, Mizoram, India",
+    "latitude": "23.5566",
+    "longitude": "79.4683",
+    "googleMapsUrl": "https://maps.google.com/?q=Mizoram+Wildlife+Sanctuary",
+    "nearbyHotels": [
+      "The Grand Mizoram",
+      "Heritage Stay Aizawl"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Bai House",
+      "Cafe Mizoram"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.mizoram.gov.in"
+  },
+  {
+    "id": 128,
+    "stateId": 17,
+    "stateSlug": "mizoram",
+    "slug": "mizoram-botanical-gardens",
+    "name": "Mizoram Botanical Gardens",
+    "district": "Aizawl District",
+    "city": "Aizawl",
+    "category": "Monument",
+    "rating": "4.7",
+    "image": "https://images.unsplash.com/photo-photo-1610012803823-74bba2eb703e?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-photo-1610012803823-74bba2eb703e?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1591963236746-95f00e93bc4b?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1590483864455-d368e7ec3f89?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning monument located in the heart of Mizoram, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Mizoram Botanical Gardens is one of the most prominent tourist attractions in Mizoram. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Mizoram Botanical Gardens dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "November to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Aizawl, Mizoram, India",
+    "latitude": "20.6083",
+    "longitude": "78.6526",
+    "googleMapsUrl": "https://maps.google.com/?q=Mizoram+Botanical+Gardens",
+    "nearbyHotels": [
+      "The Grand Mizoram",
+      "Heritage Stay Aizawl"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Bai House",
+      "Cafe Mizoram"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.mizoram.gov.in"
+  },
+  {
+    "id": 129,
+    "stateId": 17,
+    "stateSlug": "mizoram",
+    "slug": "grand-palace-of-mizoram",
+    "name": "Grand Palace of Mizoram",
+    "district": "Aizawl District",
+    "city": "Aizawl",
+    "category": "City",
+    "rating": "4.7",
+    "image": "https://images.unsplash.com/photo-photo-1570168007204-dfb528c6958f?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-photo-1570168007204-dfb528c6958f?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1617415440798-2510b64be16a?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1602216056096-3b40cc0c9944?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning city located in the heart of Mizoram, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Grand Palace of Mizoram is one of the most prominent tourist attractions in Mizoram. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Grand Palace of Mizoram dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "November to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Aizawl, Mizoram, India",
+    "latitude": "23.3317",
+    "longitude": "79.1317",
+    "googleMapsUrl": "https://maps.google.com/?q=Grand+Palace+of+Mizoram",
+    "nearbyHotels": [
+      "The Grand Mizoram",
+      "Heritage Stay Aizawl"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Bai House",
+      "Cafe Mizoram"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.mizoram.gov.in"
+  },
+  {
+    "id": 130,
+    "stateId": 17,
+    "stateSlug": "mizoram",
+    "slug": "beautiful-lake-of-mizoram",
+    "name": "Beautiful Lake of Mizoram",
+    "district": "Aizawl District",
+    "city": "Aizawl",
+    "category": "Lake",
+    "rating": "5.0",
+    "image": "https://images.unsplash.com/photo-photo-1600100397608-f010f41cb8ea?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-photo-1600100397608-f010f41cb8ea?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1602216056096-3b40cc0c9944?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1617415440798-2510b64be16a?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning lake located in the heart of Mizoram, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Beautiful Lake of Mizoram is one of the most prominent tourist attractions in Mizoram. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Beautiful Lake of Mizoram dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "November to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Aizawl, Mizoram, India",
+    "latitude": "19.7593",
+    "longitude": "73.7624",
+    "googleMapsUrl": "https://maps.google.com/?q=Beautiful+Lake+of+Mizoram",
+    "nearbyHotels": [
+      "The Grand Mizoram",
+      "Heritage Stay Aizawl"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Bai House",
+      "Cafe Mizoram"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.mizoram.gov.in"
+  }
+]

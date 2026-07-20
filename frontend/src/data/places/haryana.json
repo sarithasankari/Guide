@@ -1,0 +1,466 @@
+[
+  {
+    "id": 53,
+    "stateId": 8,
+    "stateSlug": "haryana",
+    "slug": "chandigarh-city-center",
+    "name": "Chandigarh City Center",
+    "district": "Chandigarh District",
+    "city": "Chandigarh",
+    "category": "National Park",
+    "rating": "4.2",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/76/Open_Hand_monument%2C_Chandigarh.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/7/76/Open_Hand_monument%2C_Chandigarh.jpg",
+      "https://images.unsplash.com/photo-photo-1626082260667-0c7f1a357f6f?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1602715690326-f7bcdafa41c0?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning national park located in the heart of Haryana, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Chandigarh City Center is one of the most prominent tourist attractions in Haryana. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Chandigarh City Center dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Chandigarh, Haryana, India",
+    "latitude": "15.9449",
+    "longitude": "80.6894",
+    "googleMapsUrl": "https://maps.google.com/?q=Chandigarh+City+Center",
+    "nearbyHotels": [
+      "The Grand Haryana",
+      "Heritage Stay Chandigarh"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Bajra Khichdi House",
+      "Cafe Haryana"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.haryana.gov.in"
+  },
+  {
+    "id": 54,
+    "stateId": 8,
+    "stateSlug": "haryana",
+    "slug": "historic-fort-of-chandigarh",
+    "name": "Historic Fort of Chandigarh",
+    "district": "Chandigarh District",
+    "city": "Chandigarh",
+    "category": "Lake",
+    "rating": "4.6",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/76/Open_Hand_monument%2C_Chandigarh.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/7/76/Open_Hand_monument%2C_Chandigarh.jpg",
+      "https://images.unsplash.com/photo-photo-1602216056096-3b40cc0c9944?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1617415440798-2510b64be16a?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning lake located in the heart of Haryana, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Historic Fort of Chandigarh is one of the most prominent tourist attractions in Haryana. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Historic Fort of Chandigarh dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Chandigarh, Haryana, India",
+    "latitude": "18.9438",
+    "longitude": "80.2741",
+    "googleMapsUrl": "https://maps.google.com/?q=Historic+Fort+of+Chandigarh",
+    "nearbyHotels": [
+      "The Grand Haryana",
+      "Heritage Stay Chandigarh"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Bajra Khichdi House",
+      "Cafe Haryana"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.haryana.gov.in"
+  },
+  {
+    "id": 55,
+    "stateId": 8,
+    "stateSlug": "haryana",
+    "slug": "haryana-state-museum",
+    "name": "Haryana State Museum",
+    "district": "Chandigarh District",
+    "city": "Chandigarh",
+    "category": "Island",
+    "rating": "4.6",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/South_Asia_%28orthographic_projection%29_without_national_boundaries.svg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/e/e3/South_Asia_%28orthographic_projection%29_without_national_boundaries.svg",
+      "https://images.unsplash.com/photo-photo-1617415440798-2510b64be16a?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1602216056096-3b40cc0c9944?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning island located in the heart of Haryana, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Haryana State Museum is one of the most prominent tourist attractions in Haryana. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Haryana State Museum dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Chandigarh, Haryana, India",
+    "latitude": "15.4227",
+    "longitude": "73.5861",
+    "googleMapsUrl": "https://maps.google.com/?q=Haryana+State+Museum",
+    "nearbyHotels": [
+      "The Grand Haryana",
+      "Heritage Stay Chandigarh"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Bajra Khichdi House",
+      "Cafe Haryana"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.haryana.gov.in"
+  },
+  {
+    "id": 56,
+    "stateId": 8,
+    "stateSlug": "haryana",
+    "slug": "sacred-temple-of-haryana",
+    "name": "Sacred Temple of Haryana",
+    "district": "Chandigarh District",
+    "city": "Chandigarh",
+    "category": "Monument",
+    "rating": "4.1",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Khatu_Shyam_Ji_-_panoramio.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/9/9d/Khatu_Shyam_Ji_-_panoramio.jpg",
+      "https://images.unsplash.com/photo-photo-1570168007204-dfb528c6958f?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1596700683050-2f9547d7c672?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning monument located in the heart of Haryana, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Sacred Temple of Haryana is one of the most prominent tourist attractions in Haryana. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Sacred Temple of Haryana dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Chandigarh, Haryana, India",
+    "latitude": "19.9268",
+    "longitude": "82.9707",
+    "googleMapsUrl": "https://maps.google.com/?q=Sacred+Temple+of+Haryana",
+    "nearbyHotels": [
+      "The Grand Haryana",
+      "Heritage Stay Chandigarh"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Bajra Khichdi House",
+      "Cafe Haryana"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.haryana.gov.in"
+  },
+  {
+    "id": 57,
+    "stateId": 8,
+    "stateSlug": "haryana",
+    "slug": "haryana-wildlife-sanctuary",
+    "name": "Haryana Wildlife Sanctuary",
+    "district": "Chandigarh District",
+    "city": "Chandigarh",
+    "category": "Pilgrimage",
+    "rating": "4.9",
+    "image": "https://images.unsplash.com/photo-photo-1596700683050-2f9547d7c672?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-photo-1596700683050-2f9547d7c672?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1570168007204-dfb528c6958f?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1617415440798-2510b64be16a?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning pilgrimage located in the heart of Haryana, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Haryana Wildlife Sanctuary is one of the most prominent tourist attractions in Haryana. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Haryana Wildlife Sanctuary dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Chandigarh, Haryana, India",
+    "latitude": "15.1029",
+    "longitude": "81.2455",
+    "googleMapsUrl": "https://maps.google.com/?q=Haryana+Wildlife+Sanctuary",
+    "nearbyHotels": [
+      "The Grand Haryana",
+      "Heritage Stay Chandigarh"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Bajra Khichdi House",
+      "Cafe Haryana"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.haryana.gov.in"
+  },
+  {
+    "id": 58,
+    "stateId": 8,
+    "stateSlug": "haryana",
+    "slug": "haryana-botanical-gardens",
+    "name": "Haryana Botanical Gardens",
+    "district": "Chandigarh District",
+    "city": "Chandigarh",
+    "category": "Pilgrimage",
+    "rating": "5.0",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1f/When_the_big_cat_turned_to_my_camera%21.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/1/1f/When_the_big_cat_turned_to_my_camera%21.jpg",
+      "https://images.unsplash.com/photo-photo-1585250462060-155e8840c8fa?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1599661046289-e31897846e41?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning pilgrimage located in the heart of Haryana, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Haryana Botanical Gardens is one of the most prominent tourist attractions in Haryana. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Haryana Botanical Gardens dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Chandigarh, Haryana, India",
+    "latitude": "23.0362",
+    "longitude": "73.7300",
+    "googleMapsUrl": "https://maps.google.com/?q=Haryana+Botanical+Gardens",
+    "nearbyHotels": [
+      "The Grand Haryana",
+      "Heritage Stay Chandigarh"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Bajra Khichdi House",
+      "Cafe Haryana"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.haryana.gov.in"
+  },
+  {
+    "id": 59,
+    "stateId": 8,
+    "stateSlug": "haryana",
+    "slug": "grand-palace-of-haryana",
+    "name": "Grand Palace of Haryana",
+    "district": "Chandigarh District",
+    "city": "Chandigarh",
+    "category": "Monument",
+    "rating": "4.7",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/72/Pataudi_Palace.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/7/72/Pataudi_Palace.jpg",
+      "https://images.unsplash.com/photo-photo-1570168007204-dfb528c6958f?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1617415440798-2510b64be16a?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning monument located in the heart of Haryana, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Grand Palace of Haryana is one of the most prominent tourist attractions in Haryana. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Grand Palace of Haryana dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Chandigarh, Haryana, India",
+    "latitude": "21.9427",
+    "longitude": "82.2224",
+    "googleMapsUrl": "https://maps.google.com/?q=Grand+Palace+of+Haryana",
+    "nearbyHotels": [
+      "The Grand Haryana",
+      "Heritage Stay Chandigarh"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Bajra Khichdi House",
+      "Cafe Haryana"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.haryana.gov.in"
+  },
+  {
+    "id": 60,
+    "stateId": 8,
+    "stateSlug": "haryana",
+    "slug": "beautiful-lake-of-haryana",
+    "name": "Beautiful Lake of Haryana",
+    "district": "Chandigarh District",
+    "city": "Chandigarh",
+    "category": "City",
+    "rating": "4.2",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Suraj_Kund.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/e/ef/Suraj_Kund.jpg",
+      "https://images.unsplash.com/photo-photo-1617415440798-2510b64be16a?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1602216056096-3b40cc0c9944?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning city located in the heart of Haryana, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Beautiful Lake of Haryana is one of the most prominent tourist attractions in Haryana. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Beautiful Lake of Haryana dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Chandigarh, Haryana, India",
+    "latitude": "21.0641",
+    "longitude": "79.0556",
+    "googleMapsUrl": "https://maps.google.com/?q=Beautiful+Lake+of+Haryana",
+    "nearbyHotels": [
+      "The Grand Haryana",
+      "Heritage Stay Chandigarh"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Bajra Khichdi House",
+      "Cafe Haryana"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.haryana.gov.in"
+  }
+]

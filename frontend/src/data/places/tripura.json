@@ -1,0 +1,466 @@
+[
+  {
+    "id": 189,
+    "stateId": 25,
+    "stateSlug": "tripura",
+    "slug": "agartala-city-center",
+    "name": "Agartala City Center",
+    "district": "Agartala District",
+    "city": "Agartala",
+    "category": "National Park",
+    "rating": "4.5",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Ujjayanta_palace_Tripura_State_Museum_Agartala_India.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/c/c8/Ujjayanta_palace_Tripura_State_Museum_Agartala_India.jpg",
+      "https://images.unsplash.com/photo-photo-1602216056096-3b40cc0c9944?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1617415440798-2510b64be16a?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning national park located in the heart of Tripura, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Agartala City Center is one of the most prominent tourist attractions in Tripura. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Agartala City Center dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Agartala, Tripura, India",
+    "latitude": "22.8599",
+    "longitude": "79.5155",
+    "googleMapsUrl": "https://maps.google.com/?q=Agartala+City+Center",
+    "nearbyHotels": [
+      "The Grand Tripura",
+      "Heritage Stay Agartala"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Mui Borok House",
+      "Cafe Tripura"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.tripura.gov.in"
+  },
+  {
+    "id": 190,
+    "stateId": 25,
+    "stateSlug": "tripura",
+    "slug": "historic-fort-of-agartala",
+    "name": "Historic Fort of Agartala",
+    "district": "Agartala District",
+    "city": "Agartala",
+    "category": "Heritage",
+    "rating": "4.8",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/44/Vista_de_la_Marcha_del_orgullo_LGBT_CDMX_2019_-_53.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/4/44/Vista_de_la_Marcha_del_orgullo_LGBT_CDMX_2019_-_53.jpg",
+      "https://images.unsplash.com/photo-photo-1605634599723-5e92be167d4b?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1598466632420-53896b05be5a?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning heritage located in the heart of Tripura, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Historic Fort of Agartala is one of the most prominent tourist attractions in Tripura. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Historic Fort of Agartala dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Agartala, Tripura, India",
+    "latitude": "17.2004",
+    "longitude": "81.2629",
+    "googleMapsUrl": "https://maps.google.com/?q=Historic+Fort+of+Agartala",
+    "nearbyHotels": [
+      "The Grand Tripura",
+      "Heritage Stay Agartala"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Mui Borok House",
+      "Cafe Tripura"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.tripura.gov.in"
+  },
+  {
+    "id": 191,
+    "stateId": 25,
+    "stateSlug": "tripura",
+    "slug": "tripura-state-museum",
+    "name": "Tripura State Museum",
+    "district": "Agartala District",
+    "city": "Agartala",
+    "category": "Beach",
+    "rating": "4.6",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Ujjayanta_palace_Tripura_State_Museum_Agartala_India.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/c/c8/Ujjayanta_palace_Tripura_State_Museum_Agartala_India.jpg",
+      "https://images.unsplash.com/photo-photo-1605634599723-5e92be167d4b?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1598466632420-53896b05be5a?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning beach located in the heart of Tripura, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Tripura State Museum is one of the most prominent tourist attractions in Tripura. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Tripura State Museum dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Agartala, Tripura, India",
+    "latitude": "16.5528",
+    "longitude": "79.6044",
+    "googleMapsUrl": "https://maps.google.com/?q=Tripura+State+Museum",
+    "nearbyHotels": [
+      "The Grand Tripura",
+      "Heritage Stay Agartala"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Mui Borok House",
+      "Cafe Tripura"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.tripura.gov.in"
+  },
+  {
+    "id": 192,
+    "stateId": 25,
+    "stateSlug": "tripura",
+    "slug": "sacred-temple-of-tripura",
+    "name": "Sacred Temple of Tripura",
+    "district": "Agartala District",
+    "city": "Agartala",
+    "category": "Hill Station",
+    "rating": "4.4",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/30/Lalita_sm.JPG",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/3/30/Lalita_sm.JPG",
+      "https://images.unsplash.com/photo-photo-1590483864455-d368e7ec3f89?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1563200773-1081387d3a0c?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning hill station located in the heart of Tripura, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Sacred Temple of Tripura is one of the most prominent tourist attractions in Tripura. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Sacred Temple of Tripura dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Agartala, Tripura, India",
+    "latitude": "19.8431",
+    "longitude": "79.9509",
+    "googleMapsUrl": "https://maps.google.com/?q=Sacred+Temple+of+Tripura",
+    "nearbyHotels": [
+      "The Grand Tripura",
+      "Heritage Stay Agartala"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Mui Borok House",
+      "Cafe Tripura"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.tripura.gov.in"
+  },
+  {
+    "id": 193,
+    "stateId": 25,
+    "stateSlug": "tripura",
+    "slug": "tripura-wildlife-sanctuary",
+    "name": "Tripura Wildlife Sanctuary",
+    "district": "Agartala District",
+    "city": "Agartala",
+    "category": "City",
+    "rating": "4.5",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Deer%2C_Sepahijala_WLS.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/a/a8/Deer%2C_Sepahijala_WLS.jpg",
+      "https://images.unsplash.com/photo-photo-1585250462060-155e8840c8fa?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1599661046289-e31897846e41?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning city located in the heart of Tripura, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Tripura Wildlife Sanctuary is one of the most prominent tourist attractions in Tripura. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Tripura Wildlife Sanctuary dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Agartala, Tripura, India",
+    "latitude": "15.3481",
+    "longitude": "82.1973",
+    "googleMapsUrl": "https://maps.google.com/?q=Tripura+Wildlife+Sanctuary",
+    "nearbyHotels": [
+      "The Grand Tripura",
+      "Heritage Stay Agartala"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Mui Borok House",
+      "Cafe Tripura"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.tripura.gov.in"
+  },
+  {
+    "id": 194,
+    "stateId": 25,
+    "stateSlug": "tripura",
+    "slug": "tripura-botanical-gardens",
+    "name": "Tripura Botanical Gardens",
+    "district": "Agartala District",
+    "city": "Agartala",
+    "category": "UNESCO",
+    "rating": "4.8",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Chandranath_Hill.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/0/0a/Chandranath_Hill.jpg",
+      "https://images.unsplash.com/photo-photo-1605634599723-5e92be167d4b?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1598466632420-53896b05be5a?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning unesco located in the heart of Tripura, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Tripura Botanical Gardens is one of the most prominent tourist attractions in Tripura. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Tripura Botanical Gardens dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Agartala, Tripura, India",
+    "latitude": "19.5222",
+    "longitude": "79.0802",
+    "googleMapsUrl": "https://maps.google.com/?q=Tripura+Botanical+Gardens",
+    "nearbyHotels": [
+      "The Grand Tripura",
+      "Heritage Stay Agartala"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Mui Borok House",
+      "Cafe Tripura"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.tripura.gov.in"
+  },
+  {
+    "id": 195,
+    "stateId": 25,
+    "stateSlug": "tripura",
+    "slug": "grand-palace-of-tripura",
+    "name": "Grand Palace of Tripura",
+    "district": "Agartala District",
+    "city": "Agartala",
+    "category": "Palace",
+    "rating": "4.5",
+    "image": "https://images.unsplash.com/photo-photo-1590483864455-d368e7ec3f89?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-photo-1590483864455-d368e7ec3f89?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1591963236746-95f00e93bc4b?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1610012803823-74bba2eb703e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning palace located in the heart of Tripura, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Grand Palace of Tripura is one of the most prominent tourist attractions in Tripura. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Grand Palace of Tripura dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "Free Entry",
+    "isFree": true,
+    "address": "Main Road, Agartala, Tripura, India",
+    "latitude": "24.2115",
+    "longitude": "80.9459",
+    "googleMapsUrl": "https://maps.google.com/?q=Grand+Palace+of+Tripura",
+    "nearbyHotels": [
+      "The Grand Tripura",
+      "Heritage Stay Agartala"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Mui Borok House",
+      "Cafe Tripura"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.tripura.gov.in"
+  },
+  {
+    "id": 196,
+    "stateId": 25,
+    "stateSlug": "tripura",
+    "slug": "beautiful-lake-of-tripura",
+    "name": "Beautiful Lake of Tripura",
+    "district": "Agartala District",
+    "city": "Agartala",
+    "category": "Beach",
+    "rating": "4.3",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Udaipur188.jpg",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/b/b2/Udaipur188.jpg",
+      "https://images.unsplash.com/photo-photo-1548013146-72479768bada?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-photo-1610012803823-74bba2eb703e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shortDescription": "A stunning beach located in the heart of Tripura, offering breathtaking views and cultural heritage.",
+    "fullDescription": "Beautiful Lake of Tripura is one of the most prominent tourist attractions in Tripura. Attracting thousands of visitors every year, it offers a deep dive into the rich history and vibrant culture of the region. Visitors can enjoy a serene atmosphere combined with excellent local cuisine and hospitality.",
+    "history": "The history of Beautiful Lake of Tripura dates back several centuries. Originally built as a stronghold, it evolved over time to become a cultural center. Numerous historical texts mention it as a pivotal location during the colonial era.",
+    "whyFamous": "Famous for its incredible architecture, historical significance, and the unparalleled beauty of its natural surroundings.",
+    "bestTimeToVisit": "October to March",
+    "openingTime": "09:00 AM",
+    "closingTime": "06:00 PM",
+    "entryFee": "₹150 for Indians, ₹500 for Foreigners",
+    "isFree": false,
+    "address": "Main Road, Agartala, Tripura, India",
+    "latitude": "20.0434",
+    "longitude": "79.1712",
+    "googleMapsUrl": "https://maps.google.com/?q=Beautiful+Lake+of+Tripura",
+    "nearbyHotels": [
+      "The Grand Tripura",
+      "Heritage Stay Agartala"
+    ],
+    "nearbyRestaurants": [
+      "Spicy Mui Borok House",
+      "Cafe Tripura"
+    ],
+    "nearbyTouristPlaces": [],
+    "activities": [
+      "Photography",
+      "Sightseeing",
+      "Local Shopping"
+    ],
+    "travelTips": [
+      "Carry water",
+      "Wear comfortable shoes",
+      "Hire a local guide"
+    ],
+    "safetyTips": [
+      "Beware of pickpockets",
+      "Stay hydrated"
+    ],
+    "accessibility": [
+      "Wheelchair Accessible (Partial)",
+      "Restrooms available"
+    ],
+    "officialWebsite": "https://tourism.tripura.gov.in"
+  }
+]
