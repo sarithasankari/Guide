@@ -51,50 +51,50 @@ export default function Booking() {
     <div className="bg-slate-50 min-h-screen pb-20">
       
       {/* Progress Header */}
-      <div className="bg-white py-6 border-b border-slate-100 sticky top-20 z-[100] shadow-sm">
-        <div className="max-w-7xl mx-auto px-4 flex justify-center">
-          <div className="flex items-center gap-3 sm:gap-4">
+      <div className="bg-white py-3 sm:py-5 border-b border-slate-100 sticky top-16 sm:top-20 z-[100] shadow-sm">
+        <div className="max-w-7xl mx-auto px-3 sm:px-4 flex justify-center">
+          <div className="flex items-center gap-1.5 sm:gap-4">
             
             {/* Step 1 */}
-            <div className="flex items-center gap-2">
-              <div className={`w-8 h-8 rounded-full flex items-center justify-center font-bold text-sm transition-all duration-300 ${
+            <div className="flex items-center gap-1 sm:gap-2">
+              <div className={`w-7 h-7 sm:w-8 sm:h-8 rounded-full flex items-center justify-center font-bold text-xs sm:text-sm transition-all duration-300 ${
                 step >= 1 ? 'bg-teal-600 text-white shadow-md shadow-teal-500/25' : 'bg-slate-100 text-slate-500'
               }`}>
-                {step > 1 ? <Check size={16} /> : '1'}
+                {step > 1 ? <Check size={14} /> : '1'}
               </div>
-              <span className={`text-xs sm:text-sm font-bold tracking-wide transition-colors duration-300 ${
+              <span className={`text-[11px] sm:text-sm font-bold tracking-wide transition-colors duration-300 ${
                 step >= 1 ? 'text-teal-650' : 'text-slate-400'
               }`}>Details</span>
             </div>
             
-            <div className={`h-[2px] w-8 sm:w-16 md:w-24 transition-colors duration-300 ${
+            <div className={`h-[2px] w-5 sm:w-16 md:w-24 transition-colors duration-300 ${
               step >= 2 ? 'bg-teal-600' : 'bg-slate-200'
             }`}></div>
             
             {/* Step 2 */}
-            <div className="flex items-center gap-2">
-              <div className={`w-8 h-8 rounded-full flex items-center justify-center font-bold text-sm transition-all duration-300 ${
+            <div className="flex items-center gap-1 sm:gap-2">
+              <div className={`w-7 h-7 sm:w-8 sm:h-8 rounded-full flex items-center justify-center font-bold text-xs sm:text-sm transition-all duration-300 ${
                 step >= 2 ? 'bg-teal-600 text-white shadow-md shadow-teal-500/25' : 'bg-slate-100 text-slate-500'
               }`}>
-                {step > 2 ? <Check size={16} /> : '2'}
+                {step > 2 ? <Check size={14} /> : '2'}
               </div>
-              <span className={`text-xs sm:text-sm font-bold tracking-wide transition-colors duration-300 ${
+              <span className={`text-[11px] sm:text-sm font-bold tracking-wide transition-colors duration-300 ${
                 step >= 2 ? 'text-teal-650' : 'text-slate-400'
               }`}>Payment</span>
             </div>
             
-            <div className={`h-[2px] w-8 sm:w-16 md:w-24 transition-colors duration-300 ${
+            <div className={`h-[2px] w-5 sm:w-16 md:w-24 transition-colors duration-300 ${
               step >= 3 ? 'bg-teal-600' : 'bg-slate-200'
             }`}></div>
             
             {/* Step 3 */}
-            <div className="flex items-center gap-2">
-              <div className={`w-8 h-8 rounded-full flex items-center justify-center font-bold text-sm transition-all duration-300 ${
+            <div className="flex items-center gap-1 sm:gap-2">
+              <div className={`w-7 h-7 sm:w-8 sm:h-8 rounded-full flex items-center justify-center font-bold text-xs sm:text-sm transition-all duration-300 ${
                 step >= 3 ? 'bg-teal-600 text-white shadow-md shadow-teal-500/25' : 'bg-slate-100 text-slate-500'
               }`}>
                 3
               </div>
-              <span className={`text-xs sm:text-sm font-bold tracking-wide transition-colors duration-300 ${
+              <span className={`text-[11px] sm:text-sm font-bold tracking-wide transition-colors duration-300 ${
                 step >= 3 ? 'text-teal-650' : 'text-slate-400'
               }`}>Confirm</span>
             </div>
@@ -103,12 +103,12 @@ export default function Booking() {
         </div>
       </div>
 
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
-        <div className="flex flex-col lg:flex-row gap-8 items-start">
+      <div className="max-w-7xl mx-auto px-3 sm:px-6 lg:px-8 py-5 sm:py-10">
+        <div className="flex flex-col lg:flex-row gap-6 lg:gap-8 items-start">
           
           {/* Left Column (Forms) */}
           <div className="flex-1 w-full">
-            <div className="card p-6 sm:p-10">
+            <div className="card p-4 sm:p-8 md:p-10">
               <AnimatePresence mode="wait">
                 {step === 1 && (
                   <motion.div
