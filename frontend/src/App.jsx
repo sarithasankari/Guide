@@ -1,5 +1,5 @@
 import React, { Suspense, lazy } from 'react';
-import { BrowserRouter, Routes, Route, useLocation, Navigate } from 'react-router-dom';
+import { HashRouter, Routes, Route, useLocation, Navigate } from 'react-router-dom';
 import { AnimatePresence, motion } from 'framer-motion';
 import { AppProvider } from './context/AppContext';
 import Navbar from './components/Navbar';
@@ -85,7 +85,7 @@ const AnimatedRoutes = () => {
 
 export default function App() {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <ScrollToTop />
       <div className="flex flex-col min-h-screen bg-slate-50 text-slate-900 font-sans selection:bg-teal-500/30 antialiased">
         <Navbar />
@@ -94,6 +94,6 @@ export default function App() {
         </main>
         <Footer />
       </div>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
