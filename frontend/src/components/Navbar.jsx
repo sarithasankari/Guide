@@ -34,14 +34,14 @@ export default function Navbar() {
 
   return (
     <header className="sticky top-0 z-[200] bg-white/75 backdrop-blur-md border-b border-slate-100 shadow-[0_2px_15px_-3px_rgba(15,23,42,0.03)]">
-      <div className="container mx-auto px-4 sm:px-6 lg:px-8 h-20 flex items-center justify-between">
+      <div className="container mx-auto px-3 sm:px-6 lg:px-8 h-16 sm:h-20 flex items-center justify-between">
         
         {/* Brand Logo */}
-        <Link to="/" className="flex items-center gap-2.5 group select-none">
-          <div className="w-10 h-10 rounded-xl bg-gradient-to-tr from-teal-500 to-emerald-400 flex items-center justify-center shadow-md shadow-teal-500/10 group-hover:scale-105 transition-transform duration-300">
-            <Compass size={22} className="text-white animate-pulse-slow" />
+        <Link to="/" className="flex items-center gap-2 sm:gap-2.5 group select-none">
+          <div className="w-8.5 h-8.5 sm:w-10 sm:h-10 rounded-xl bg-gradient-to-tr from-teal-500 to-emerald-400 flex items-center justify-center shadow-md shadow-teal-500/10 group-hover:scale-105 transition-transform duration-300">
+            <Compass size={20} className="text-white animate-pulse-slow sm:w-[22px] sm:h-[22px]" />
           </div>
-          <span className="bg-gradient-to-r from-teal-600 via-teal-500 to-emerald-600 bg-clip-text text-transparent font-black text-2xl tracking-tight">
+          <span className="bg-gradient-to-r from-teal-600 via-teal-500 to-emerald-600 bg-clip-text text-transparent font-black text-xl sm:text-2xl tracking-tight">
             GuideConnect
           </span>
         </Link>

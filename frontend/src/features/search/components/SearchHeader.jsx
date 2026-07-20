@@ -33,19 +33,19 @@ export default function SearchHeader({
   };
 
   return (
-    <div className={`sticky top-20 z-50 w-full transition-all duration-300 ${
+    <div className={`sticky top-16 sm:top-20 z-50 w-full transition-all duration-300 ${
       isShrunk 
         ? 'py-2 bg-white/95 backdrop-blur-md shadow-md border-b border-slate-100' 
-        : 'py-6 bg-slate-50 border-b border-slate-100'
+        : 'py-3 sm:py-6 bg-slate-50 border-b border-slate-100'
     }`}>
-      <div className="container mx-auto px-4 max-w-7xl">
+      <div className="container mx-auto px-3 sm:px-4 max-w-7xl">
         <form onSubmit={handleSubmit} className="w-full">
           <div className={`bg-white rounded-2xl md:rounded-full flex flex-col md:flex-row items-center border border-slate-200 gap-1 md:gap-0 p-1.5 transition-all duration-300 ${
             isShrunk ? 'shadow-sm max-w-5xl mx-auto' : 'shadow-[0_8px_30px_rgb(0,0,0,0.03)]'
           }`}>
             
             {/* Destination Input */}
-            <div className="flex-1 w-full flex items-center gap-2.5 px-4.5 py-2.5 md:py-1 hover:bg-slate-50/70 rounded-xl md:rounded-l-full group transition-colors">
+            <div className="flex-1 w-full flex items-center gap-2.5 px-3 sm:px-4.5 py-2 sm:py-2.5 md:py-1 hover:bg-slate-50/70 rounded-xl md:rounded-l-full group transition-colors">
               <MapPin size={18} className="text-teal-500 group-hover:scale-105 transition-transform" />
               <div className="flex-1 text-left">
                 <span className="block text-[9px] font-black text-slate-400 uppercase tracking-widest leading-none mb-1">Destination</span>

@@ -62,7 +62,7 @@ export default function Home() {
       <SEO title="Explore India with Verified Local Guides" />
       
       {/* Hero Section */}
-      <section className="relative isolate min-h-[600px] h-[85vh] flex items-center justify-center text-center text-white overflow-hidden">
+      <section className="relative isolate py-12 md:py-0 md:min-h-[600px] md:h-[85vh] flex items-center justify-center text-center text-white">
         {/* Animated Background Image */}
         <motion.div
           initial={{ scale: 1.1 }}
@@ -101,7 +101,7 @@ export default function Home() {
               
               {/* Location Input Segment */}
               <div 
-                className={`flex-1 w-full p-4.5 px-6 rounded-2xl md:rounded-l-full text-left transition-all duration-300 cursor-pointer ${
+                className={`flex-1 w-full p-3.5 px-4 sm:px-6 rounded-2xl md:rounded-l-full text-left transition-all duration-300 cursor-pointer ${
                   focusedSegment === 'location' ? 'bg-slate-50/80 shadow-[inset_0_1px_3px_rgba(0,0,0,0.02)]' : 'hover:bg-slate-50/50'
                 }`}
                 onClick={() => setFocusedSegment('location')}
@@ -125,7 +125,7 @@ export default function Home() {
 
               {/* Dates Input Segment */}
               <div 
-                className={`flex-1 w-full p-4.5 px-6 text-left transition-all duration-300 cursor-pointer ${
+                className={`flex-1 w-full p-3.5 px-4 sm:px-6 text-left transition-all duration-300 cursor-pointer ${
                   focusedSegment === 'dates' ? 'bg-slate-50/80 shadow-[inset_0_1px_3px_rgba(0,0,0,0.02)]' : 'hover:bg-slate-50/50'
                 }`}
                 onClick={() => setFocusedSegment('dates')}
@@ -149,7 +149,7 @@ export default function Home() {
 
               {/* Guests Input Segment */}
               <div 
-                className={`flex-1 w-full p-4.5 px-6 rounded-2xl md:rounded-r-none text-left transition-all duration-300 cursor-pointer ${
+                className={`flex-1 w-full p-3.5 px-4 sm:px-6 rounded-2xl md:rounded-r-none text-left transition-all duration-300 cursor-pointer ${
                   focusedSegment === 'guests' ? 'bg-slate-50/80 shadow-[inset_0_1px_3px_rgba(0,0,0,0.02)]' : 'hover:bg-slate-50/50'
                 }`}
                 onClick={() => setFocusedSegment('guests')}
@@ -183,9 +183,9 @@ export default function Home() {
       </section>
 
       {/* Categories Selector */}
-      <section className="container mx-auto px-4 -mt-20 relative z-20">
+      <section className="container mx-auto px-3 sm:px-4 my-6 md:my-0 md:-mt-20 relative z-20">
         <motion.div 
-          className="bg-white/95 backdrop-blur-xl border border-slate-100/80 p-5 md:p-6.5 rounded-3xl shadow-[0_15px_40px_rgba(15,23,42,0.04)] flex flex-wrap items-center justify-center gap-5 md:justify-around overflow-x-auto scrollbar-none"
+          className="bg-white/95 backdrop-blur-xl border border-slate-100/80 p-4 sm:p-6.5 rounded-3xl shadow-[0_15px_40px_rgba(15,23,42,0.04)] grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-3 sm:gap-5 items-center justify-items-center"
           initial={{ opacity: 0, y: 15 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.4, delay: 0.2 }}
@@ -196,18 +196,18 @@ export default function Home() {
               <button
                 key={cat.label}
                 onClick={() => handleCategoryClick(cat.label)}
-                className={`flex flex-col items-center gap-2 cursor-pointer transition-all duration-300 flex-shrink-0 group ${
+                className={`flex flex-col items-center gap-1.5 cursor-pointer transition-all duration-300 w-full group ${
                   isSelected ? '-translate-y-0.5' : 'hover:-translate-y-0.5'
                 }`}
               >
-                <div className={`w-13 h-13 rounded-2xl flex items-center justify-center transition-all duration-300 border ${
+                <div className={`w-11 h-11 sm:w-13 sm:h-13 rounded-2xl flex items-center justify-center transition-all duration-300 border ${
                   isSelected 
                     ? 'bg-teal-500 border-teal-500 text-white shadow-lg shadow-teal-500/20' 
                     : 'bg-slate-50/70 border-slate-100 text-slate-600 hover:bg-teal-50/50 hover:text-teal-600 hover:border-teal-500/10'
                 }`}>
-                  <span className="w-5.5 h-5.5 flex items-center justify-center transition-transform duration-300 group-hover:scale-105">{cat.icon}</span>
+                  <span className="w-5 h-5 sm:w-5.5 sm:h-5.5 flex items-center justify-center transition-transform duration-300 group-hover:scale-105">{cat.icon}</span>
                 </div>
-                <span className={`text-[11px] font-black tracking-wide uppercase transition-colors ${
+                <span className={`text-[10px] sm:text-[11px] font-black tracking-wide uppercase text-center transition-colors ${
                   isSelected ? 'text-teal-650' : 'text-slate-500 group-hover:text-teal-600'
                 }`}>
                   {cat.label}
