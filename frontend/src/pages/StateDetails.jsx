@@ -124,7 +124,7 @@ export default function StateDetails() {
         </div>
       </div>
 
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mt-6">
+      <div className="max-w-7xl mx-auto px-3 sm:px-6 lg:px-8 mt-4 sm:mt-6">
         <Breadcrumbs crumbs={crumbs} />
 
         {/* Info Cards */}

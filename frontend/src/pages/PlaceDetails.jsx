@@ -197,19 +197,19 @@ export default function PlaceDetails() {
       />
       
       {/* Sticky Top Nav */}
-      <div className="sticky top-16 z-50 bg-white/90 backdrop-blur-md border-b border-slate-200 py-2.5 sm:py-4 px-3 sm:px-6 lg:px-8 mb-6 shadow-sm">
-        <div className="max-w-7xl mx-auto flex flex-col md:flex-row md:items-center justify-between gap-2 md:gap-4">
-          <Breadcrumbs crumbs={crumbs} />
-          <div className="flex flex-wrap items-center gap-2">
-            <button className="flex items-center gap-1.5 px-3 py-1.5 sm:px-4 sm:py-2 bg-slate-100 hover:bg-slate-200 text-slate-700 rounded-lg font-bold text-xs sm:text-sm transition-colors cursor-pointer" aria-label="Share">
+      <div className="sticky top-16 sm:top-20 z-50 bg-white/95 dark:bg-slate-900/95 backdrop-blur-md border-b border-slate-200/80 dark:border-slate-800 py-2 sm:py-3 px-3 sm:px-6 lg:px-8 mb-4 sm:mb-6 shadow-sm">
+        <div className="max-w-7xl mx-auto flex flex-col sm:flex-row sm:items-center justify-between gap-2.5 sm:gap-4">
+          <Breadcrumbs crumbs={crumbs} noMargin={true} />
+          <div className="flex items-center gap-2 shrink-0">
+            <button className="flex items-center gap-1.5 px-3 py-1.5 sm:px-4 sm:py-2 bg-slate-100 dark:bg-slate-800 hover:bg-slate-200 dark:hover:bg-slate-700 text-slate-700 dark:text-slate-200 rounded-lg font-bold text-xs sm:text-sm transition-colors cursor-pointer" aria-label="Share">
               <Share2 size={15} /> Share
             </button>
-            <button onClick={() => window.print()} className="flex items-center gap-1.5 px-3 py-1.5 sm:px-4 sm:py-2 bg-slate-100 hover:bg-slate-200 text-slate-700 rounded-lg font-bold text-sm transition-colors cursor-pointer" aria-label="Print">
+            <button onClick={() => window.print()} className="flex items-center gap-1.5 px-3 py-1.5 sm:px-4 sm:py-2 bg-slate-100 dark:bg-slate-800 hover:bg-slate-200 dark:hover:bg-slate-700 text-slate-700 dark:text-slate-200 rounded-lg font-bold text-xs sm:text-sm transition-colors cursor-pointer" aria-label="Print">
               <Printer size={15} /> Print
             </button>
             <button 
               onClick={() => toggleFavorite(place)}
-              className={`flex items-center gap-1.5 px-3.5 py-1.5 sm:px-4 sm:py-2 rounded-lg font-bold text-xs sm:text-sm transition-colors shadow-sm cursor-pointer ${isFavorite(place.id) ? 'bg-rose-100 text-rose-600 hover:bg-rose-200' : 'bg-teal-600 hover:bg-teal-700 text-white'}`}
+              className={`flex items-center gap-1.5 px-3.5 py-1.5 sm:px-4 sm:py-2 rounded-lg font-bold text-xs sm:text-sm transition-colors shadow-sm cursor-pointer ${isFavorite(place.id) ? 'bg-rose-100 text-rose-600 dark:bg-rose-950/60 dark:text-rose-400' : 'bg-teal-600 hover:bg-teal-700 text-white'}`}
               aria-label="Save"
             >
               <Heart size={15} className={isFavorite(place.id) ? "fill-current" : ""} /> 
