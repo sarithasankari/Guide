@@ -9,7 +9,7 @@ function PlaceCard({ place, stateData }) {
     <div className="bg-white dark:bg-slate-800 rounded-2xl overflow-hidden shadow-sm hover:shadow-xl transition-all duration-300 border border-slate-100 dark:border-slate-700 flex flex-col group h-full">
       <div className="relative h-56 overflow-hidden bg-slate-200 dark:bg-slate-700">
         <img 
-          src={imgError ? `https://picsum.photos/seed/${place.slug}/800/600` : place.image} 
+          src={imgError ? "https://images.unsplash.com/photo-1506461883276-594a12b11ce3?auto=format&fit=crop&w=800&q=80" : place.image} 
           alt={place.name} 
           loading="lazy"
           onError={() => setImgError(true)}

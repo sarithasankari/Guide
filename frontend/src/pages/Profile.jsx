@@ -15,6 +15,7 @@ import BookingCard from '../features/guide/components/BookingCard';
 import SimilarGuides from '../features/guide/components/SimilarGuides';
 import GuideSkeleton from '../features/guide/components/GuideSkeleton';
 import EmptyGuide from '../features/guide/components/EmptyGuide';
+import Breadcrumbs from '../components/Breadcrumbs';
 import SEO from '../components/SEO';
 
 export default function Profile() {
@@ -66,13 +67,7 @@ export default function Profile() {
 
       <div className="container mx-auto px-4 max-w-7xl pt-4">
         {/* Breadcrumbs navigation trace */}
-        <div className="flex items-center gap-1.5 text-[10px] font-black text-slate-400 uppercase tracking-widest mb-6 select-none text-left">
-          <span>Home</span>
-          <span>/</span>
-          <span>Guides</span>
-          <span>/</span>
-          <span className="text-teal-650">{guide.name}</span>
-        </div>
+        <Breadcrumbs crumbs={[{ label: 'Guides', path: '/search' }, { label: guide.name, path: '#' }]} />
 
         {/* Workspace responsive ordering grid */}
         <div className="grid grid-cols-1 lg:grid-cols-3 gap-8 items-start">

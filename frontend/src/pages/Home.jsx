@@ -70,7 +70,7 @@ export default function Home() {
           transition={{ duration: 6, ease: "easeOut" }}
           className="absolute inset-0 z-[-1] bg-cover bg-center"
           style={{
-            backgroundImage: 'linear-gradient(to bottom, rgba(15,23,42,0.45) 0%, rgba(15,23,42,0.7) 60%, rgba(248,250,252,1) 100%), url("/hero.png")',
+            backgroundImage: 'linear-gradient(to bottom, rgba(15,23,42,0.55) 0%, rgba(15,23,42,0.75) 65%, rgba(15,23,42,0.95) 100%), url("/hero.png")',
           }}
         />
         
@@ -183,7 +183,7 @@ export default function Home() {
       </section>
 
       {/* Categories Selector */}
-      <section className="container mx-auto px-3 sm:px-4 my-6 md:my-0 md:-mt-20 relative z-20">
+      <section className="container mx-auto px-3 sm:px-4 pt-6 pb-2 md:py-0 md:-mt-20 relative z-20">
         <motion.div 
           className="bg-white/95 backdrop-blur-xl border border-slate-100/80 p-4 sm:p-6.5 rounded-3xl shadow-[0_15px_40px_rgba(15,23,42,0.04)] grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-3 sm:gap-5 items-center justify-items-center"
           initial={{ opacity: 0, y: 15 }}

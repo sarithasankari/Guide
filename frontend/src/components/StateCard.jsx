@@ -10,7 +10,7 @@ const StateImage = ({ src, alt, slug }) => {
   return (
     <img 
       className="w-full h-full object-cover transition-transform duration-700 hover:scale-105"
-      src={error ? `https://picsum.photos/seed/${slug}/800/600` : src} 
+      src={error ? "https://images.unsplash.com/photo-1506461883276-594a12b11ce3?auto=format&fit=crop&w=800&q=80" : src} 
       alt={alt} 
       onError={() => setError(true)}
     />

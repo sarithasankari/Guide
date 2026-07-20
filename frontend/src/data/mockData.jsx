@@ -163,10 +163,10 @@ export const CATEGORIES = [
 ];
 
 export const DESTINATIONS = [
-  { city: 'Chennai, Tamil Nadu', exp: '142+ Experiences', img: 'https://upload.wikimedia.org/wikipedia/commons/3/32/Chennai_Central.jpg' },
-  { city: 'Madurai, Tamil Nadu', exp: '86+ Experiences', img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Meenakshi_Amman_West_Tower.jpg/960px-Meenakshi_Amman_West_Tower.jpg' },
-  { city: 'Ooty, Tamil Nadu', exp: '110+ Experiences', img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Ooty_lake.jpg/960px-Ooty_lake.jpg' },
-  { city: 'Mahabalipuram, Tamil Nadu', exp: '95+ Experiences', img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Shore_Temple_-Mamallapuram_-Tamil_Nadu_-N-TN-C55.jpg/960px-Shore_Temple_-Mamallapuram_-Tamil_Nadu_-N-TN-C55.jpg' },
+  { city: 'Chennai, Tamil Nadu', exp: '142+ Experiences', img: 'https://images.unsplash.com/photo-1524492412937-b28074a5d7da?auto=format&fit=crop&w=1000&q=80' },
+  { city: 'Madurai, Tamil Nadu', exp: '86+ Experiences', img: 'https://images.unsplash.com/photo-1514222709107-a180c68d72b4?auto=format&fit=crop&w=1000&q=80' },
+  { city: 'Ooty, Tamil Nadu', exp: '110+ Experiences', img: 'https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?auto=format&fit=crop&w=1000&q=80' },
+  { city: 'Mahabalipuram, Tamil Nadu', exp: '95+ Experiences', img: 'https://images.unsplash.com/photo-1600100397608-f010e423b971?auto=format&fit=crop&w=1000&q=80' },
 ];
 
 export const MOCK_BOOKINGS = [

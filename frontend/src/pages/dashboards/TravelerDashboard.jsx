@@ -40,9 +40,9 @@ export default function TravelerDashboard() {
   };
 
   const adventures = [
-    { id: 1, type: 'upcoming', title: 'Coastal Temple Secret Walk', location: 'Mahabalipuram, Tamil Nadu', price: '$140', travelers: '2 Travelers', daysLeft: 'IN 3 DAYS', img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Shore_Temple_-Mamallapuram_-Tamil_Nadu_-N-TN-C55.jpg/960px-Shore_Temple_-Mamallapuram_-Tamil_Nadu_-N-TN-C55.jpg', guide: 'Anbumani Selvan', guideImg: 'https://randomuser.me/api/portraits/men/22.jpg', rating: '5.0' },
-    { id: 2, type: 'upcoming', title: 'Hidden Temples & Step Wells', location: 'Kumbakonam, Tamil Nadu', price: '$85', travelers: '1 Traveler', daysLeft: 'IN 12 DAYS', img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Meenakshi_Amman_West_Tower.jpg/960px-Meenakshi_Amman_West_Tower.jpg', guide: 'Dr. Ramesh Kumar', guideImg: 'https://randomuser.me/api/portraits/men/70.jpg', rating: '4.9' },
-    { id: 3, type: 'wishlist', title: 'Chola Art Masterpieces Tour', location: 'Thanjavur, Tamil Nadu', price: '$120', travelers: 'Flexible', daysLeft: 'WISHLIST', img: 'https://upload.wikimedia.org/wikipedia/commons/3/32/Chennai_Central.jpg', guide: 'Lakshmi Rajan', guideImg: 'https://randomuser.me/api/portraits/women/17.jpg', rating: '4.8' }
+    { id: 1, type: 'upcoming', title: 'Coastal Temple Secret Walk', location: 'Mahabalipuram, Tamil Nadu', price: '$140', travelers: '2 Travelers', daysLeft: 'IN 3 DAYS', img: 'https://images.unsplash.com/photo-1582510003544-4d00b7f74220?auto=format&fit=crop&w=600&q=80', guide: 'Anbumani Selvan', guideImg: 'https://randomuser.me/api/portraits/men/22.jpg', rating: '5.0' },
+    { id: 2, type: 'upcoming', title: 'Hidden Temples & Step Wells', location: 'Kumbakonam, Tamil Nadu', price: '$85', travelers: '1 Traveler', daysLeft: 'IN 12 DAYS', img: 'https://images.unsplash.com/photo-1600100397608-f010e423b971?auto=format&fit=crop&w=600&q=80', guide: 'Dr. Ramesh Kumar', guideImg: 'https://randomuser.me/api/portraits/men/70.jpg', rating: '4.9' },
+    { id: 3, type: 'wishlist', title: 'Chola Art Masterpieces Tour', location: 'Thanjavur, Tamil Nadu', price: '$120', travelers: 'Flexible', daysLeft: 'WISHLIST', img: 'https://images.unsplash.com/photo-1609949279531-cf48d64bed89?auto=format&fit=crop&w=600&q=80', guide: 'Lakshmi Rajan', guideImg: 'https://randomuser.me/api/portraits/women/17.jpg', rating: '4.8' }
   ];
 
   const filteredAdventures = adventures.filter(adv => {
