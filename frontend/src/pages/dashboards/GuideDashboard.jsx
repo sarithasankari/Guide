@@ -92,7 +92,7 @@ export default function GuideDashboard() {
 
   return (
     <motion.div 
-      style={{ padding: '2.5rem 3rem', maxWidth: '1440px', margin: '0 auto', minHeight: '100vh', position: 'relative' }}
+      className="p-4 sm:p-6 lg:p-10 max-w-7xl mx-auto min-h-screen relative"
       variants={containerVariants}
       initial="hidden"
       animate="visible"
@@ -255,7 +255,7 @@ export default function GuideDashboard() {
       </motion.div>
 
       {/* Quick Stats Grid */}
-      <motion.div variants={itemVariants} className="grid grid-cols-4 gap-6" style={{ marginBottom: '3rem' }}>
+      <motion.div variants={itemVariants} className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 sm:gap-6 mb-8 sm:mb-12">
         {[
           { icon: <TrendingUp size={22} />, title: 'Total Earnings', value: '$28,450', color: 'var(--color-primary)', bg: '#EFF6FF', trend: '+12.5%' },
           { icon: <Check size={22} />, title: 'Completed Tours', value: '142', color: '#059669', bg: '#F0FDF4', trend: '+4 this week' },
@@ -302,10 +302,10 @@ export default function GuideDashboard() {
       </motion.div>
 
       {/* Main Grid section */}
-      <div className="grid" style={{ gridTemplateColumns: '2fr 1.2fr', gap: '2.5rem', marginBottom: '3rem' }}>
+      <div className="grid grid-cols-1 lg:grid-cols-12 gap-6 lg:gap-8 mb-8 sm:mb-12">
         
         {/* Analytics Section with State Switcher Tabs */}
-        <motion.div variants={itemVariants} className="card glass flex-col" style={{ padding: '0' }}>
+        <motion.div variants={itemVariants} className="lg:col-span-7 card glass flex-col" style={{ padding: '0' }}>
           <div className="flex justify-between items-center" style={{ padding: '2rem 2rem 1rem 2rem' }}>
             <div>
               <h2 className="h3" style={{ color: 'var(--color-secondary)' }}>Performance Insights</h2>

@@ -52,7 +52,7 @@ export default function TravelerDashboard() {
 
   return (
     <motion.div 
-      style={{ padding: '2.5rem 3rem', maxWidth: '1440px', margin: '0 auto', minHeight: '100vh' }}
+      className="p-4 sm:p-6 lg:p-10 max-w-7xl mx-auto min-h-screen"
       variants={containerVariants}
       initial="hidden"
       animate="visible"
@@ -109,7 +109,7 @@ export default function TravelerDashboard() {
       </motion.div>
 
       {/* Stats Cards */}
-      <motion.div variants={itemVariants} className="grid grid-cols-3 gap-6" style={{ marginBottom: '3rem' }}>
+      <motion.div variants={itemVariants} className="grid grid-cols-1 sm:grid-cols-3 gap-4 sm:gap-6 mb-8 sm:mb-12">
         {[
           { icon: <Ticket size={22} />, value: '12', label: 'Active Bookings', trend: '+2 this month', bg: '#EFF6FF', color: 'var(--color-primary)' },
           { icon: <Heart size={22} />, value: favorites.length.toString(), label: 'Saved Guides', trend: 'Starred local professionals', bg: '#FFF7ED', color: '#EA580C' },
@@ -178,10 +178,10 @@ export default function TravelerDashboard() {
                   animate={{ opacity: 1, y: 0 }}
                   exit={{ opacity: 0, scale: 0.95 }}
                   whileHover={{ scale: 1.01 }}
-                  className="card"
-                  style={{ padding: 0, overflow: 'hidden', display: 'flex', height: '190px', border: '1px solid var(--color-border)', boxShadow: 'var(--shadow-sm)', transition: 'all 0.2s' }}
+                  className="card mb-4"
+                  style={{ padding: 0, overflow: 'hidden', display: 'flex', flexDirection: 'column', border: '1px solid var(--color-border)', boxShadow: 'var(--shadow-sm)', transition: 'all 0.2s' }}
                 >
-                  <div style={{ width: '240px', position: 'relative' }}>
+                  <div className="w-full md:w-60 h-44 md:h-auto relative shrink-0">
                     <img src={adv.img} alt={adv.title} style={{ width: '100%', height: '100%', objectFit: 'cover' }} />
                     <div style={{ position: 'absolute', top: '1rem', left: '1rem', background: 'rgba(255, 255, 255, 0.9)', backdropFilter: 'blur(4px)', padding: '0.35rem 0.8rem', borderRadius: '99px', fontSize: '0.7rem', fontWeight: 800, color: 'var(--color-secondary)' }}>{adv.daysLeft}</div>
                   </div>

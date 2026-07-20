@@ -93,7 +93,7 @@ export default function AdminDashboard() {
 
   return (
     <motion.div 
-      style={{ padding: '2.5rem 3rem', maxWidth: '1440px', margin: '0 auto', minHeight: '100vh' }}
+      className="p-4 sm:p-6 lg:p-10 max-w-7xl mx-auto min-h-screen"
       variants={containerVariants}
       initial="hidden"
       animate="visible"
@@ -170,8 +170,8 @@ export default function AdminDashboard() {
         </div>
       </motion.div>
 
-      {/* Top Stats */}
-      <motion.div variants={itemVariants} className="grid grid-cols-4 gap-6" style={{ marginBottom: '3rem' }}>
+      {/* Stats Cards */}
+      <motion.div variants={itemVariants} className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 sm:gap-6 mb-8 sm:mb-12">
         {[
           { icon: <CalendarIcon size={20} />, title: 'TOTAL BOOKINGS', value: bookingsCount.toLocaleString(), trend: '↗ +12.5% vs last month', color: 'var(--color-primary)', bg: '#EFF6FF', trendColor: '#10B981' },
           { icon: <Compass size={20} />, title: 'ACTIVE GUIDES', value: guidesCount.toLocaleString(), trend: '↗ +5.2% vs last month', color: 'var(--color-text-main)', bg: '#F1F5F9', trendColor: '#10B981' },
@@ -197,10 +197,10 @@ export default function AdminDashboard() {
       </motion.div>
 
       {/* Main Grid section */}
-      <div className="grid" style={{ gridTemplateColumns: '2.5fr 1fr', gap: '2.5rem', marginBottom: '3rem' }}>
+      <div className="grid grid-cols-1 lg:grid-cols-12 gap-6 lg:gap-8 mb-8 sm:mb-12">
         
         {/* Growth Analytics with Custom Metric Select */}
-        <motion.div variants={itemVariants} className="card glass flex-col" style={{ padding: '0' }}>
+        <motion.div variants={itemVariants} className="lg:col-span-8 card glass flex-col" style={{ padding: '0' }}>
           <div className="flex justify-between items-center" style={{ padding: '2rem 2rem 1rem 2rem' }}>
             <div>
               <h2 className="h3" style={{ color: 'var(--color-secondary)' }}>Platform Performance</h2>
@@ -315,8 +315,8 @@ export default function AdminDashboard() {
           </div>
         </div>
 
-        <div style={{ overflowX: 'auto' }}>
-          <table style={{ width: '100%', borderCollapse: 'collapse', textAlign: 'left', fontSize: '0.9rem' }}>
+        <div className="responsive-table-wrapper">
+          <table style={{ width: '100%', minWidth: '640px', borderCollapse: 'collapse', textAlign: 'left', fontSize: '0.9rem' }}>
             <thead style={{ background: '#F8FAFC', color: 'var(--color-text-muted)', fontSize: '0.75rem', fontWeight: 800, letterSpacing: '0.05em' }}>
               <tr>
                 <th style={{ padding: '1.25rem 2rem' }}>GUIDE NAME</th>
@@ -411,51 +411,9 @@ export default function AdminDashboard() {
           </div>
         </div>
       </motion.div>
-      
-      {/* Footer */}
-      <div style={{ marginTop: '4rem', borderTop: '1px solid var(--color-border)', paddingTop: '2.5rem', display: 'flex', justifyContent: 'space-between', fontSize: '0.85rem', color: 'var(--color-text-muted)' }}>
-        <div>
-          <div style={{ fontWeight: 800, color: 'var(--color-secondary)', marginBottom: '0.5rem', fontSize: '1.1rem', letterSpacing: '-0.02em' }}>GuideConnect</div>
-          <p style={{ lineHeight: '1.6' }}>Connecting world-class expertise<br/>with adventurous travelers since 2021.</p>
-        </div>
-        <div className="flex gap-16">
-          <div>
-            <div style={{ fontWeight: 800, color: 'var(--color-secondary)', marginBottom: '1rem', fontSize: '0.8rem', letterSpacing: '0.05em' }}>INTERNAL ACCESS</div>
-            <div className="flex-col gap-2" style={{ fontWeight: 500 }}>
-              <div style={{ cursor: 'pointer' }}>Admin Portal</div>
-              <div style={{ cursor: 'pointer' }}>Support Tools</div>
-              <div style={{ cursor: 'pointer' }}>API Docs</div>
-            </div>
-          </div>
-          <div>
-            <div style={{ fontWeight: 800, color: 'var(--color-secondary)', marginBottom: '1rem', fontSize: '0.8rem', letterSpacing: '0.05em' }}>LEGAL</div>
-            <div className="flex-col gap-2" style={{ fontWeight: 500 }}>
-              <div style={{ cursor: 'pointer' }}>Privacy Policy</div>
-              <div style={{ cursor: 'pointer' }}>Terms of Service</div>
-              <div style={{ cursor: 'pointer' }}>Data Processing</div>
-            </div>
-          </div>
-          <div>
-            <div style={{ fontWeight: 800, color: 'var(--color-secondary)', marginBottom: '1rem', fontSize: '0.8rem', letterSpacing: '0.05em' }}>SYSTEM STATUS</div>
-            <div className="flex items-center gap-2" style={{ fontWeight: 700, color: '#10B981', marginBottom: '0.5rem' }}>
-              <div style={{ width: '8px', height: '8px', background: '#10B981', borderRadius: '50%' }}></div> All Systems Operational
-            </div>
-            <div style={{ fontSize: '0.75rem', lineHeight: '1.5' }}>© 2026 GuideConnect Marketplace. <br/>All rights reserved.</div>
-          </div>
-        </div>
-      </div>
 
     </motion.div>
   );
 }
 
-// RefreshCwIcon custom animation fallback
-const RefreshCwIcon = ({ size }) => (
-  <svg xmlns="http://www.w3.org/2000/svg" width={size} height={size} viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round">
-    <path d="M21 12a9 9 0 0 0-9-9 9.75 9.75 0 0 0-6.74 2.74L3 8"/>
-    <path d="M3 3v5h5"/>
-    <path d="M3 12a9 9 0 0 0 9 9 9.75 9.75 0 0 0 6.74-2.74L21 16"/>
-    <path d="M16 16h5v5"/>
-  </svg>
-);
 

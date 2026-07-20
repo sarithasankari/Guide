@@ -20,7 +20,7 @@ function ProfileTab() {
           <div style={{ fontSize: '0.75rem', color: 'var(--color-text-muted)' }}>JPG, GIF or PNG. Max size of 5MB.</div>
         </div>
       </div>
-      <div className="grid grid-cols-2 gap-6" style={{ marginBottom: '1.5rem' }}>
+      <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 sm:gap-6" style={{ marginBottom: '1.5rem' }}>
         <div className="form-group">
           <label className="form-label">First Name</label>
           <input type="text" className="form-input" defaultValue="Alex" />
@@ -198,15 +198,15 @@ export default function Settings() {
   const [activeTab, setActiveTab] = useState('profile');
 
   return (
-    <div style={{ padding: '3rem' }}>
-      <div style={{ marginBottom: '2rem' }}>
-        <h1 style={{ fontSize: '2rem', fontWeight: 800, color: 'var(--color-text-main)', marginBottom: '0.5rem' }}>Account Settings</h1>
-        <p className="text-muted" style={{ fontSize: '1rem' }}>Manage your profile, security preferences, and billing information.</p>
+    <div className="p-4 sm:p-6 lg:p-10 max-w-7xl mx-auto min-h-screen">
+      <div className="mb-6 sm:mb-8">
+        <h1 className="text-2xl sm:text-3xl font-extrabold text-slate-900 tracking-tight mb-1">Account Settings</h1>
+        <p className="text-slate-500 text-sm">Manage your profile, security preferences, and billing information.</p>
       </div>
 
-      <div className="grid" style={{ gridTemplateColumns: '260px 1fr', gap: '3rem' }}>
+      <div className="grid grid-cols-1 md:grid-cols-12 gap-6 md:gap-8">
         {/* Sidebar Nav */}
-        <div className="flex-col gap-1">
+        <div className="md:col-span-4 lg:col-span-3 flex md:flex-col overflow-x-auto gap-2 pb-2 md:pb-0 shrink-0">
           {tabs.map(tab => {
             const Icon = tab.icon;
             const isActive = activeTab === tab.id;
@@ -232,7 +232,7 @@ export default function Settings() {
         </div>
 
         {/* Dynamic Content Panel */}
-        <div className="card" style={{ padding: '2.5rem' }}>
+        <div className="md:col-span-8 lg:col-span-9 card p-4 sm:p-8 border border-slate-200">
           {tabContent[activeTab]}
         </div>
       </div>

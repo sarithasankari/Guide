@@ -6,65 +6,67 @@ export default function MyBookings() {
   const { bookings } = useApp();
 
   return (
-    <div style={{ padding: '3rem' }}>
-      <div className="flex justify-between items-center" style={{ marginBottom: '2rem' }}>
+    <div className="p-4 sm:p-6 lg:p-10 max-w-7xl mx-auto min-h-screen">
+      <div className="flex flex-col sm:flex-row justify-between items-start sm:items-center gap-4 mb-6 sm:mb-8">
         <div>
-          <h1 style={{ fontSize: '2rem', fontWeight: 800, color: 'var(--color-text-main)', marginBottom: '0.5rem' }}>My Bookings</h1>
-          <p className="text-muted" style={{ fontSize: '1rem' }}>Manage your upcoming and past adventures.</p>
+          <h1 className="text-2xl sm:text-3xl font-extrabold text-slate-900 tracking-tight mb-1">My Bookings</h1>
+          <p className="text-slate-500 text-sm">Manage your upcoming and past adventures.</p>
         </div>
-        <div className="flex gap-2">
-          <button className="btn btn-primary" style={{ padding: '0.5rem 1.5rem' }}>Upcoming</button>
-          <button className="btn btn-outline" style={{ padding: '0.5rem 1.5rem', background: 'white', color: 'var(--color-text-main)' }}>Past Trips</button>
-          <button className="btn btn-outline" style={{ padding: '0.5rem 1.5rem', background: 'white', color: 'var(--color-text-main)' }}>Cancelled</button>
+        <div className="flex flex-wrap gap-2">
+          <button className="btn btn-primary px-4 py-2 text-xs sm:text-sm">Upcoming</button>
+          <button className="btn btn-outline px-4 py-2 text-xs sm:text-sm bg-white text-slate-700">Past Trips</button>
+          <button className="btn btn-outline px-4 py-2 text-xs sm:text-sm bg-white text-slate-700">Cancelled</button>
         </div>
       </div>
 
-      <div className="flex-col gap-6">
+      <div className="space-y-6">
         {bookings.length === 0 ? (
-          <div style={{ padding: '4rem', textAlign: 'center', background: 'white', borderRadius: 'var(--radius-lg)' }}>
-            <h2 style={{ fontSize: '1.25rem', fontWeight: 600, marginBottom: '0.5rem' }}>No bookings yet</h2>
-            <p className="text-muted" style={{ marginBottom: '1.5rem' }}>Time to start planning your next adventure!</p>
+          <div className="p-8 sm:p-16 text-center bg-white rounded-2xl border border-slate-200 shadow-sm">
+            <h2 className="text-lg font-bold text-slate-800 mb-2">No bookings yet</h2>
+            <p className="text-slate-500 text-sm mb-6">Time to start planning your next adventure!</p>
             <Link to="/search" className="btn btn-primary">Find a Guide</Link>
           </div>
         ) : (
           bookings.map(booking => (
-            <div key={booking.id} className="card" style={{ padding: '2rem', display: 'flex', gap: '2rem', marginBottom: '1.5rem' }}>
-              <div style={{ width: '200px', height: '140px', borderRadius: 'var(--radius-md)', overflow: 'hidden' }}>
-                <img src={booking.image} alt={booking.tourName} style={{ width: '100%', height: '100%', objectFit: 'cover' }} />
+            <div key={booking.id} className="card p-4 sm:p-6 flex flex-col md:flex-row gap-4 md:gap-6 border border-slate-200">
+              <div className="w-full md:w-52 h-48 md:h-36 rounded-xl overflow-hidden shrink-0">
+                <img src={booking.image} alt={booking.tourName} className="w-full h-full object-cover" />
               </div>
               
-              <div style={{ flex: 1, display: 'flex', flexDirection: 'column', justifyContent: 'space-between' }}>
+              <div className="flex-1 flex flex-col justify-between gap-4">
                 <div>
-                  <div className="flex justify-between items-start" style={{ marginBottom: '0.5rem' }}>
-                    <h2 style={{ fontSize: '1.25rem', fontWeight: 700 }}>{booking.tourName}</h2>
-                    <span className={booking.status === 'confirmed' ? "badge badge-success" : "badge"} style={{ background: booking.status === 'pending' ? '#FEF08A' : undefined, color: booking.status === 'pending' ? '#854D0E' : undefined, fontSize: '0.75rem', padding: '0.3rem 0.8rem', textTransform: 'uppercase' }}>
+                  <div className="flex flex-wrap justify-between items-start gap-2 mb-2">
+                    <h2 className="text-lg font-bold text-slate-900">{booking.tourName}</h2>
+                    <span className={`badge uppercase text-[10px] ${
+                      booking.status === 'confirmed' ? 'badge-success' : 'bg-amber-100 text-amber-800'
+                    }`}>
                       {booking.status}
                     </span>
                   </div>
-                  <div className="flex items-center gap-4 text-muted" style={{ fontSize: '0.85rem', marginBottom: '1rem' }}>
-                    <span className="flex items-center gap-1"><Calendar size={14}/> {booking.date}</span>
-                    <span className="flex items-center gap-1"><Clock size={14}/> {booking.time} ({booking.duration})</span>
-                    <span className="flex items-center gap-1"><MapPin size={14}/> {booking.location}</span>
+                  <div className="flex flex-wrap items-center gap-3 sm:gap-5 text-slate-500 text-xs sm:text-sm">
+                    <span className="flex items-center gap-1.5"><Calendar size={14} className="text-teal-600"/> {booking.date}</span>
+                    <span className="flex items-center gap-1.5"><Clock size={14} className="text-teal-600"/> {booking.time} ({booking.duration})</span>
+                    <span className="flex items-center gap-1.5"><MapPin size={14} className="text-teal-600"/> {booking.location}</span>
                   </div>
                 </div>
 
-                <div className="flex justify-between items-end">
+                <div className="flex flex-col sm:flex-row justify-between items-start sm:items-center gap-4 pt-3 border-t border-slate-100">
                   <div className="flex items-center gap-3">
-                    <img src={booking.guide.image} alt={booking.guide.name} style={{ width: '32px', height: '32px', borderRadius: '50%', objectFit: 'cover' }} />
+                    <img src={booking.guide.image} alt={booking.guide.name} className="w-9 h-9 rounded-full object-cover ring-2 ring-slate-100" />
                     <div>
-                      <div style={{ fontSize: '0.85rem', fontWeight: 600 }}>Guide: {booking.guide.name}</div>
-                      <Link to="/dashboard/messages" style={{ fontSize: '0.75rem', color: 'var(--color-primary)', fontWeight: 600, display: 'flex', alignItems: 'center', gap: '0.2rem', background: 'none', border: 'none', cursor: 'pointer', padding: 0, textDecoration: 'none' }}>
+                      <div className="text-xs sm:text-sm font-semibold text-slate-800">Guide: {booking.guide.name}</div>
+                      <Link to="/dashboard/messages" className="text-xs text-teal-600 font-bold flex items-center gap-1 hover:underline">
                         <MessageSquare size={12} /> Message
                       </Link>
                     </div>
                   </div>
-                  <div className="flex gap-3">
+                  <div className="flex items-center gap-2 w-full sm:w-auto">
                     {booking.status === 'pending' ? (
-                      <button className="btn btn-outline" style={{ padding: '0.5rem 1rem', fontSize: '0.85rem', color: '#EF4444', border: '1px solid #FCA5A5', background: '#FEF2F2' }}>Cancel Request</button>
+                      <button className="flex-1 sm:flex-none btn btn-outline px-3 py-2 text-xs text-rose-600 border-rose-200 bg-rose-50">Cancel Request</button>
                     ) : (
-                      <button className="btn btn-outline" style={{ padding: '0.5rem 1rem', fontSize: '0.85rem', color: 'var(--color-text-main)', border: '1px solid var(--color-border)' }}>Modify</button>
+                      <button className="flex-1 sm:flex-none btn btn-outline px-3 py-2 text-xs text-slate-700 border-slate-200">Modify</button>
                     )}
-                    <button className="btn btn-primary" style={{ padding: '0.5rem 1rem', fontSize: '0.85rem' }}>
+                    <button className="flex-1 sm:flex-none btn btn-primary px-3.5 py-2 text-xs flex items-center justify-center gap-1">
                       {booking.status === 'pending' ? 'View Details' : 'View Itinerary'} <ChevronRight size={14} />
                     </button>
                   </div>

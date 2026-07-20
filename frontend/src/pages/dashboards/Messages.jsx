@@ -1,5 +1,5 @@
 import { useState, useRef, useEffect } from 'react';
-import { Search, Phone, Video, Info, Paperclip, Smile, Send, Lock, Clock } from 'lucide-react';
+import { Search, Phone, Video, Info, Paperclip, Smile, Send, Lock, Clock, ArrowLeft } from 'lucide-react';
 import { useApp } from '../../context/AppContext';
 
 export default function Messages() {
@@ -8,6 +8,7 @@ export default function Messages() {
   const [newMessage, setNewMessage] = useState('');
   const [searchTerm, setSearchTerm] = useState('');
   const [filter, setFilter] = useState('All Chats');
+  const [showMobileChat, setShowMobileChat] = useState(false);
   const messagesEndRef = useRef(null);
 
   const activeConv = conversations.find(c => c.id === activeId);
@@ -20,7 +21,7 @@ export default function Messages() {
 
   const handleSelectConversation = (id) => {
     setActiveId(id);
-    // Ideally this would also clear unread count in context, but keeping it simple
+    setShowMobileChat(true);
   };
 
   const handleSend = (e) => {
@@ -37,52 +38,73 @@ export default function Messages() {
   });
 
   return (
-    <div style={{ display: 'flex', height: '100%', overflow: 'hidden' }}>
+    <div className="flex h-[calc(100vh-65px)] md:h-[calc(100vh)] overflow-hidden w-full bg-slate-50">
 
       {/* Chat List Pane */}
-      <div style={{ width: '340px', borderRight: '1px solid var(--color-border)', display: 'flex', flexDirection: 'column', background: 'white' }}>
-        <div style={{ padding: '1.5rem', borderBottom: '1px solid var(--color-border)' }}>
-          <div style={{ position: 'relative', marginBottom: '1rem' }}>
-            <Search size={16} style={{ position: 'absolute', top: '50%', left: '1rem', transform: 'translateY(-50%)', color: 'var(--color-text-muted)' }} />
-            <input type="text" className="form-input" placeholder="Search conversations..."
-              value={searchTerm} onChange={e => setSearchTerm(e.target.value)}
-              style={{ paddingLeft: '2.5rem', borderRadius: 'var(--radius-full)', background: '#F1F5F9', border: 'none' }} />
+      <div className={`${
+        showMobileChat ? 'hidden md:flex' : 'flex'
+      } w-full md:w-[340px] shrink-0 border-r border-slate-200 flex-col bg-white h-full`}>
+        <div className="p-4 border-b border-slate-200">
+          <div className="relative mb-3">
+            <Search size={16} className="absolute top-1/2 left-3.5 -translate-y-1/2 text-slate-400" />
+            <input 
+              type="text" 
+              className="w-full pl-9 pr-4 py-2 text-xs rounded-full bg-slate-100 border-none outline-none text-slate-800 focus:ring-2 focus:ring-teal-500/20" 
+              placeholder="Search conversations..."
+              value={searchTerm} 
+              onChange={e => setSearchTerm(e.target.value)}
+            />
           </div>
           <div className="flex gap-2">
             {['All Chats', 'Unread', 'Bookings'].map(f => (
-              <button key={f} onClick={() => setFilter(f)}
-                style={{ padding: '0.3rem 0.8rem', borderRadius: '99px', fontSize: '0.75rem', fontWeight: 600, cursor: 'pointer', border: 'none', background: filter === f ? 'var(--color-primary)' : '#F1F5F9', color: filter === f ? 'white' : 'var(--color-text-main)' }}>
+              <button 
+                key={f} 
+                onClick={() => setFilter(f)}
+                className={`px-3 py-1 rounded-full text-xs font-bold transition-colors ${
+                  filter === f ? 'bg-teal-600 text-white' : 'bg-slate-100 text-slate-600 hover:bg-slate-200'
+                }`}
+              >
                 {f}
               </button>
             ))}
           </div>
         </div>
 
-        <div style={{ flex: 1, overflowY: 'auto' }}>
+        <div className="flex-1 overflow-y-auto divide-y divide-slate-100">
           {filteredConvs.length === 0 ? (
-            <div style={{ padding: '3rem', textAlign: 'center', color: 'var(--color-text-muted)', fontSize: '0.9rem' }}>No conversations found</div>
+            <div className="p-8 text-center text-slate-400 text-sm">No conversations found</div>
           ) : filteredConvs.map(conv => (
-            <div key={conv.id} onClick={() => handleSelectConversation(conv.id)}
-              style={{
-                display: 'flex', gap: '1rem', padding: '1.25rem 1.5rem', cursor: 'pointer',
-                borderLeft: conv.id === activeId ? '4px solid var(--color-primary)' : '4px solid transparent',
-                background: conv.id === activeId ? '#EFF6FF' : 'transparent',
-                borderBottom: '1px solid var(--color-border)', transition: 'background 0.1s'
-              }}>
-              <div style={{ position: 'relative', flexShrink: 0 }}>
-                <img src={conv.contact.img} alt={conv.contact.name} style={{ width: '48px', height: '48px', borderRadius: '50%', objectFit: 'cover' }} />
-                {conv.contact.online && <div style={{ position: 'absolute', bottom: '1px', right: '1px', width: '12px', height: '12px', borderRadius: '50%', background: '#10B981', border: '2px solid white' }}></div>}
-                {conv.unread > 0 && <div style={{ position: 'absolute', top: '-5px', right: '-5px', width: '20px', height: '20px', borderRadius: '50%', background: '#EF4444', border: '2px solid white', color: 'white', fontSize: '0.65rem', fontWeight: 700, display: 'flex', alignItems: 'center', justifyContent: 'center' }}>{conv.unread}</div>}
+            <div 
+              key={conv.id} 
+              onClick={() => handleSelectConversation(conv.id)}
+              className={`flex gap-3 p-4 cursor-pointer transition-colors border-l-4 ${
+                conv.id === activeId ? 'border-l-teal-600 bg-teal-50/40' : 'border-l-transparent hover:bg-slate-50'
+              }`}
+            >
+              <div className="relative shrink-0">
+                <img src={conv.contact.img} alt={conv.contact.name} className="w-12 h-12 rounded-full object-cover shadow-sm" />
+                {conv.contact.online && <span className="absolute bottom-0 right-0 w-3 h-3 rounded-full bg-emerald-500 border-2 border-white"></span>}
+                {conv.unread > 0 && (
+                  <span className="absolute -top-1 -right-1 w-5 h-5 rounded-full bg-rose-500 border-2 border-white text-white text-[10px] font-bold flex items-center justify-center">
+                    {conv.unread}
+                  </span>
+                )}
               </div>
-              <div style={{ flex: 1, minWidth: 0 }}>
-                <div className="flex justify-between items-center" style={{ marginBottom: '0.25rem' }}>
-                  <span style={{ fontWeight: conv.unread > 0 ? 700 : 600, fontSize: '0.9rem', overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap' }}>{conv.contact.name}</span>
-                  <span style={{ fontSize: '0.7rem', color: conv.id === activeId ? 'var(--color-primary)' : 'var(--color-text-muted)', fontWeight: 500, flexShrink: 0, marginLeft: '0.5rem' }}>{conv.time}</span>
+              <div className="flex-1 min-w-0">
+                <div className="flex justify-between items-center mb-1">
+                  <span className={`text-sm truncate ${conv.unread > 0 ? 'font-extrabold text-slate-900' : 'font-semibold text-slate-800'}`}>
+                    {conv.contact.name}
+                  </span>
+                  <span className="text-[10px] text-slate-400 font-medium shrink-0 ml-2">{conv.time}</span>
                 </div>
-                <p style={{ fontSize: '0.82rem', color: conv.unread > 0 ? 'var(--color-primary)' : 'var(--color-text-muted)', fontWeight: conv.unread > 0 ? 600 : 400, overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap', marginBottom: '0.3rem' }}>
+                <p className={`text-xs truncate mb-1 ${conv.unread > 0 ? 'font-bold text-teal-700' : 'text-slate-500'}`}>
                   {conv.lastMessage}
                 </p>
-                {conv.badge && <span style={{ background: '#D1FAE5', color: '#065F46', fontSize: '0.6rem', fontWeight: 700, padding: '0.15rem 0.5rem', borderRadius: '99px' }}>{conv.badge}</span>}
+                {conv.badge && (
+                  <span className="inline-block px-2 py-0.5 rounded-full bg-emerald-100 text-emerald-800 text-[10px] font-bold">
+                    {conv.badge}
+                  </span>
+                )}
               </div>
             </div>
           ))}
@@ -90,109 +112,122 @@ export default function Messages() {
       </div>
 
       {/* Chat Window */}
-      {activeConv ? (
-        <div style={{ flex: 1, display: 'flex', flexDirection: 'column', backgroundImage: 'radial-gradient(#E2E8F0 1px, transparent 1px)', backgroundSize: '20px 20px', backgroundColor: '#F8FAFC' }}>
-
-          {/* Header */}
-          <div style={{ padding: '1rem 2rem', background: 'rgba(255, 255, 255,0.95)', backdropFilter: 'blur(10px)', borderBottom: '1px solid var(--color-border)', display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
-            <div className="flex items-center gap-3">
-              <div style={{ position: 'relative' }}>
-                <img src={activeConv.contact.img} alt="" style={{ width: '40px', height: '40px', borderRadius: '50%', objectFit: 'cover' }} />
-                {activeConv.contact.online && <div style={{ position: 'absolute', bottom: 0, right: 0, width: '12px', height: '12px', borderRadius: '50%', background: '#10B981', border: '2px solid white' }}></div>}
-              </div>
-              <div>
-                <div style={{ fontWeight: 700, fontSize: '1rem' }}>{activeConv.contact.name}</div>
-                <div style={{ fontSize: '0.75rem', color: activeConv.contact.online ? '#10B981' : 'var(--color-text-muted)', fontWeight: 500 }}>
-                  {activeConv.contact.online ? 'Online now' : 'Offline'}
+      <div className={`${
+        showMobileChat ? 'flex' : 'hidden md:flex'
+      } flex-1 flex-col h-full bg-slate-50 relative`}>
+        {activeConv ? (
+          <>
+            {/* Header */}
+            <div className="px-4 py-3 bg-white/95 backdrop-blur-md border-b border-slate-200 flex justify-between items-center shrink-0">
+              <div className="flex items-center gap-3">
+                <button
+                  onClick={() => setShowMobileChat(false)}
+                  className="md:hidden p-1.5 rounded-lg text-slate-600 hover:bg-slate-100"
+                  aria-label="Back to conversations list"
+                >
+                  <ArrowLeft size={20} />
+                </button>
+                <div className="relative">
+                  <img src={activeConv.contact.img} alt={activeConv.contact.name} className="w-10 h-10 rounded-full object-cover" />
+                  {activeConv.contact.online && <span className="absolute bottom-0 right-0 w-2.5 h-2.5 rounded-full bg-emerald-500 border-2 border-white"></span>}
                 </div>
-              </div>
-            </div>
-            <div className="flex gap-2">
-              <button className="btn btn-ghost" style={{ padding: '0.5rem', borderRadius: '50%', color: 'var(--color-text-muted)' }}><Phone size={20} /></button>
-              <button className="btn btn-ghost" style={{ padding: '0.5rem', borderRadius: '50%', color: 'var(--color-text-muted)' }}><Video size={20} /></button>
-              <button className="btn btn-ghost" style={{ padding: '0.5rem', borderRadius: '50%', color: 'var(--color-text-muted)' }}><Info size={20} /></button>
-            </div>
-          </div>
-
-          {/* Messages */}
-          <div style={{ flex: 1, padding: '1.5rem 2rem', overflowY: 'auto', display: 'flex', flexDirection: 'column', gap: '1rem' }}>
-            {activeConv.messages.map((msg, i) => (
-              <div key={i} style={{ alignSelf: msg.from === 'me' ? 'flex-end' : 'flex-start', maxWidth: '70%', display: 'flex', gap: '0.75rem', alignItems: 'flex-end', flexDirection: msg.from === 'me' ? 'row-reverse' : 'row' }}>
-                {msg.from !== 'me' && <img src={activeConv.contact.img} alt="" style={{ width: '28px', height: '28px', borderRadius: '50%', objectFit: 'cover', flexShrink: 0 }} />}
                 <div>
-                  {msg.image && (
-                    <div style={{ marginBottom: '0.5rem', borderRadius: '1.25rem', overflow: 'hidden', maxWidth: '300px' }}>
-                      <img src={msg.image} alt="shared" style={{ width: '100%', display: 'block', borderRadius: '1rem' }} />
-                    </div>
-                  )}
-                  {msg.text && (
-                    <div style={{
-                      padding: '0.8rem 1.2rem',
-                      borderRadius: msg.from === 'me' ? '1.5rem 1.5rem 0 1.5rem' : '1.5rem 1.5rem 1.5rem 0',
-                      background: msg.from === 'me' ? 'var(--color-primary)' : '#E0E7FF',
-                      color: msg.from === 'me' ? 'white' : 'var(--color-text-main)',
-                      boxShadow: 'var(--shadow-sm)', fontSize: '0.9rem', lineHeight: '1.5'
-                    }}>{msg.text}</div>
-                  )}
-                  <div style={{ fontSize: '0.65rem', color: 'var(--color-text-muted)', marginTop: '0.3rem', textAlign: msg.from === 'me' ? 'right' : 'left' }}>
-                    {msg.time} {msg.from === 'me' && '✓'}
+                  <div className="font-bold text-slate-900 text-sm">{activeConv.contact.name}</div>
+                  <div className={`text-xs font-semibold ${activeConv.contact.online ? 'text-emerald-600' : 'text-slate-400'}`}>
+                    {activeConv.contact.online ? 'Online now' : 'Offline'}
                   </div>
                 </div>
               </div>
-            ))}
-            {activeConv.typing && (
-              <div style={{ alignSelf: 'flex-start', display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
-                <img src={activeConv.contact.img} alt="" style={{ width: '28px', height: '28px', borderRadius: '50%', objectFit: 'cover' }} />
-                <div style={{ background: '#E2E8F0', padding: '0.7rem 1rem', borderRadius: '1.5rem', display: 'flex', gap: '4px', alignItems: 'center' }}>
-                  {[0, 0.2, 0.4].map((delay, i) => (
-                    <div key={i} style={{ width: '6px', height: '6px', borderRadius: '50%', background: '#94A3B8', animation: `bounce 1s ${delay}s infinite` }}></div>
-                  ))}
-                </div>
+              <div className="flex gap-1">
+                <button className="p-2 rounded-full text-slate-500 hover:bg-slate-100"><Phone size={18} /></button>
+                <button className="p-2 rounded-full text-slate-500 hover:bg-slate-100"><Video size={18} /></button>
+                <button className="p-2 rounded-full text-slate-500 hover:bg-slate-100"><Info size={18} /></button>
               </div>
-            )}
-            <div ref={messagesEndRef} />
-          </div>
+            </div>
 
-          {/* Input */}
-          <div style={{ padding: '1.25rem 2rem', background: 'white', borderTop: '1px solid var(--color-border)' }}>
-            <form onSubmit={handleSend}>
-              <div style={{ display: 'flex', gap: '0.75rem', alignItems: 'center', background: '#F8FAFC', border: '1px solid var(--color-border)', borderRadius: 'var(--radius-xl)', padding: '0.5rem 0.5rem 0.5rem 1rem' }}>
-                <button type="button" style={{ color: 'var(--color-text-muted)', background: 'none', border: 'none', cursor: 'pointer', display: 'flex' }}><Paperclip size={20} /></button>
-                <button type="button" style={{ color: 'var(--color-text-muted)', background: 'none', border: 'none', cursor: 'pointer', display: 'flex' }}><Smile size={20} /></button>
-                <input
-                  type="text"
-                  value={newMessage}
-                  onChange={e => setNewMessage(e.target.value)}
-                  placeholder={`Message ${activeConv.contact.name.split(' ')[0]}...`}
-                  style={{ flex: 1, border: 'none', background: 'transparent', outline: 'none', fontSize: '0.9rem', padding: '0.4rem' }}
-                />
-                <button type="submit" disabled={!newMessage.trim()} className="btn btn-primary"
-                  style={{ width: '40px', height: '40px', padding: 0, borderRadius: '50%', display: 'flex', alignItems: 'center', justifyContent: 'center', opacity: newMessage.trim() ? 1 : 0.5 }}>
-                  <Send size={18} />
-                </button>
+            {/* Messages Body */}
+            <div className="flex-1 p-4 md:p-6 overflow-y-auto flex flex-col gap-4">
+              {activeConv.messages.map((msg, i) => (
+                <div 
+                  key={i} 
+                  className={`flex gap-2.5 max-w-[85%] sm:max-w-[70%] ${
+                    msg.from === 'me' ? 'self-end flex-row-reverse' : 'self-start'
+                  }`}
+                >
+                  {msg.from !== 'me' && (
+                    <img src={activeConv.contact.img} alt="" className="w-7 h-7 rounded-full object-cover shrink-0 self-end" />
+                  )}
+                  <div>
+                    {msg.image && (
+                      <div className="mb-2 rounded-2xl overflow-hidden max-w-xs shadow-sm">
+                        <img src={msg.image} alt="shared" className="w-full h-auto" />
+                      </div>
+                    )}
+                    {msg.text && (
+                      <div className={`p-3.5 rounded-2xl text-xs sm:text-sm leading-relaxed shadow-xs ${
+                        msg.from === 'me' 
+                          ? 'bg-teal-600 text-white rounded-br-none' 
+                          : 'bg-white text-slate-800 border border-slate-200 rounded-bl-none'
+                      }`}>
+                        {msg.text}
+                      </div>
+                    )}
+                    <div className={`text-[10px] text-slate-400 mt-1 font-medium ${msg.from === 'me' ? 'text-right' : 'text-left'}`}>
+                      {msg.time} {msg.from === 'me' && '✓'}
+                    </div>
+                  </div>
+                </div>
+              ))}
+              {activeConv.typing && (
+                <div className="self-start flex items-center gap-2">
+                  <img src={activeConv.contact.img} alt="" className="w-7 h-7 rounded-full object-cover" />
+                  <div className="bg-slate-200 px-3 py-2 rounded-2xl flex gap-1.5 items-center">
+                    {[0, 0.2, 0.4].map((delay, i) => (
+                      <div key={i} className="w-1.5 h-1.5 rounded-full bg-slate-500 animate-bounce" style={{ animationDelay: `${delay}s` }}></div>
+                    ))}
+                  </div>
+                </div>
+              )}
+              <div ref={messagesEndRef} />
+            </div>
+
+            {/* Input Bar */}
+            <div className="p-3 sm:p-4 bg-white border-t border-slate-200 shrink-0">
+              <form onSubmit={handleSend}>
+                <div className="flex items-center gap-2 bg-slate-50 border border-slate-200 rounded-full px-3 py-1.5">
+                  <button type="button" className="text-slate-400 hover:text-slate-600 p-1"><Paperclip size={18} /></button>
+                  <button type="button" className="text-slate-400 hover:text-slate-600 p-1"><Smile size={18} /></button>
+                  <input
+                    type="text"
+                    value={newMessage}
+                    onChange={e => setNewMessage(e.target.value)}
+                    placeholder={`Message ${activeConv.contact.name.split(' ')[0]}...`}
+                    className="flex-1 bg-transparent border-none outline-none text-xs sm:text-sm text-slate-800 placeholder:text-slate-400 px-1"
+                  />
+                  <button 
+                    type="submit" 
+                    disabled={!newMessage.trim()} 
+                    className="w-9 h-9 rounded-full bg-teal-600 text-white flex items-center justify-center disabled:opacity-40 transition-opacity"
+                  >
+                    <Send size={16} />
+                  </button>
+                </div>
+              </form>
+              <div className="flex justify-center gap-4 mt-2 text-[9px] text-slate-400 font-bold uppercase tracking-wider">
+                <span className="flex items-center gap-1"><Lock size={9} /> End-to-end encrypted</span>
+                <span className="flex items-center gap-1"><Clock size={9} /> Usually responds in 1h</span>
               </div>
-            </form>
-            <div style={{ display: 'flex', justifyContent: 'center', gap: '1.5rem', marginTop: '0.6rem', fontSize: '0.65rem', color: 'var(--color-text-light)', fontWeight: 600, textTransform: 'uppercase', letterSpacing: '0.05em' }}>
-              <span style={{ display: 'flex', alignItems: 'center', gap: '0.3rem' }}><Lock size={10} /> End-to-end encrypted</span>
-              <span style={{ display: 'flex', alignItems: 'center', gap: '0.3rem' }}><Clock size={10} /> Usually responds in 1h</span>
+            </div>
+          </>
+        ) : (
+          <div className="flex-1 flex items-center justify-center text-slate-400">
+            <div className="text-center">
+              <div className="text-4xl mb-2">💬</div>
+              <p className="font-semibold text-sm">Select a conversation to start messaging</p>
             </div>
           </div>
-        </div>
-      ) : (
-        <div style={{ flex: 1, display: 'flex', alignItems: 'center', justifyContent: 'center', color: 'var(--color-text-muted)' }}>
-          <div style={{ textAlign: 'center' }}>
-            <div style={{ fontSize: '3rem', marginBottom: '1rem' }}>💬</div>
-            <p style={{ fontWeight: 600 }}>Select a conversation to start messaging</p>
-          </div>
-        </div>
-      )}
-
-      <style>{`
-        @keyframes bounce {
-          0%, 100% { transform: translateY(0); }
-          50% { transform: translateY(-5px); }
-        }
-      `}</style>
+        )}
+      </div>
     </div>
   );
 }
