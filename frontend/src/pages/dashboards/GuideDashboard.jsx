@@ -104,92 +104,62 @@ export default function GuideDashboard() {
             initial={{ opacity: 0, y: -50, scale: 0.9 }}
             animate={{ opacity: 1, y: 0, scale: 1 }}
             exit={{ opacity: 0, y: -20, scale: 0.95 }}
-            style={{
-              position: 'fixed',
-              top: '2rem',
-              right: '2rem',
-              zIndex: 9999,
-              background: toast.type === 'success' ? '#D1FAE5' : toast.type === 'error' ? '#FEE2E2' : '#EFF6FF',
-              color: toast.type === 'success' ? '#065F46' : toast.type === 'error' ? '#991B1B' : '#1E40AF',
-              border: `1px solid ${toast.type === 'success' ? '#34D399' : toast.type === 'error' ? '#F87171' : '#60A5FA'}`,
-              borderRadius: '1rem',
-              padding: '1rem 1.5rem',
-              boxShadow: 'var(--shadow-xl)',
-              display: 'flex',
-              alignItems: 'center',
-              gap: '0.75rem',
-              fontWeight: 600
-            }}
+            className={`fixed top-4 left-4 right-4 sm:left-auto sm:right-6 z-[9999] p-3.5 sm:px-6 sm:py-4 rounded-2xl shadow-xl flex items-center gap-3 font-semibold text-xs sm:text-sm border ${
+              toast.type === 'success' ? 'bg-emerald-50 text-emerald-800 border-emerald-300' :
+              toast.type === 'error' ? 'bg-rose-50 text-rose-800 border-rose-300' :
+              'bg-blue-50 text-blue-800 border-blue-300'
+            }`}
           >
-            {toast.type === 'success' && <Check size={18} />}
-            {toast.type === 'error' && <X size={18} />}
-            {toast.type === 'info' && <Bell size={18} />}
+            {toast.type === 'success' && <Check size={18} className="shrink-0" />}
+            {toast.type === 'error' && <X size={18} className="shrink-0" />}
+            {toast.type === 'info' && <Bell size={18} className="shrink-0" />}
             <span>{toast.message}</span>
           </motion.div>
         )}
       </AnimatePresence>
 
       {/* Header Section */}
-      <motion.div variants={itemVariants} className="flex justify-between items-center" style={{ marginBottom: '3rem' }}>
-        <div className="flex items-center gap-6">
-          <div style={{ position: 'relative' }}>
+      <motion.div variants={itemVariants} className="flex flex-col sm:flex-row sm:items-center justify-between gap-4 sm:gap-6 mb-6 sm:mb-10">
+        <div className="flex items-center gap-3.5 sm:gap-6 min-w-0">
+          <div className="relative shrink-0">
             <img 
               src="https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=150&q=80" 
               alt="Guide Profile" 
-              style={{ width: '80px', height: '80px', borderRadius: '2rem', objectFit: 'cover', border: '3px solid white', boxShadow: 'var(--shadow-md)' }} 
+              className="w-16 h-16 sm:w-20 sm:h-20 rounded-2xl sm:rounded-[2rem] object-cover border-2 sm:border-3 border-white shadow-md" 
             />
             <motion.div 
               animate={isOnline ? { scale: [1, 1.2, 1] } : {}}
               transition={{ repeat: Infinity, duration: 2 }}
-              style={{ 
-                position: 'absolute', 
-                bottom: '2px', 
-                right: '2px', 
-                width: '16px', 
-                height: '16px', 
-                borderRadius: '50%', 
-                background: isOnline ? '#10B981' : '#94A3B8', 
-                border: '3px solid white',
-                boxShadow: '0 2px 4px rgba(0,0,0,0.1)'
-              }} 
+              className={`absolute bottom-0.5 right-0.5 w-3.5 h-3.5 sm:w-4 sm:h-4 rounded-full border-2 sm:border-3 border-white shadow-sm ${isOnline ? 'bg-emerald-500' : 'bg-slate-400'}`}
             />
           </div>
-          <div>
-            <div className="flex items-center gap-3">
-              <span style={{ fontSize: '0.75rem', fontWeight: 800, color: 'var(--color-primary)', background: 'rgba(13, 148, 136,0.08)', padding: '0.25rem 0.75rem', borderRadius: '1rem', display: 'flex', alignItems: 'center', gap: '0.25rem' }}>
+          <div className="min-w-0 flex-1">
+            <div className="flex flex-wrap items-center gap-2">
+              <span className="text-[10px] sm:text-xs font-black text-teal-700 bg-teal-50 dark:bg-teal-950/40 px-2 sm:px-3 py-0.5 sm:py-1 rounded-full flex items-center gap-1 border border-teal-200/50">
                 <ShieldCheck size={12} /> PRO GUIDE
               </span>
               <motion.div 
                 onClick={toggleOnline}
                 whileHover={{ scale: 1.05 }}
                 whileTap={{ scale: 0.95 }}
-                style={{ 
-                  cursor: 'pointer', 
-                  display: 'flex', 
-                  alignItems: 'center', 
-                  gap: '0.4rem', 
-                  background: isOnline ? '#D1FAE5' : '#F1F5F9', 
-                  color: isOnline ? '#065F46' : '#475569', 
-                  padding: '0.25rem 0.75rem', 
-                  borderRadius: '1rem', 
-                  fontSize: '0.75rem', 
-                  fontWeight: 700 
-                }}
+                className={`cursor-pointer flex items-center gap-1 px-2.5 py-0.5 sm:py-1 rounded-full text-xs font-bold transition-colors ${
+                  isOnline ? 'bg-emerald-100 text-emerald-800' : 'bg-slate-200 text-slate-700'
+                }`}
               >
                 <span>{isOnline ? 'Online' : 'Offline'}</span>
               </motion.div>
             </div>
-            <h1 className="h2" style={{ color: 'var(--color-secondary)', marginTop: '0.25rem', marginBottom: '0.25rem' }}>
+            <h1 className="text-xl sm:text-3xl font-black text-slate-900 dark:text-white tracking-tight mt-1 mb-0.5 truncate">
               Elena Rostova
             </h1>
-            <p className="text-muted" style={{ fontSize: '0.95rem' }}>
+            <p className="text-slate-500 text-xs sm:text-sm font-medium truncate">
               Barcelona & Gothic Quarter Specialist
             </p>
           </div>
         </div>
 
-        <div className="flex items-center gap-4">
-          <motion.div style={{ position: 'relative' }}>
+        <div className="flex items-center gap-2 sm:gap-4 shrink-0">
+          <motion.div className="relative">
             <motion.button 
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
@@ -197,13 +167,12 @@ export default function GuideDashboard() {
                 setNotificationCount(0);
                 showToast('Cleared all notifications.', 'info');
               }}
-              className="btn glass" 
-              style={{ padding: '0.75rem', borderRadius: '50%', color: 'var(--color-text-main)', border: '1px solid var(--color-border)' }}
+              className="btn glass p-2.5 sm:p-3 rounded-full text-slate-700 dark:text-slate-200 border border-slate-200 dark:border-slate-700 cursor-pointer" 
             >
-              <Bell size={20} />
+              <Bell size={18} />
             </motion.button>
             {notificationCount > 0 && (
-              <span style={{ position: 'absolute', top: '-4px', right: '-4px', background: 'var(--color-danger)', color: 'white', fontSize: '0.65rem', fontWeight: 800, padding: '0.1rem 0.4rem', borderRadius: '50%' }}>
+              <span className="absolute -top-1 -right-1 bg-rose-500 text-white text-[10px] font-extrabold px-1.5 py-0.5 rounded-full">
                 {notificationCount}
               </span>
             )}
@@ -213,10 +182,9 @@ export default function GuideDashboard() {
             whileHover={{ scale: 1.02 }}
             whileTap={{ scale: 0.98 }}
             onClick={resetRequests}
-            className="btn glass" 
-            style={{ display: 'flex', gap: '0.5rem', padding: '0.75rem 1.25rem', border: '1px solid var(--color-border)' }}
+            className="btn glass flex items-center gap-1.5 px-3 py-2 sm:px-4 sm:py-2.5 border border-slate-200 dark:border-slate-700 text-xs sm:text-sm font-bold rounded-xl cursor-pointer" 
           >
-            <RefreshCw size={16} /> Reset Simulation
+            <RefreshCw size={15} /> Reset Simulation
           </motion.button>
         </div>
       </motion.div>
@@ -224,31 +192,21 @@ export default function GuideDashboard() {
       {/* Smart Alert Insights Banner */}
       <motion.div 
         variants={itemVariants}
-        style={{ 
-          background: 'linear-gradient(90deg, rgba(13, 148, 136,0.07) 0%, rgba(6,182,212,0.07) 100%)', 
-          borderRadius: '1.25rem', 
-          padding: '1.25rem 2rem', 
-          marginBottom: '3rem', 
-          display: 'flex', 
-          alignItems: 'center', 
-          justifyContent: 'space-between',
-          border: '1px solid rgba(13, 148, 136,0.1)'
-        }}
+        className="bg-gradient-to-r from-teal-500/10 via-cyan-500/10 to-teal-500/5 rounded-2xl p-4 sm:px-8 sm:py-5 mb-6 sm:mb-10 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-3 sm:gap-4 border border-teal-500/15"
       >
-        <div className="flex items-center gap-4">
-          <div style={{ background: 'white', padding: '0.5rem', borderRadius: '0.75rem', color: 'var(--color-primary)', boxShadow: 'var(--shadow-sm)' }}>
+        <div className="flex items-start sm:items-center gap-3 sm:gap-4 min-w-0">
+          <div className="bg-white dark:bg-slate-800 p-2 sm:p-2.5 rounded-xl text-teal-600 shadow-sm shrink-0 mt-0.5 sm:mt-0">
             <Flame size={20} />
           </div>
-          <div>
-            <h4 style={{ fontWeight: 700, fontSize: '0.95rem', color: 'var(--color-secondary)' }}>Weekend Demand Spike Expected</h4>
-            <p className="text-muted" style={{ fontSize: '0.85rem' }}>Barcelona Tapas Tours are up 40% this weekend. Consider expanding your slots on June 13-14.</p>
+          <div className="min-w-0">
+            <h4 className="font-bold text-sm sm:text-base text-slate-900 dark:text-white">Weekend Demand Spike Expected</h4>
+            <p className="text-slate-500 text-xs sm:text-sm font-medium leading-relaxed">Barcelona Tapas Tours are up 40% this weekend. Consider expanding your slots on June 13-14.</p>
           </div>
         </div>
         <motion.button 
           whileHover={{ scale: 1.05 }} 
           whileTap={{ scale: 0.95 }}
-          className="btn" 
-          style={{ fontSize: '0.8rem', padding: '0.5rem 1rem', background: 'var(--color-primary)', color: 'white', borderRadius: '1.5rem', border: 'none' }}
+          className="bg-teal-600 hover:bg-teal-700 text-white font-extrabold text-xs sm:text-sm px-4 py-2 rounded-full transition-all shrink-0 self-end sm:self-auto cursor-pointer border-none"
         >
           Add Slots
         </motion.button>
@@ -264,20 +222,19 @@ export default function GuideDashboard() {
           <motion.div 
             key={idx}
             whileHover={{ y: -5, boxShadow: 'var(--shadow-hover)' }}
-            className="card glass" 
-            style={{ padding: '1.75rem', display: 'flex', flexDirection: 'column', gap: '1rem', transition: 'all 0.3s ease' }}
+            className="card glass p-5 sm:p-7 flex flex-col gap-3 transition-all duration-300" 
           >
             <div className="flex justify-between items-start">
               <div style={{ background: stat.bg, padding: '0.8rem', borderRadius: '0.75rem', color: stat.color }}>
                 {stat.icon}
               </div>
-              <span style={{ fontSize: '0.75rem', fontWeight: 600, color: stat.trend.includes('+') ? '#059669' : 'var(--color-text-muted)', background: stat.trend.includes('+') ? '#D1FAE5' : '#F1F5F9', padding: '0.2rem 0.5rem', borderRadius: '1rem' }}>
+              <span className="text-xs font-semibold px-2 py-0.5 rounded-full" style={{ color: stat.trend.includes('+') ? '#059669' : 'var(--color-text-muted)', background: stat.trend.includes('+') ? '#D1FAE5' : '#F1F5F9' }}>
                 {stat.trend}
               </span>
             </div>
             <div>
-              <div style={{ fontSize: '2rem', fontWeight: 800, color: 'var(--color-secondary)', lineHeight: 1.2 }}>{stat.value}</div>
-              <div style={{ fontSize: '0.85rem', color: 'var(--color-text-muted)', fontWeight: 500, marginTop: '0.25rem' }}>{stat.title}</div>
+              <div className="text-2xl sm:text-3xl font-extrabold text-slate-900 dark:text-white leading-tight">{stat.value}</div>
+              <div className="text-xs sm:text-sm text-slate-500 font-medium mt-1">{stat.title}</div>
             </div>
           </motion.div>
         ))}
@@ -285,18 +242,17 @@ export default function GuideDashboard() {
         {/* Rating Card - Special Styling */}
         <motion.div 
           whileHover={{ y: -5, boxShadow: '0 20px 40px rgba(13, 148, 136, 0.2)' }}
-          className="card" 
-          style={{ padding: '1.75rem', background: 'linear-gradient(135deg, var(--color-secondary), #1E293B)', color: 'white', border: 'none', display: 'flex', flexDirection: 'column', gap: '1rem', transition: 'all 0.3s ease' }}
+          className="card p-5 sm:p-7 bg-gradient-to-br from-slate-900 to-slate-800 text-white border-none flex flex-col gap-3 transition-all duration-300 rounded-2xl" 
         >
           <div className="flex justify-between items-start">
-            <div style={{ background: 'rgba(255, 255, 255,0.1)', padding: '0.8rem', borderRadius: '0.75rem', color: '#FBBF24' }}>
+            <div className="bg-white/10 p-3 rounded-xl text-amber-400">
               <Star fill="#FBBF24" size={22} />
             </div>
-            <ArrowUpRight size={20} color="rgba(255, 255, 255,0.5)" />
+            <ArrowUpRight size={20} className="text-white/50" />
           </div>
           <div>
-            <div style={{ fontSize: '2rem', fontWeight: 800, color: 'white', lineHeight: 1.2 }}>4.92<span style={{fontSize: '1rem', color: 'rgba(255, 255, 255,0.6)', fontWeight: 500}}>/5.0</span></div>
-            <div style={{ fontSize: '0.85rem', color: 'rgba(255, 255, 255,0.8)', fontWeight: 500, marginTop: '0.25rem' }}>Overall Rating</div>
+            <div className="text-2xl sm:text-3xl font-extrabold text-white leading-tight">4.92<span className="text-sm text-white/60 font-medium">/5.0</span></div>
+            <div className="text-xs sm:text-sm text-white/80 font-medium mt-1">Overall Rating</div>
           </div>
         </motion.div>
       </motion.div>
@@ -305,14 +261,14 @@ export default function GuideDashboard() {
       <div className="grid grid-cols-1 lg:grid-cols-12 gap-6 lg:gap-8 mb-8 sm:mb-12">
         
         {/* Analytics Section with State Switcher Tabs */}
-        <motion.div variants={itemVariants} className="lg:col-span-7 card glass flex-col" style={{ padding: '0' }}>
-          <div className="flex justify-between items-center" style={{ padding: '2rem 2rem 1rem 2rem' }}>
+        <motion.div variants={itemVariants} className="lg:col-span-7 card glass flex flex-col p-0 overflow-hidden">
+          <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3 p-4 sm:p-8 sm:pb-4">
             <div>
-              <h2 className="h3" style={{ color: 'var(--color-secondary)' }}>Performance Insights</h2>
-              <p className="text-muted" style={{ fontSize: '0.9rem', marginTop: '0.25rem' }}>Visualize historical performance benchmarks</p>
+              <h2 className="text-lg sm:text-xl font-extrabold text-slate-900 dark:text-white">Performance Insights</h2>
+              <p className="text-slate-500 text-xs sm:text-sm mt-0.5">Visualize historical performance benchmarks</p>
             </div>
             {/* Beautiful Custom Tab Switcher */}
-            <div style={{ display: 'flex', background: '#F1F5F9', padding: '0.25rem', borderRadius: '2rem' }}>
+            <div className="flex bg-slate-100 dark:bg-slate-800 p-1 rounded-full self-start sm:self-auto overflow-x-auto max-w-full">
               {['revenue', 'bookings', 'rating'].map((tab) => (
                 <button
                   key={tab}
@@ -320,19 +276,11 @@ export default function GuideDashboard() {
                     setActiveTab(tab);
                     showToast(`Switched view to: ${tab === 'revenue' ? 'Revenue' : tab === 'bookings' ? 'Tours Completed' : 'Rating Trend'}`, 'info');
                   }}
-                  style={{
-                    padding: '0.5rem 1rem',
-                    borderRadius: '1.5rem',
-                    fontSize: '0.8rem',
-                    fontWeight: 700,
-                    textTransform: 'capitalize',
-                    background: activeTab === tab ? 'white' : 'transparent',
-                    color: activeTab === tab ? 'var(--color-text-main)' : 'var(--color-text-muted)',
-                    boxShadow: activeTab === tab ? 'var(--shadow-sm)' : 'none',
-                    transition: 'all 0.2s ease',
-                    border: 'none',
-                    cursor: 'pointer'
-                  }}
+                  className={`px-3 py-1.5 sm:px-4 sm:py-2 rounded-full text-xs font-bold capitalize transition-all cursor-pointer whitespace-nowrap border-none ${
+                    activeTab === tab 
+                      ? 'bg-white dark:bg-slate-700 text-slate-900 dark:text-white shadow-sm' 
+                      : 'text-slate-500 hover:text-slate-800 dark:hover:text-slate-200 bg-transparent'
+                  }`}
                 >
                   {tab}
                 </button>
@@ -340,7 +288,7 @@ export default function GuideDashboard() {
             </div>
           </div>
           
-          <div style={{ height: '340px', width: '100%', padding: '0 2rem 2rem 1rem' }}>
+          <div className="h-64 sm:h-[340px] w-full px-2 sm:px-6 pb-4 sm:pb-8">
             <ResponsiveContainer width="100%" height="100%">
               <AreaChart data={chartData[activeTab]} margin={{ top: 10, right: 10, left: 0, bottom: 0 }}>
                 <defs>
@@ -378,13 +326,13 @@ export default function GuideDashboard() {
         </motion.div>
 
         {/* Upcoming Agenda */}
-        <motion.div variants={itemVariants} className="card glass" style={{ padding: '2rem' }}>
-          <div className="flex justify-between items-center" style={{ marginBottom: '2rem' }}>
-            <h2 className="h3" style={{ color: 'var(--color-secondary)' }}>Agenda</h2>
-            <button className="btn btn-ghost" style={{ color: 'var(--color-primary)', fontWeight: 600, padding: '0.25rem 0.75rem', fontSize: '0.85rem', background: 'rgba(13, 148, 136, 0.05)', borderRadius: '1rem' }}>View Calendar</button>
+        <motion.div variants={itemVariants} className="card glass p-4 sm:p-8">
+          <div className="flex justify-between items-center mb-4 sm:mb-6">
+            <h2 className="text-lg sm:text-xl font-extrabold text-slate-900 dark:text-white">Agenda</h2>
+            <button className="text-teal-600 bg-teal-50 dark:bg-teal-950/40 hover:bg-teal-100 font-bold px-3 py-1.5 rounded-full text-xs transition-colors cursor-pointer border-none">View Calendar</button>
           </div>
 
-          <div className="flex-col gap-5">
+          <div className="flex flex-col gap-4">
             {[
               { day: 'TODAY', title: 'Tapas & Wine Night Tour', time: '6:30 PM', location: 'Plaça Reial', guests: 8, status: 'IN 2 HOURS', statusColor: 'var(--color-primary)', statusBg: 'rgba(13, 148, 136,0.1)' },
               { day: 'TOMORROW', title: 'Morning Bike Coastline', time: '9:00 AM', location: 'Barceloneta', guests: 4, status: 'UPCOMING', statusColor: '#475569', statusBg: '#F1F5F9' }
@@ -392,28 +340,28 @@ export default function GuideDashboard() {
               <motion.div 
                 key={idx}
                 whileHover={{ scale: 1.01 }}
-                style={{ background: 'white', borderRadius: '1rem', padding: '1.25rem', border: '1px solid var(--color-border)', boxShadow: 'var(--shadow-sm)', transition: 'all 0.2s' }}
+                className="bg-white dark:bg-slate-800 rounded-2xl p-4 border border-slate-200 dark:border-slate-700 shadow-sm transition-all"
               >
-                <div style={{ fontSize: '0.7rem', fontWeight: 800, letterSpacing: '0.05em', color: 'var(--color-text-muted)', marginBottom: '0.75rem' }}>{event.day}</div>
-                <div className="flex justify-between items-start" style={{ marginBottom: '1rem' }}>
+                <div className="text-[10px] font-extrabold tracking-wider text-slate-400 mb-2">{event.day}</div>
+                <div className="flex justify-between items-start mb-3">
                   <div>
-                    <h3 style={{ fontSize: '1.05rem', fontWeight: 700, color: 'var(--color-secondary)', marginBottom: '0.35rem' }}>{event.title}</h3>
-                    <div className="flex gap-3" style={{ fontSize: '0.8rem', color: 'var(--color-text-muted)' }}>
-                      <span className="flex items-center gap-1"><CalendarIcon size={14}/> {event.time}</span>
-                      <span className="flex items-center gap-1"><MapPin size={14}/> {event.location}</span>
+                    <h3 className="font-extrabold text-sm sm:text-base text-slate-900 dark:text-white mb-1">{event.title}</h3>
+                    <div className="flex flex-wrap gap-2 text-xs text-slate-500 font-medium">
+                      <span className="flex items-center gap-1"><CalendarIcon size={13}/> {event.time}</span>
+                      <span className="flex items-center gap-1"><MapPin size={13}/> {event.location}</span>
                     </div>
                   </div>
                 </div>
-                <div className="flex justify-between items-center pt-3" style={{ borderTop: '1px dashed var(--color-border)' }}>
+                <div className="flex justify-between items-center pt-3 border-t border-dashed border-slate-200 dark:border-slate-700">
                   <div className="flex items-center gap-2">
                     <div className="flex">
-                      <img src="https://images.unsplash.com/photo-1599566150163-29194dcaad36?auto=format&fit=crop&w=50&q=80" alt="Guest" style={{ width: '26px', height: '26px', borderRadius: '50%', border: '2px solid white', zIndex: 3 }} />
-                      <img src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=50&q=80" alt="Guest" style={{ width: '26px', height: '26px', borderRadius: '50%', border: '2px solid white', marginLeft: '-10px', zIndex: 2 }} />
-                      <div style={{ width: '26px', height: '26px', borderRadius: '50%', border: '2px solid white', marginLeft: '-10px', background: '#F1F5F9', display: 'flex', alignItems: 'center', justifyContent: 'center', fontSize: '0.65rem', fontWeight: 700, color: 'var(--color-text-main)', zIndex: 1 }}>+{event.guests - 2}</div>
+                      <img src="https://images.unsplash.com/photo-1599566150163-29194dcaad36?auto=format&fit=crop&w=50&q=80" alt="Guest" className="w-6 h-6 rounded-full border-2 border-white object-cover z-[3]" />
+                      <img src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=50&q=80" alt="Guest" className="w-6 h-6 rounded-full border-2 border-white object-cover -ml-2.5 z-[2]" />
+                      <div className="w-6 h-6 rounded-full border-2 border-white -ml-2.5 bg-slate-100 dark:bg-slate-700 flex items-center justify-center text-[10px] font-bold text-slate-700 dark:text-slate-200 z-[1]">+{event.guests - 2}</div>
                     </div>
-                    <span style={{ fontSize: '0.8rem', fontWeight: 500, color: 'var(--color-text-muted)' }}>Guests</span>
+                    <span className="text-xs text-slate-500 font-medium">Guests</span>
                   </div>
-                  <span style={{ padding: '0.3rem 0.6rem', borderRadius: '1rem', background: event.statusBg, color: event.statusColor, fontSize: '0.7rem', fontWeight: 700, letterSpacing: '0.02em' }}>
+                  <span className="px-2.5 py-1 rounded-full text-[10px] font-extrabold" style={{ background: event.statusBg, color: event.statusColor }}>
                     {event.status}
                   </span>
                 </div>
@@ -426,34 +374,27 @@ export default function GuideDashboard() {
 
       {/* Booking Requests with AnimatePresence Dynamic Interaction */}
       <motion.div variants={itemVariants}>
-        <div className="flex justify-between items-center" style={{ marginBottom: '1.5rem' }}>
-          <h2 className="h3" style={{ color: 'var(--color-secondary)' }}>Pending Requests</h2>
-          <span className="badge" style={{ background: requests.length > 0 ? '#FEE2E2' : '#EFF6FF', color: requests.length > 0 ? '#DC2626' : 'var(--color-primary)', padding: '0.4rem 0.8rem', transition: 'all 0.3s' }}>
+        <div className="flex justify-between items-center mb-4">
+          <h2 className="text-lg sm:text-xl font-extrabold text-slate-900 dark:text-white">Pending Requests</h2>
+          <span className="px-3 py-1 rounded-full text-xs font-bold" style={{ background: requests.length > 0 ? '#FEE2E2' : '#EFF6FF', color: requests.length > 0 ? '#DC2626' : 'var(--color-primary)' }}>
             {requests.length} {requests.length === 1 ? 'Action Required' : 'Actions Required'}
           </span>
         </div>
 
-        <div style={{ position: 'relative', minHeight: '120px' }}>
+        <div className="relative min-h-[120px]">
           <AnimatePresence mode="popLayout">
             {requests.length === 0 ? (
               <motion.div 
                 initial={{ opacity: 0, scale: 0.95 }}
                 animate={{ opacity: 1, scale: 1 }}
                 exit={{ opacity: 0 }}
-                style={{ 
-                  background: 'rgba(255, 255, 255,0.5)', 
-                  border: '1px dashed var(--color-border)', 
-                  borderRadius: '1.25rem', 
-                  padding: '3rem', 
-                  textAlign: 'center',
-                  color: 'var(--color-text-muted)'
-                }}
+                className="bg-white/50 dark:bg-slate-800/50 border border-dashed border-slate-300 dark:border-slate-700 rounded-2xl p-8 text-center text-slate-500"
               >
-                <div style={{ fontSize: '1.1rem', fontWeight: 600 }}>All caught up! 🎉</div>
-                <p style={{ fontSize: '0.85rem', marginTop: '0.25rem' }}>Check back later or click "Reset Simulation" in the header to reload demo requests.</p>
+                <div className="text-base font-bold text-slate-800 dark:text-slate-100">All caught up! 🎉</div>
+                <p className="text-xs mt-1">Check back later or click "Reset Simulation" in the header to reload demo requests.</p>
               </motion.div>
             ) : (
-              <div className="grid grid-cols-2 gap-6">
+              <div className="grid grid-cols-1 lg:grid-cols-2 gap-4 sm:gap-6">
                 {requests.map((req) => (
                   <motion.div 
                     key={req.id}
@@ -462,35 +403,37 @@ export default function GuideDashboard() {
                     animate={{ opacity: 1, y: 0 }}
                     exit={{ opacity: 0, scale: 0.9, x: 20 }}
                     transition={{ type: 'spring', damping: 25, stiffness: 200 }}
-                    whileHover={{ scale: 1.02, boxShadow: 'var(--shadow-md)' }}
-                    style={{ background: 'white', border: '1px solid rgba(226, 232, 240, 0.8)', borderRadius: '1.25rem', padding: '1.5rem', display: 'flex', alignItems: 'center', justifyContent: 'space-between', transition: 'box-shadow 0.3s, border 0.3s' }}
+                    whileHover={{ scale: 1.01 }}
+                    className="bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700 rounded-2xl p-4 sm:p-6 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4 shadow-sm"
                   >
-                    <div className="flex items-center gap-4">
-                      <img src={req.img} alt={req.name} style={{ width: '64px', height: '64px', borderRadius: '1rem', objectFit: 'cover', boxShadow: 'var(--shadow-sm)' }} />
-                      <div>
-                        <div style={{ fontWeight: 700, fontSize: '1.1rem', color: 'var(--color-secondary)', marginBottom: '0.2rem' }}>{req.name}</div>
-                        <div style={{ fontSize: '0.9rem', color: 'var(--color-text-muted)', fontWeight: 500 }}>{req.tour}</div>
-                        <div style={{ fontSize: '0.8rem', color: 'var(--color-primary)', fontWeight: 600, marginTop: '0.4rem', display: 'inline-block', background: 'rgba(13, 148, 136,0.05)', padding: '0.2rem 0.5rem', borderRadius: '0.5rem' }}>{req.details}</div>
+                    <div className="flex items-center gap-3.5 sm:gap-4 min-w-0">
+                      <img src={req.img} alt={req.name} className="w-12 h-12 sm:w-16 sm:h-16 rounded-2xl object-cover shrink-0 shadow-sm" />
+                      <div className="min-w-0">
+                        <div className="font-extrabold text-sm sm:text-lg text-slate-900 dark:text-white truncate">{req.name}</div>
+                        <div className="text-xs sm:text-sm text-slate-500 font-medium truncate">{req.tour}</div>
+                        <div className="text-[11px] sm:text-xs text-teal-700 dark:text-teal-400 font-bold mt-1 inline-block bg-teal-50 dark:bg-teal-950/50 px-2.5 py-1 rounded-lg">
+                          {req.details}
+                        </div>
                       </div>
                     </div>
-                    <div className="flex flex-col items-end gap-3">
-                      <div style={{ color: 'var(--color-secondary)', fontWeight: 800, fontSize: '1.35rem' }}>{req.price}</div>
+                    <div className="flex sm:flex-col items-center sm:items-end justify-between w-full sm:w-auto pt-2 sm:pt-0 border-t sm:border-t-0 border-slate-100 dark:border-slate-700 gap-2">
+                      <div className="text-slate-900 dark:text-white font-black text-lg sm:text-2xl">{req.price}</div>
                       <div className="flex gap-2">
                         <motion.button 
                           whileHover={{ scale: 1.1 }} 
                           whileTap={{ scale: 0.9 }} 
                           onClick={() => handleAccept(req.id, req.name)}
-                          style={{ width: '38px', height: '38px', padding: 0, borderRadius: '50%', background: '#D1FAE5', color: '#059669', display: 'flex', alignItems: 'center', justifyContent: 'center', border: 'none', cursor: 'pointer', boxShadow: '0 2px 8px rgba(5,150,105,0.15)' }}
+                          className="w-9 h-9 rounded-full bg-emerald-100 text-emerald-700 flex items-center justify-center border-none cursor-pointer shadow-sm hover:bg-emerald-200"
                         >
-                          <Check size={20} />
+                          <Check size={18} />
                         </motion.button>
                         <motion.button 
                           whileHover={{ scale: 1.1 }} 
                           whileTap={{ scale: 0.9 }} 
                           onClick={() => handleReject(req.id, req.name)}
-                          style={{ width: '38px', height: '38px', padding: 0, borderRadius: '50%', background: '#FEE2E2', color: '#DC2626', display: 'flex', alignItems: 'center', justifyContent: 'center', border: 'none', cursor: 'pointer', boxShadow: '0 2px 8px rgba(220,38,38,0.15)' }}
+                          className="w-9 h-9 rounded-full bg-rose-100 text-rose-700 flex items-center justify-center border-none cursor-pointer shadow-sm hover:bg-rose-200"
                         >
-                          <X size={20} />
+                          <X size={18} />
                         </motion.button>
                       </div>
                     </div>

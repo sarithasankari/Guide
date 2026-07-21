@@ -10,8 +10,22 @@ export default function Navbar() {
   const { user, logout } = useApp();
   const [showUserMenu, setShowUserMenu] = useState(false);
   const [showMobileMenu, setShowMobileMenu] = useState(false);
+  const [isScrolled, setIsScrolled] = useState(false);
 
   const isDashboard = location.pathname.startsWith('/dashboard');
+  const isHomePage = location.pathname === '/';
+
+  React.useEffect(() => {
+    const handleScroll = () => {
+      if (window.scrollY > 20) {
+        setIsScrolled(true);
+      } else {
+        setIsScrolled(false);
+      }
+    };
+    window.addEventListener('scroll', handleScroll);
+    return () => window.removeEventListener('scroll', handleScroll);
+  }, []);
 
   if (isDashboard) return null;
 
@@ -32,8 +46,13 @@ export default function Navbar() {
     { name: 'Help', path: '/help', icon: HelpCircle }
   ];
 
+  // Header background styling based on scroll and route
+  const headerBgClass = isHomePage && !isScrolled
+    ? 'bg-gradient-to-b from-black/60 via-black/30 to-transparent text-white border-b border-white/10'
+    : 'bg-white/95 dark:bg-slate-900/95 backdrop-blur-md text-slate-800 dark:text-slate-100 border-b border-slate-200/80 dark:border-slate-800 shadow-md';
+
   return (
-    <header className="sticky top-0 z-[200] bg-white/75 backdrop-blur-md border-b border-slate-100 shadow-[0_2px_15px_-3px_rgba(15,23,42,0.03)]">
+    <header className={`sticky top-0 z-[200] w-full transition-all duration-300 ${headerBgClass}`}>
       <div className="container mx-auto px-3 sm:px-6 lg:px-8 h-16 sm:h-20 flex items-center justify-between">
         
         {/* Brand Logo */}
@@ -41,7 +60,9 @@ export default function Navbar() {
           <div className="w-8.5 h-8.5 sm:w-10 sm:h-10 rounded-xl bg-gradient-to-tr from-teal-500 to-emerald-400 flex items-center justify-center shadow-md shadow-teal-500/10 group-hover:scale-105 transition-transform duration-300">
             <Compass size={20} className="text-white animate-pulse-slow sm:w-[22px] sm:h-[22px]" />
           </div>
-          <span className="bg-gradient-to-r from-teal-600 via-teal-500 to-emerald-600 bg-clip-text text-transparent font-black text-xl sm:text-2xl tracking-tight">
+          <span className={`font-black text-xl sm:text-2xl tracking-tight transition-colors ${
+            isHomePage && !isScrolled ? 'text-white' : 'bg-gradient-to-r from-teal-600 via-teal-500 to-emerald-600 bg-clip-text text-transparent'
+          }`}>
             GuideConnect
           </span>
         </Link>

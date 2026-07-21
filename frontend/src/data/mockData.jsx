@@ -164,7 +164,7 @@ export const CATEGORIES = [
 
 export const DESTINATIONS = [
   { city: 'Chennai, Tamil Nadu', exp: '142+ Experiences', img: 'https://images.unsplash.com/photo-1524492412937-b28074a5d7da?auto=format&fit=crop&w=1000&q=80' },
-  { city: 'Madurai, Tamil Nadu', exp: '86+ Experiences', img: 'https://images.unsplash.com/photo-1514222709107-a180c68d72b4?auto=format&fit=crop&w=1000&q=80' },
+  { city: 'Madurai, Tamil Nadu', exp: '86+ Experiences', img: 'https://images.unsplash.com/photo-1600100397608-f010f423b971?auto=format&fit=crop&w=1000&q=80?auto=format&fit=crop&w=1000&q=80' },
   { city: 'Ooty, Tamil Nadu', exp: '110+ Experiences', img: 'https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?auto=format&fit=crop&w=1000&q=80' },
   { city: 'Mahabalipuram, Tamil Nadu', exp: '95+ Experiences', img: 'https://images.unsplash.com/photo-1600100397608-f010e423b971?auto=format&fit=crop&w=1000&q=80' },
 ];

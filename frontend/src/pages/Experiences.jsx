@@ -14,73 +14,78 @@ export default function Experiences() {
   };
 
   return (
-    <div style={{ paddingBottom: '6rem' }}>
+    <div className="pb-16 sm:pb-24 bg-slate-50 dark:bg-slate-900 transition-colors">
       
       {/* Banner */}
-      <div style={{ position: 'relative', height: '480px', overflow: 'hidden' }}>
+      <div className="relative h-[380px] sm:h-[480px] overflow-hidden">
         <motion.div 
           initial={{ scale: 1.05 }}
           animate={{ scale: 1 }}
           transition={{ duration: 1.5, ease: 'easeOut' }}
+          className="absolute inset-0 bg-cover bg-center"
           style={{ 
-            position: 'absolute', inset: 0,
-            backgroundImage: 'url("https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?auto=format&fit=crop&w=1600&q=80")',
-            backgroundSize: 'cover',
-            backgroundPosition: 'center',
+            backgroundImage: 'url("https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?auto=format&fit=crop&w=1600&q=80")'
           }}
         />
-        <div style={{ position: 'absolute', inset: 0, background: 'linear-gradient(to bottom, rgba(0,0,0,0.3) 0%, rgba(0,0,0,0.7) 100%)' }} />
+        <div className="absolute inset-0 bg-gradient-to-b from-black/40 via-black/60 to-black/80" />
         
-        <div className="container" style={{ position: 'relative', height: '100%', display: 'flex', alignItems: 'center', justifyContent: 'center', textAlign: 'center', color: 'white' }}>
-          <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.2, duration: 0.8 }}>
-            <h1 style={{ fontSize: '4rem', fontWeight: 800, marginBottom: '1.25rem', letterSpacing: '-0.02em', textShadow: '0 4px 20px rgba(0,0,0,0.6)' }}>Discover the Extraordinary</h1>
-            <p style={{ fontSize: '1.35rem', maxWidth: '650px', margin: '0 auto', color: '#F8FAFC', lineHeight: '1.6', textShadow: '0 2px 10px rgba(0,0,0,0.5)', fontWeight: 500 }}>
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative h-full flex items-center justify-center text-center text-white">
+          <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.2, duration: 0.8 }} className="max-w-3xl">
+            <h1 className="text-3xl sm:text-5xl lg:text-6xl font-black mb-3 sm:mb-5 tracking-tight text-white drop-shadow-lg leading-tight">
+              Discover the Extraordinary
+            </h1>
+            <p className="text-sm sm:text-lg lg:text-xl text-slate-100 max-w-2xl mx-auto leading-relaxed font-medium drop-shadow">
               Curated journeys designed by local experts. Find the perfect category for your next unforgettable adventure.
             </p>
           </motion.div>
         </div>
       </div>
 
-      <div className="container" style={{ marginTop: '5rem' }}>
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mt-8 sm:mt-16">
         
         {/* Categories Grid */}
         <motion.div 
           variants={containerVariants}
           initial="hidden"
           animate="visible"
-          className="grid grid-cols-3 gap-8"
+          className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 sm:gap-8"
         >
           {[
-            { title: 'History & Culture', icon: <History size={26}/>, desc: 'Step back in time with archaeologists and historians.', img: 'https://images.unsplash.com/photo-1552832230-c0197dd311b5?auto=format&fit=crop&w=600&q=80' },
-            { title: 'Food & Culinary', icon: <Coffee size={26}/>, desc: 'Taste the city secrets with local chefs and foodies.', img: 'https://images.unsplash.com/photo-1514933651103-005eec06c04b?auto=format&fit=crop&w=600&q=80' },
-            { title: 'Alpine & Nature', icon: <Mountain size={26}/>, desc: 'Conquer peaks and valleys with certified mountain guides.', img: 'https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=600&q=80' },
-            { title: 'Photography', icon: <Camera size={26}/>, desc: 'Find the perfect angles with professional local photographers.', img: 'https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=600&q=80' },
-            { title: 'Urban Exploration', icon: <Map size={26}/>, desc: 'Discover street art and hidden alleys off the beaten path.', img: 'https://images.unsplash.com/photo-1449844908441-8829872d2607?auto=format&fit=crop&w=600&q=80' },
-            { title: 'Sailing & Water', icon: <Compass size={26}/>, desc: 'Explore the coastline with experienced local captains.', img: 'https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=600&q=80' }
+            { title: 'History & Culture', icon: <History size={22}/>, desc: 'Step back in time with archaeologists and historians.', img: 'https://images.unsplash.com/photo-1552832230-c0197dd311b5?auto=format&fit=crop&w=600&q=80' },
+            { title: 'Food & Culinary', icon: <Coffee size={22}/>, desc: 'Taste the city secrets with local chefs and foodies.', img: 'https://images.unsplash.com/photo-1514933651103-005eec06c04b?auto=format&fit=crop&w=600&q=80' },
+            { title: 'Alpine & Nature', icon: <Mountain size={22}/>, desc: 'Conquer peaks and valleys with certified mountain guides.', img: 'https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=600&q=80' },
+            { title: 'Photography', icon: <Camera size={22}/>, desc: 'Find the perfect angles with professional local photographers.', img: 'https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=600&q=80' },
+            { title: 'Urban Exploration', icon: <Map size={22}/>, desc: 'Discover street art and hidden alleys off the beaten path.', img: 'https://images.unsplash.com/photo-1449844908441-8829872d2607?auto=format&fit=crop&w=600&q=80' },
+            { title: 'Sailing & Water', icon: <Compass size={22}/>, desc: 'Explore the coastline with experienced local captains.', img: 'https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=600&q=80' }
           ].map((cat, i) => (
             <motion.div key={i} variants={itemVariants}>
               <Link 
                 to="/search" 
-                className="card" 
-                style={{ padding: 0, overflow: 'hidden', display: 'flex', flexDirection: 'column', height: '100%', position: 'relative', border: '1px solid rgba(0,0,0,0.05)' }}
+                className="bg-white dark:bg-slate-800 rounded-3xl overflow-hidden shadow-sm hover:shadow-xl transition-all duration-300 border border-slate-100 dark:border-slate-700 flex flex-col h-full group"
               >
-                <div style={{ height: '240px', position: 'relative', overflow: 'hidden' }} className="group">
+                <div className="h-48 sm:h-60 relative overflow-hidden">
                   <motion.img 
                     whileHover={{ scale: 1.08 }}
                     transition={{ duration: 0.6, ease: 'easeOut' }}
                     src={cat.img} 
                     alt={cat.title} 
-                    style={{ width: '100%', height: '100%', objectFit: 'cover' }} 
+                    className="w-full h-full object-cover" 
                   />
-                  <div style={{ position: 'absolute', inset: 0, background: 'linear-gradient(to top, rgba(15,23,42,0.9) 0%, rgba(15,23,42,0.1) 60%, transparent 100%)', pointerEvents: 'none' }}></div>
-                  <div style={{ position: 'absolute', bottom: '1.5rem', left: '1.5rem', color: 'white', display: 'flex', alignItems: 'center', gap: '1rem', zIndex: 10, width: 'calc(100% - 3rem)' }}>
-                    <div style={{ background: 'var(--color-primary)', padding: '0.8rem', borderRadius: '50%', boxShadow: '0 4px 12px rgba(13, 148, 136,0.4)' }}>{cat.icon}</div>
-                    <h3 style={{ fontSize: '1.6rem', fontWeight: 800, textShadow: '0 2px 4px rgba(0,0,0,0.3)' }}>{cat.title}</h3>
+                  <div className="absolute inset-0 bg-gradient-to-t from-slate-900/90 via-slate-900/20 to-transparent pointer-events-none"></div>
+                  <div className="absolute bottom-4 left-4 right-4 text-white flex items-center gap-3 z-10">
+                    <div className="bg-teal-600 p-2.5 sm:p-3 rounded-full shadow-md text-white shrink-0">
+                      {cat.icon}
+                    </div>
+                    <h3 className="text-lg sm:text-2xl font-extrabold text-white drop-shadow-md truncate">
+                      {cat.title}
+                    </h3>
                   </div>
                 </div>
-                <div style={{ padding: '2rem 1.5rem', background: 'white', flex: 1, display: 'flex', flexDirection: 'column', justifyContent: 'space-between' }}>
-                  <p className="text-muted" style={{ fontSize: '1.05rem', lineHeight: '1.6', marginBottom: '1.5rem' }}>{cat.desc}</p>
-                  <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', color: 'var(--color-primary)', fontWeight: 700, fontSize: '0.9rem', textTransform: 'uppercase', letterSpacing: '0.05em' }}>
+                <div className="p-5 sm:p-6 bg-white dark:bg-slate-800 flex-1 flex flex-col justify-between">
+                  <p className="text-slate-600 dark:text-slate-300 text-sm sm:text-base leading-relaxed mb-4">
+                    {cat.desc}
+                  </p>
+                  <div className="flex items-center gap-2 text-teal-600 dark:text-teal-400 font-bold text-xs sm:text-sm uppercase tracking-wider group-hover:translate-x-1 transition-transform">
                     Explore Category <ArrowRight size={16} />
                   </div>
                 </div>

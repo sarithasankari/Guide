@@ -33,11 +33,7 @@ export default function SearchHeader({
   };
 
   return (
-    <div className={`sticky top-16 sm:top-20 z-50 w-full transition-all duration-300 ${
-      isShrunk 
-        ? 'py-2 bg-white/95 backdrop-blur-md shadow-md border-b border-slate-100' 
-        : 'py-3 sm:py-6 bg-slate-50 border-b border-slate-100'
-    }`}>
+    <div className="relative z-30 w-full py-3 sm:py-6 bg-slate-50 border-b border-slate-100">
       <div className="container mx-auto px-3 sm:px-4 max-w-7xl">
         <form onSubmit={handleSubmit} className="w-full">
           <div className={`bg-white rounded-2xl md:rounded-full flex flex-col md:flex-row items-center border border-slate-200 gap-1 md:gap-0 p-1.5 transition-all duration-300 ${

@@ -43,26 +43,38 @@ export default function Login() {
   };
 
   return (
-    <div style={{ display: 'flex', minHeight: 'calc(100vh - 80px)' }}>
+    <div className="flex flex-col lg:flex-row min-h-[calc(100vh-80px)] bg-slate-50 dark:bg-slate-900 transition-colors">
       {/* Left: Form */}
-      <div style={{ flex: 1, display: 'flex', alignItems: 'center', justifyContent: 'center', padding: '3rem', backgroundColor: 'var(--color-surface)', position: 'relative', overflow: 'hidden' }}>
-        {/* Subtle decorative background elements */}
-        <div style={{ position: 'absolute', top: '-10%', left: '-10%', width: '40%', height: '40%', background: 'radial-gradient(circle, rgba(13, 148, 136,0.05) 0%, transparent 70%)', borderRadius: '50%' }} />
+      <div className="flex-1 flex items-center justify-center p-4 sm:p-8 lg:p-12 relative overflow-hidden bg-slate-50 dark:bg-slate-900">
+        {/* Decorative background circle */}
+        <div className="absolute -top-10 -left-10 w-72 h-72 bg-teal-500/5 rounded-full blur-3xl pointer-events-none" />
         
         <motion.div 
           variants={containerVariants} 
           initial="hidden" 
           animate="visible"
-          style={{ width: '100%', maxWidth: '420px', zIndex: 10 }}
+          className="w-full max-w-md z-10 py-6 sm:py-0"
         >
-          <motion.h1 variants={itemVariants} style={{ fontSize: '2.5rem', fontWeight: 800, marginBottom: '0.5rem', color: 'var(--color-text-main)', letterSpacing: '-0.02em' }}>Welcome Back</motion.h1>
-          <motion.p variants={itemVariants} className="text-muted" style={{ marginBottom: '2.5rem', fontSize: '1.05rem' }}>Enter your credentials to access your GuideConnect account.</motion.p>
+          <motion.h1 variants={itemVariants} className="text-2xl sm:text-4xl font-extrabold mb-2 text-slate-900 dark:text-white tracking-tight">
+            Welcome Back
+          </motion.h1>
+          <motion.p variants={itemVariants} className="text-slate-500 dark:text-slate-400 mb-6 text-sm sm:text-base leading-relaxed">
+            Enter your credentials to access your GuideConnect account.
+          </motion.p>
 
-          {/* Demo Role Switcher */}
-          <motion.div variants={itemVariants} style={{ background: '#F1F5F9', borderRadius: 'var(--radius-lg)', padding: '0.35rem', marginBottom: '2rem', display: 'flex', gap: '0.35rem' }}>
+          {/* Role Switcher */}
+          <motion.div variants={itemVariants} className="bg-slate-200/70 dark:bg-slate-800 p-1.5 rounded-2xl mb-6 flex gap-1 border border-slate-200 dark:border-slate-700">
             {['traveler', 'guide', 'admin'].map(r => (
-              <button key={r} onClick={() => setRole(r)}
-                style={{ flex: 1, padding: '0.6rem', borderRadius: 'var(--radius-md)', border: 'none', cursor: 'pointer', fontWeight: 600, fontSize: '0.85rem', textTransform: 'capitalize', background: role === r ? 'white' : 'transparent', color: role === r ? 'var(--color-primary)' : 'var(--color-text-muted)', boxShadow: role === r ? 'var(--shadow-sm)' : 'none', transition: 'all 0.2s cubic-bezier(0.4, 0, 0.2, 1)' }}>
+              <button 
+                key={r} 
+                type="button"
+                onClick={() => setRole(r)}
+                className={`flex-1 py-2 rounded-xl text-xs sm:text-sm font-bold capitalize transition-all cursor-pointer ${
+                  role === r 
+                    ? 'bg-white dark:bg-slate-700 text-teal-600 dark:text-teal-400 shadow-sm' 
+                    : 'text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-slate-200'
+                }`}
+              >
                 {r}
               </button>
             ))}
@@ -72,122 +84,125 @@ export default function Login() {
             {error && (
               <motion.div 
                 initial={{ opacity: 0, height: 0, marginBottom: 0 }} 
-                animate={{ opacity: 1, height: 'auto', marginBottom: '1.5rem' }} 
+                animate={{ opacity: 1, height: 'auto', marginBottom: '1.25rem' }} 
                 exit={{ opacity: 0, height: 0, marginBottom: 0 }}
-                style={{ overflow: 'hidden' }}
+                className="overflow-hidden"
               >
-                <div style={{ background: '#FEF2F2', border: '1px solid #FCA5A5', borderRadius: 'var(--radius-md)', padding: '0.8rem 1rem', display: 'flex', gap: '0.5rem', alignItems: 'center', color: '#EF4444', fontSize: '0.85rem', fontWeight: 500 }}>
-                  <AlertCircle size={16} /> {error}
+                <div className="bg-rose-50 dark:bg-rose-950/40 border border-rose-200 dark:border-rose-800 rounded-xl p-3 flex gap-2 items-center text-rose-600 dark:text-rose-400 text-xs sm:text-sm font-semibold">
+                  <AlertCircle size={16} className="shrink-0" /> {error}
                 </div>
               </motion.div>
             )}
           </AnimatePresence>
 
-          <motion.form variants={itemVariants} onSubmit={handleSubmit}>
-            <div className="form-group">
-              <label className="form-label" style={{ fontWeight: 600, color: 'var(--color-secondary)' }}>Email Address</label>
-              <div style={{ position: 'relative' }}>
-                <div style={{ position: 'absolute', top: '50%', left: '1rem', transform: 'translateY(-50%)', color: emailFocused ? 'var(--color-primary)' : 'var(--color-text-light)', pointerEvents: 'none', transition: 'color 0.2s' }} className="icon-wrapper"><Mail size={18} /></div>
+          <motion.form variants={itemVariants} onSubmit={handleSubmit} className="space-y-4">
+            <div>
+              <label className="block text-xs font-bold text-slate-500 dark:text-slate-400 uppercase tracking-wider mb-1.5">
+                Email Address
+              </label>
+              <div className="relative">
+                <div className="absolute top-1/2 left-3.5 -translate-y-1/2 text-slate-400 pointer-events-none">
+                  <Mail size={18} className={emailFocused ? "text-teal-600 dark:text-teal-400" : ""} />
+                </div>
                 <input 
                   type="email" 
-                  className="form-input" 
                   placeholder="alex@example.com" 
                   value={email} 
                   onChange={e => setEmail(e.target.value)} 
-                  style={{ paddingLeft: '2.8rem', paddingRight: '1rem', fontSize: '1rem', height: '3rem', transition: 'all 0.2s ease', backgroundColor: emailFocused ? 'white' : '#F8FAFC' }} 
                   onFocus={() => setEmailFocused(true)}
                   onBlur={() => setEmailFocused(false)}
+                  className="w-full pl-11 pr-4 py-3 bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700 rounded-xl text-slate-900 dark:text-white placeholder:text-slate-400 font-medium text-sm focus:outline-none focus:ring-2 focus:ring-teal-500/20 focus:border-teal-500 transition-all"
+                  required
                 />
               </div>
             </div>
 
-            <div className="form-group" style={{ marginBottom: '2.5rem' }}>
-              <div className="flex justify-between items-center" style={{ marginBottom: '0.5rem' }}>
-                <label className="form-label" style={{ marginBottom: 0, fontWeight: 600, color: 'var(--color-secondary)' }}>Password</label>
-                <Link to="#" style={{ fontSize: '0.85rem', fontWeight: 600, color: 'var(--color-primary)', transition: 'opacity 0.2s' }} onMouseOver={e=>e.target.style.opacity='0.8'} onMouseOut={e=>e.target.style.opacity='1'}>Forgot password?</Link>
+            <div>
+              <div className="flex justify-between items-center mb-1.5">
+                <label className="block text-xs font-bold text-slate-500 dark:text-slate-400 uppercase tracking-wider">
+                  Password
+                </label>
+                <Link to="#" className="text-xs font-bold text-teal-600 dark:text-teal-400 hover:underline">
+                  Forgot password?
+                </Link>
               </div>
-              <div style={{ position: 'relative' }}>
-                <div style={{ position: 'absolute', top: '50%', left: '1rem', transform: 'translateY(-50%)', color: passwordFocused ? 'var(--color-primary)' : 'var(--color-text-light)', pointerEvents: 'none', transition: 'color 0.2s' }}><Lock size={18} /></div>
+              <div className="relative">
+                <div className="absolute top-1/2 left-3.5 -translate-y-1/2 text-slate-400 pointer-events-none">
+                  <Lock size={18} className={passwordFocused ? "text-teal-600 dark:text-teal-400" : ""} />
+                </div>
                 <input 
                   type={showPassword ? 'text' : 'password'} 
-                  className="form-input" 
                   placeholder="••••••••" 
                   value={password} 
                   onChange={e => setPassword(e.target.value)} 
-                  style={{ paddingLeft: '2.8rem', paddingRight: '3rem', fontSize: '1rem', height: '3rem', transition: 'all 0.2s ease', backgroundColor: passwordFocused ? 'white' : '#F8FAFC' }} 
                   onFocus={() => setPasswordFocused(true)}
                   onBlur={() => setPasswordFocused(false)}
+                  className="w-full pl-11 pr-11 py-3 bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700 rounded-xl text-slate-900 dark:text-white placeholder:text-slate-400 font-medium text-sm focus:outline-none focus:ring-2 focus:ring-teal-500/20 focus:border-teal-500 transition-all"
+                  required
                 />
-                <button type="button" onClick={() => setShowPassword(!showPassword)} style={{ position: 'absolute', top: '50%', right: '0.5rem', transform: 'translateY(-50%)', color: 'var(--color-text-light)', background: 'none', border: 'none', cursor: 'pointer', padding: '0.5rem', borderRadius: '50%', transition: 'background 0.2s' }} onMouseOver={e=>e.currentTarget.style.backgroundColor='rgba(0,0,0,0.05)'} onMouseOut={e=>e.currentTarget.style.backgroundColor='transparent'}>
+                <button 
+                  type="button" 
+                  onClick={() => setShowPassword(!showPassword)} 
+                  className="absolute top-1/2 right-3 -translate-y-1/2 text-slate-400 hover:text-slate-600 dark:hover:text-slate-200 p-1 rounded-full cursor-pointer"
+                >
                   {showPassword ? <EyeOff size={18} /> : <Eye size={18} />}
                 </button>
               </div>
             </div>
 
             <motion.button 
-              whileHover={{ scale: 1.02 }}
-              whileTap={{ scale: 0.98 }}
+              whileHover={{ scale: 1.01 }}
+              whileTap={{ scale: 0.99 }}
               type="submit" 
-              className="btn btn-primary" 
               disabled={loading} 
-              style={{ width: '100%', padding: '0.875rem', fontSize: '1.05rem', fontWeight: 700, opacity: loading ? 0.7 : 1, borderRadius: 'var(--radius-lg)' }}
+              className="w-full py-3.5 px-4 bg-teal-600 hover:bg-teal-700 text-white font-extrabold rounded-xl shadow-md transition-all text-sm cursor-pointer disabled:opacity-70 mt-2"
             >
               {loading ? 'Authenticating...' : 'Sign In'}
             </motion.button>
           </motion.form>
 
-          <motion.div variants={itemVariants} style={{ textAlign: 'center', marginTop: '2.5rem', fontSize: '0.95rem', color: 'var(--color-text-muted)' }}>
-            Don't have an account? <Link to="/signup" style={{ fontWeight: 700, color: 'var(--color-primary)' }}>Create one now</Link>
+          <motion.div variants={itemVariants} className="text-center mt-6 text-xs sm:text-sm text-slate-500 font-medium">
+            Don't have an account? <Link to="/signup" className="font-extrabold text-teal-600 dark:text-teal-400 hover:underline">Create one now</Link>
           </motion.div>
         </motion.div>
       </div>
 
-      {/* Right: Image */}
-      <div style={{ flex: 1, position: 'relative', overflow: 'hidden' }}>
+      {/* Right: Decorative Image Banner (Desktop standard) */}
+      <div className="hidden lg:flex flex-1 relative overflow-hidden bg-slate-900">
         <motion.div 
           initial={{ scale: 1.1 }}
           animate={{ scale: 1 }}
           transition={{ duration: 1.5, ease: 'easeOut' }}
+          className="absolute inset-0 bg-cover bg-center"
           style={{
-            position: 'absolute', inset: 0,
             backgroundImage: 'url("https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=1000&q=80")',
-            backgroundSize: 'cover', backgroundPosition: 'center',
           }}
         />
-        {/* Subtle gradient overlay */}
-        <div style={{ position: 'absolute', inset: 0, background: 'linear-gradient(to right, rgba(0,0,0,0.2) 0%, rgba(0,0,0,0.5) 100%)' }} />
+        <div className="absolute inset-0 bg-gradient-to-r from-slate-950/40 to-slate-950/80" />
         
-        <div style={{ position: 'relative', height: '100%', display: 'flex', alignItems: 'flex-end', padding: '4rem' }}>
+        <div className="relative h-full flex items-end p-12">
           <motion.div 
             initial={{ opacity: 0, x: 30 }}
             animate={{ opacity: 1, x: 0 }}
             transition={{ delay: 0.3, duration: 0.7 }}
-            style={{ background: 'rgba(15, 23, 42, 0.4)', backdropFilter: 'blur(20px)', padding: '3rem', borderRadius: 'var(--radius-xl)', color: 'white', maxWidth: '440px', border: '1px solid rgba(255, 255, 255,0.15)', boxShadow: '0 25px 50px -12px rgba(0, 0, 0, 0.25)' }}
+            className="bg-slate-900/60 backdrop-blur-xl p-8 rounded-3xl text-white max-w-md border border-white/10 shadow-2xl"
           >
-            <h2 style={{ fontSize: '2.25rem', fontWeight: 800, marginBottom: '1.25rem', lineHeight: '1.15', letterSpacing: '-0.02em' }}>Unlock Authentic Local Expertise.</h2>
-            <p style={{ color: '#E2E8F0', marginBottom: '2.5rem', lineHeight: '1.7', fontSize: '1.05rem' }}>Connect with verified professional guides and experience destinations exactly how the locals do.</p>
+            <h2 className="text-3xl font-extrabold mb-4 leading-tight tracking-tight">Unlock Authentic Local Expertise.</h2>
+            <p className="text-slate-300 mb-6 leading-relaxed text-sm font-medium">Connect with verified professional guides and experience destinations exactly how the locals do.</p>
             <div className="flex items-center gap-4">
-              <div style={{ display: 'flex', marginLeft: '10px' }}>
-                {['/guide_alex.png', '/guide_elena.png', '/guide_marco.png'].map((img, i) => (
-                  <motion.img 
-                    initial={{ opacity: 0, x: -10 }}
-                    animate={{ opacity: 1, x: 0 }}
-                    transition={{ delay: 0.6 + (i * 0.1) }}
+              <div className="flex -space-x-3">
+                {['https://randomuser.me/api/portraits/men/32.jpg', 'https://randomuser.me/api/portraits/women/44.jpg', 'https://randomuser.me/api/portraits/men/70.jpg'].map((img, i) => (
+                  <img 
                     key={i} 
                     src={img} 
-                    alt="" 
-                    style={{ width: '48px', height: '48px', borderRadius: '50%', border: '3px solid #0F172A', marginLeft: '-15px', objectFit: 'cover', boxShadow: '0 4px 6px -1px rgba(0,0,0,0.1)' }} 
+                    alt="Guide Avatar" 
+                    className="w-10 h-10 rounded-full border-2 border-slate-900 object-cover shadow-sm"
                   />
                 ))}
               </div>
-              <motion.span 
-                initial={{ opacity: 0 }}
-                animate={{ opacity: 1 }}
-                transition={{ delay: 1 }}
-                style={{ fontSize: '0.9rem', fontWeight: 600, color: 'rgba(255, 255, 255,0.9)' }}
-              >
+              <span className="text-xs font-bold text-white/90">
                 Joined by 12,000+ experts
-              </motion.span>
+              </span>
             </div>
           </motion.div>
         </div>

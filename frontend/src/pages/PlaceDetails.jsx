@@ -196,8 +196,8 @@ export default function PlaceDetails() {
         image={place?.image}
       />
       
-      {/* Sticky Top Nav */}
-      <div className="sticky top-16 sm:top-20 z-50 bg-white/95 dark:bg-slate-900/95 backdrop-blur-md border-b border-slate-200/80 dark:border-slate-800 py-2 sm:py-3 px-3 sm:px-6 lg:px-8 mb-4 sm:mb-6 shadow-sm">
+      {/* Top Nav Bar */}
+      <div className="relative z-20 bg-white/95 dark:bg-slate-900/95 backdrop-blur-md border-b border-slate-200/80 dark:border-slate-800 py-2 sm:py-3 px-3 sm:px-6 lg:px-8 mb-4 sm:mb-6 shadow-sm">
         <div className="max-w-7xl mx-auto flex flex-col sm:flex-row sm:items-center justify-between gap-2.5 sm:gap-4">
           <Breadcrumbs crumbs={crumbs} noMargin={true} />
           <div className="flex items-center gap-2 shrink-0">
@@ -250,16 +250,35 @@ export default function PlaceDetails() {
           <div className="lg:col-span-2 space-y-8">
             {/* Main Image */}
             <div className="rounded-3xl overflow-hidden shadow-md h-[400px] md:h-[550px] border border-slate-200 bg-slate-200 relative group">
-              <img src={place.image} alt={place.name} className="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-105" />
+              <img 
+                src={place.image} 
+                alt={place.name} 
+                onError={(e) => {
+                  e.target.onerror = null;
+                  e.target.src = "https://images.unsplash.com/photo-1600100397608-f010f423b971?auto=format&fit=crop&w=1000&q=80";
+                }}
+                className="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-105" 
+              />
             </div>
             
             {/* Gallery */}
             <div className="grid grid-cols-3 gap-4">
-              {place.gallery.map((img, i) => (
-                <div key={i} className="rounded-2xl overflow-hidden h-28 md:h-40 shadow-sm cursor-pointer hover:opacity-90 hover:-translate-y-1 transition-all border border-slate-100">
-                  <img src={img} alt={`${place.name} Gallery ${i+1}`} className="w-full h-full object-cover" />
-                </div>
-              ))}
+              {place.gallery.map((img, i) => {
+                const cleanImg = img.replace('photo-photo-', 'photo-');
+                return (
+                  <div key={i} className="rounded-2xl overflow-hidden h-28 md:h-40 shadow-sm cursor-pointer hover:opacity-90 hover:-translate-y-1 transition-all border border-slate-100 bg-slate-100">
+                    <img 
+                      src={cleanImg} 
+                      alt={`${place.name} Gallery ${i+1}`} 
+                      onError={(e) => {
+                        e.target.onerror = null;
+                        e.target.src = "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?auto=format&fit=crop&w=800&q=80";
+                      }}
+                      className="w-full h-full object-cover" 
+                    />
+                  </div>
+                );
+              })}
             </div>
 
             {/* AI Trip Planner Call to Action Card */}
@@ -269,7 +288,7 @@ export default function PlaceDetails() {
                 <span className="inline-flex items-center gap-1.5 bg-white/20 px-3 py-1 rounded-full text-[10px] font-bold uppercase tracking-wider mb-2.5 border border-white/10">
                   <Sparkles size={12} /> AI Travel Companion
                 </span>
-                <h3 className="text-xl md:text-2xl font-extrabold truncate">Plan Your Goa Adventure</h3>
+                <h3 className="text-xl md:text-2xl font-extrabold truncate">Plan Your {stateData.name} Adventure</h3>
                 <p className="text-white/80 text-sm mt-1 max-w-lg font-medium leading-relaxed">
                   Love {place.name}? Let our AI build a custom day-by-day itinerary covering {stateData.name}'s top spots.
                 </p>
